@@ -24,7 +24,6 @@ def get_secret_or_env(key, default=None):
     Safely check Streamlit secrets, then environment variables, then default.
     """
     try:
-        # st.secrets behaves like a dict or can raise an error if not in Streamlit context
         val = st.secrets.get(key)
         if val: return val
     except Exception:
@@ -52,7 +51,11 @@ class LegalGraphClient:
             self.driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASSWORD))
             self.driver.verify_connectivity()
         except Exception as e:
-            st.error(f"Neo4j Connection Failed: {e}")
+            if "localhost" in NEO4J_URI or "127.0.0.1" in NEO4J_URI:
+                st.error("### ❌ Local Database Not Found\nPlease ensure Docker is running and execute `docker-compose up -d` inside the `database/` directory to start your local Neo4j instance.")
+            else:
+                st.error("### ❌ Remote Database Connection Failed\nIf deployed on Streamlit Cloud, verify that your Neo4j AuraDB credentials are properly configured in Streamlit Secrets (Advanced Settings).")
+            st.warning(f"Error Details: {e}")
             self.driver = None
 
     def query(self, cypher: str, params: dict = None):
@@ -107,7 +110,14 @@ for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
 
-if prompt := st.chat_input("Ask about NYC Charter, Code, or Rules..."):
+# Graceful input handling
+if db.driver is None:
+    st.info("💡 **Chat Disabled**: Please resolve the database connection issue above to start querying NYC legal data.")
+    prompt = None
+else:
+    prompt = st.chat_input("Ask about NYC Charter, Code, or Rules...")
+
+if prompt:
     st.session_state.messages.append({"role": "user", "content": prompt})
     with st.chat_message("user"):
         st.markdown(prompt)
