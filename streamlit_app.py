@@ -20,9 +20,7 @@ load_dotenv()
 
 # --- ROBUST CONFIGURATION ---
 def get_secret_or_env(key, default=None):
-    """
-    Safely check Streamlit secrets, then environment variables, then default.
-    """
+    """Safely check Streamlit secrets, then environment variables, then default."""
     try:
         val = st.secrets.get(key)
         if val: return val
@@ -30,30 +28,32 @@ def get_secret_or_env(key, default=None):
         pass
     return os.getenv(key) or default
 
-OPENAI_API_KEY = get_secret_or_env("OPENAI_API_KEY")
+# THESE MUST BE DEFINED GLOBALLY
 NEO4J_URI = get_secret_or_env("NEO4J_URI", "bolt://localhost:7687")
 NEO4J_USER = get_secret_or_env("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = get_secret_or_env("NEO4J_PASSWORD", "password123")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5")
 
 # --- UI SETUP ---
+# Must be the first Streamlit command
 st.set_page_config(page_title="Talk to NYC", page_icon="🏙️", layout="wide")
+st.title("🏙️ Talk to NYC")
+st.markdown("*NYC Regulatory Intelligence Platform — Powered by Hybrid GraphRAG*")
 
-db = get_db()
-stats_count = db.get_db_stats()
-
+# --- API KEY SIDEBAR ---
+OPENAI_API_KEY = get_secret_or_env("OPENAI_API_KEY")
 with st.sidebar:
-    st.title("🏙️ Talk to NYC")
-    st.markdown("*NYC Regulatory Intelligence Platform — Powered by Hybrid GraphRAG*")
-    st.divider()
-    st.metric(label="Nodes in Legal Graph", value=f"{stats_count:,}")
-    use_web_search = st.toggle("🌐 Enable Live Web Search", value=False, help="Use for extremely recent news, updates, or specific non-legal entities.")
-    st.info("System Status: Operational\n\nDatabase: Local Docker / Remote AuraDB\n\nIntelligence: Hybrid Graph + OpenAI 4o / Ollama")
+    st.header("⚙️ Configuration")
+    if not OPENAI_API_KEY:
+        OPENAI_API_KEY = st.text_input("Enter your OpenAI API Key to start:", type="password")
+        if not OPENAI_API_KEY:
+            st.warning("An API key is required to synthesize answers.")
+    else:
+        st.success("OpenAI API Key connected.")
+        
+    # Opt-In Web Search Toggle
+    use_web_search = st.toggle("🌐 Enable Live Web Search", help="Use for recent news or updates")
 
-st.title("🏙️ NYC Regulatory Assistant")
-
-if "messages" not in st.session_state:
-    st.session_state.messages = []
 
 # --- CORE LOGIC ---
 class LegalGraphClient:
@@ -108,6 +108,16 @@ def get_db():
     return LegalGraphClient()
 
 db = get_db()
+stats_count = db.get_db_stats()
+
+with st.sidebar:
+    st.metric(label="Nodes in Legal Graph", value=f"{stats_count:,}")
+    st.info("System Status: Operational\n\nDatabase: Local Docker / Remote AuraDB\n\nIntelligence: Hybrid Graph + OpenAI 4o / Ollama")
+
+st.title("🏙️ NYC Regulatory Assistant")
+
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
 def generate_embedding(text):
     """
