@@ -3,3 +3,6 @@
   - [x] Set up GitHub remote (`jratlee/nyc-chat`)
   - [x] Sanitize repo (remove secrets, add `.env.example`)
   - [x] Restore services and verify `nyc.localhost`
+- [x] Phase 11: Streamlit Deployment Readiness
+  - [x] Create standalone `streamlit_app.py`
+  - [x] Generate `requirements.txt` for cloud hosting

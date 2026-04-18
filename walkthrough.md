@@ -152,4 +152,20 @@ I have implemented a set of critical safety and portability fixes to ensure the 
 - ✅ **Context Injection**: Hybrid RAG and Live Search now operate with locally-resilient fallbacks.
 
 ---
+
+### Phase 11: Streamlit Deployment Readiness
+
+To provide a simplified, one-click deployment path, I have implemented a native Streamlit interface that runs alongside the primary React/FastAPI stack.
+
+#### Streamlit Features:
+- **`streamlit_app.py`**: A standalone entry point that encapsulates the Hybrid GraphRAG logic and Web Grounding into a single Python script.
+- **`requirements.txt`**: Fully configured for [Streamlit Cloud](https://streamlit.io/cloud) deployment.
+- **Native Chat**: Uses Streamlit's built-in chat components for a responsive mobile/web experience.
+
+#### To deploy on Streamlit Cloud:
+1. Connect your GitHub repository `jratlee/nyc-chat`.
+2. Point the "Main file path" to **`streamlit_app.py`**.
+3. Add your secrets (`OPENAI_API_KEY`, `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD`) to the Streamlit Cloud dashboard.
+
+---
 *Created by Antigravity for False Dawn Industries*
