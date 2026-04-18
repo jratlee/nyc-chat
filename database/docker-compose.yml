@@ -1,0 +1,1 @@
+version: '3.8'\nservices:\n  neo4j:\n    image: neo4j:latest\n    container_name: nyc_legal_graph\n    ports:\n      - "7474:7474"\n      - "7687:7687"\n    environment:\n      - NEO4J_AUTH=neo4j/password123\n      - NEO4J_PLUGINS=["apoc"]\n    volumes:\n      - ./data:/data\n      - ./logs:/logs\n      - ./import:/import\n      - ./plugins:/plugins
