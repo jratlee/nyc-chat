@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-2399" number="3632" version="83">
+			<HEADING>Chapter 34: Department of Investigation</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1511" name="Chapter 34"/>Chapter 34: Department of Investigation</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2400" number="3633" version="3">
+				<HEADING>Section 801. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-901" name="801"/>Section 801. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2401" number="3634" version="617">
+					<PARA>There shall be a department of investigation the head of which shall be the commissioner of investigation. The commissioner shall be a member of the bar of the state of New York in good standing and shall have had at least five years of law enforcement experience. The mayor may remove the commissioner upon filing in the office of the commissioner of citywide administrative services and serving upon the commissioner of investigation the reasons therefor and allowing such officer an opportunity of making a public explanation. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2402" number="3635" version="711">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1996/059" destination-id="0-0-0-0">L.L. 1996/059</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6755" number="3636" version="711">
+				<HEADING>Section 802. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-903" name="802"/>Section 802. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2403" number="3637" version="617">
+					<PARA>The commissioner may appoint two deputies, either of whom may, subject to the direction of the commissioner, conduct or preside at any investigations authorized by this chapter. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2404" number="3638" version="3">
+				<HEADING>Section 803. Powers and duties. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-905" name="803"/>Section 803. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2405" number="3639" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall make any investigation directed by the mayor or the council.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2406" number="3640" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner is authorized and empowered to make any study or investigation which in his opinion may be in the best interests of the city, including but not limited to investigations of the affairs, functions, accounts, methods, personnel or efficiency of any agency. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2407" number="3641" version="769">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner shall, on an ongoing basis, investigate, review, study, audit and make recommendations relating to the operations, policies, programs and practices, including ongoing partnerships with other law enforcement agencies, of the New York city police department with the goal of enhancing the effectiveness of the department, increasing public safety, protecting civil liberties and civil rights, and increasing the public&apos;s confidence in the police force, thus building stronger police-community relations. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2408" number="3642" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Not later than ninety days after the effective date of the local law that added this subdivision, the commissioner shall report to the council regarding the identity and qualifications of the individual responsible for overseeing the implementation of the duties described in paragraph 1 of this subdivision, the number of personnel assigned to assist that individual, and the details of the management structure covering them. Upon removal or replacement of the individual responsible for overseeing the implementation of the duties described in paragraph 1 of this subdivision, notification of that removal or replacement, and the identity and qualifications of the new individual responsible for overseeing the implementation of the duties described in paragraph 1 of this subdivision, shall be provided to the council. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2409" number="3643" version="769">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The Mayor, in consultation with the department and the New York city police department, shall have the discretion to determine how sensitive information provided to the department in connection with any investigation, review, study, or audit undertaken pursuant to this section shall be treated. The Mayor shall provide the Council with any guidelines, procedures, protocols or similar measures related to the treatment of sensitive information that he or she puts in place. Sensitive information shall mean information concerning (a) ongoing civil or criminal investigations or proceedings; (b) undercover operations; (c) the identity of confidential sources, including protected witnesses; (d) intelligence or counterintelligence matters; or (e) other matters the disclosure of which would constitute a serious threat to national security or to the safety of the people of the city of New York. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2410" number="3644" version="770">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The executive director of the civilian complaint review board and the chief of the New York city police department&apos;s internal affairs bureau shall report to the commissioner any problems and deficiencies relating to the New York city police department&apos;s operations, policies, programs and practices that he or she has reason to believe would adversely affect the effectiveness of the department, public safety, the exercise of civil liberties and civil rights, or the public&apos;s confidence in the police force, and that would be relevant to the duties of the commissioner as described in paragraph 1 of this subdivision. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2411" number="3645" version="409">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>No officer or employee of an agency of the city shall take any adverse personnel action with respect to another officer or employee in retaliation for his or her making a complaint to, disclosing information to, or responding to queries from the commissioner pursuant to activities undertaken under paragraph 1 of this subdivision unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity. Any officer or employee who believes he or she has been retaliated against for making such complaint to, disclosing such information to, or responding to such queries from the commissioner may report such action to the commissioner as provided for in subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="12-113" destination-id="0-0-0-0">12-113</LINK> of the administrative code. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2412" number="3646" version="771">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The department&apos;s website shall provide a link for individuals to report any problems and deficiencies relating to the New York city police department&apos;s operations, policies, programs and practices. Individuals making such reports shall not be required to provide personally identifying information. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2413" number="3647" version="409">
+					<PARA>
+						<TAB tab-count="1"/>c-1.<TAB tab-count="1"/>The commissioner shall prepare annual audits of surveillance technology impact and use policies as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="14-188" destination-id="0-0-0-0">14-188</LINK> of the administrative code that shall:<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-051]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5676" number="3648" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>assess whether the New York city police department&apos;s use of surveillance technology, as defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="14-188" destination-id="0-0-0-0">14-188</LINK> of the administrative code, complies with the terms of the applicable surveillance technology impact and use policy;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-051]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5675" number="3649" version="370">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>describe any known or reasonably suspected violations of the surveillance technology impact and use policy, including but not limited to complaints alleging such violations made by individuals pursuant to paragraph (6) of subdivision c of this section; and<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-051]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5674" number="3650" version="370">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>publish recommendations, if any, relating to revisions of any surveillance technology impact and use policies.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-051]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5673" number="3651" version="772">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner shall, immediately upon appointment of the individual described in paragraph 2 of this subdivision, in addition to the investigatory work done in the normal course of the commissioner&apos;s duties, on an ongoing basis, conduct system-wide investigations, reviews, studies, and audits, and make recommendations regarding system-wide operations, policies, programs, and practices of the department of correction, with the goal of improving conditions in city jails, including but not limited to, reducing violence in departmental facilities, protecting the safety of departmental employees and incarcerated individuals, protecting the rights of incarcerated individuals, and increasing the public&apos;s confidence in the department of correction. The commissioner may consider, in addition to any other information the commissioner deems relevant, information regarding civil actions filed in state or federal court against individual correction officers or the city regarding the department of correction, notices of claim received by the comptroller filed against individual correction officers or the city regarding the department of correction, settlements by the comptroller of claims filed against individual correction officers or the city regarding the department of correction, complaints received and investigations conducted by the board of correction, complaints received and any investigations regarding such complaints conducted by the department of correction, complaints received pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="804" destination-id="0-0-0-907">804</LINK>, and any criminal arrests or investigations of individual correction officers known to the department of investigation in its ongoing review of the department of correction.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-064]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2414" number="3652" version="48">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>No later than 90 days after the effective date of the local law that added this subdivision, the commissioner shall appoint an individual responsible for implementing the duties described in paragraph 1 of this subdivision and shall report to the council regarding the identity and qualifications of such individual, the number of personnel assigned or to be hired to assist such individual as deemed necessary by the commissioner, and the details of the management structure covering them. In the event such individual is removed or resigns, the commissioner shall replace such individual within 90 days of such removal or resignation and shall provide notification of such replacement, and the identity and qualifications of the new individual responsible for overseeing the implementation of the duties described in paragraph 1 of this subdivision.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2415" number="3653" version="409">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>No officer or employee of an agency of the city shall take any adverse personnel action with respect to another officer or employee in retaliation for such person making a complaint to, disclosing information to, or responding to queries from the commissioner pursuant to activities undertaken pursuant to paragraph 1 of this subdivision unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity. Any officer or employee who believes he or she has been retaliated against in violation of this subdivision may report such action to the commissioner as provided for in subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="12-113" destination-id="0-0-0-0">12-113</LINK> of the administrative code.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2416" number="3654" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The department&apos;s website will provide a link for individuals to report any problems and deficiencies relating to the department of correction&apos;s operations, policies, programs and practices. Individuals making such reports will not be required to provide personally identifying information.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2417" number="3655" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>1.<TAB tab-count="1"/>For any investigation made pursuant to subdivision a or b of this section, the commissioner shall prepare a written report or statement of findings and shall forward a copy of such report or statement to the requesting party, if any. In the event that any matter investigated, reviewed, studied, or audited pursuant to this section involves or may involve allegations of criminal conduct, the commissioner, upon completion of the investigation, review, study, or audit, shall also forward a copy of his or her written report or statement of findings to the appropriate prosecuting attorney, or, in the event the matter investigated, reviewed, studied, or audited involves or may involve a conflict of interest or unethical conduct, to the conflicts of interest board.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2418" number="3656" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>For any investigation, review, study, or audit made pursuant to paragraph 1 of subdivision c or any investigation, review, study, or audit undertaken to examine system-wide operations, policies, programs, and practices made pursuant to paragraph 1 of subdivision d of this section, the commissioner shall prepare a written report or statement of findings and, upon completion, shall forward a copy of such report or statement to the mayor, the council, and either the commissioner of correction or the police commissioner, as applicable. Within 90 days of receiving such report or statement, the police commissioner or commissioner of correction, as applicable, shall provide a written response to the commissioner, the mayor, and the council. Each such written report or statement, along with a summary of its findings, as well as the reports described in paragraph 3 of this subdivision, shall be posted on the department&apos;s website in a format that is searchable and downloadable and that facilitates printing no later than 10 days after it is delivered to the mayor, the council, and either the department of correction or the police department, as applicable. The commissioner may redact such report or statement as necessary to preserve safety and security in the facilities under the control of the department of correction. All such reports, statements, and summaries so posted on the department&apos;s website shall be made easily accessible from a direct link on the homepage of the website of the department.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2419" number="3657" version="959">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>In addition to the reports and statements of findings to be delivered to the mayor, the council, the commissioner of correction, and the police commissioner pursuant to paragraph 2 of this subdivision, there shall be an annual summary report on the activities undertaken pursuant to paragraph 1 of subdivision c and paragraph 1 of subdivision d of this section containing the following information: (a) a description of all significant findings from the investigations, reviews, studies, and audits conducted in the preceding year; (b) a description of the recommendations for corrective action made in the preceding year; (c) an identification of each recommendation described in previous annual reports on which corrective action has not been implemented or completed; and (d) the number of open investigations, reviews, studies, or audits that have been open, as of the close of the preceding calendar year, for a time period of (1) six months up to and including one year, (2) more than one year up to and including two years, (3) more than two years up to and including three years, and (4) more than three years; (e) the subject matter of each investigation, review, study, or audit relating to the police department that has been open, as of the close of the preceding calendar year, for more than three years; (f) the number of incidents where the police department did not give access to information requested by the commissioner in the performance of the duties described in paragraph 1 of subdivision c of this section, in (1) closed investigations, and (2) investigations that have been open for more than three years; and (g) the number and subject matters of investigations, reviews, studies, and audits relating to the police department that were closed without issuing a report during the preceding calendar year. The annual summary report required by this paragraph relating to the police department shall be completed and delivered to the mayor, the council, and the police commissioner on April 1, 2015 and every April 1 thereafter. The annual summary required by this paragraph relating to the department of correction shall be completed and delivered to the mayor, the council, and the commissioner of correction on April 1 beginning in 2018.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-112]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2420" number="3658" version="3">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The jurisdiction of the commissioner shall extend to any agency, officer, or employee of the city, or any person or entity doing business with the city, or any person or entity who is paid or receives money from or through the city or any agency of the city.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2421" number="3659" version="3">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The commissioner shall forward to the council and to the mayor a copy of all reports and standards prepared by the corruption prevention and management review bureau, upon issuance by the commissioner.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2422" number="3660" version="299">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>No later than 90 days after the enactment of the local law that added this subdivision, and annually thereafter, the commissioner shall submit to the council a report on total overtime hours recorded and total overtime paid to employees of the New York city housing authority for the prior calendar year. The data in such report shall be aggregated by borough and housing development and disaggregated by department and job title. Such report shall not contain any personally identifying information. Nothing within this subdivision shall limit the authority of the commissioner nor prevent the commissioner from reporting on any additional relevant information not specifically identified herein. In developing such report, the department shall seek the cooperation and assistance of the New York city housing authority.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-040]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5346" number="3661" version="299">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>No later than 90 days after the enactment of the local law that added this subdivision, and annually thereafter, the commissioner shall submit to the council a report on the number of small procurement contracts, as defined by New York city housing authority procurement rules, awarded during the prior calendar year. Such report shall include the dollar value of each contract, a description of the goods or services procured, the name of the vendor and the date the contract was awarded. The data in such report shall be aggregated by borough and housing development. Such report shall also include an analysis regarding whether or not any housing development may have awarded small procurement contracts in an effort to avoid compliance with New York city housing authority procurement rules. Nothing within this subdivision shall limit the authority of the commissioner nor prevent the commissioner from reporting on any additional relevant information not specifically identified herein. In developing such report, the department shall seek the cooperation and assistance of the New York city housing authority.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-040]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5345" number="3662" version="959">
+					<PARA>(Am. L.L. 2016/165, 12/6/2016, eff. 2/4/2017; Am. L.L. 2019/141, 7/27/2019, eff. 7/27/2019; Am. L.L. 2020/065, 7/15/2020, eff. 7/15/2020; Am. 2021 N.Y. Laws Ch. 322, 8/2/2021, eff. 8/2/2021; Am. L.L. 2025/114, 8/13/2025, eff. 8/13/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-112]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2423" number="3663" version="3">
+				<HEADING>Section 804. Complaint bureau. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-907" name="804"/>Section 804. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Complaint bureau. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2424" number="3664" version="772">
+					<PARA>There shall be a complaint bureau in the department which shall receive complaints from the public, including, but not limited to, complaints about any problems and deficiencies relating to the New York city police department&apos;s or department of correction&apos;s operations, policies, programs and practices.<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2425" number="3665" version="3">
+					<PARA>(Am. L.L. 2016/165, 12/6/2016, eff. 2/4/2017)<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24"> [ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2426" number="3666" version="3">
+				<HEADING>Section 805. Conduct of investigations. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-909" name="805"/>Section 805. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Conduct of investigations. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2427" number="3667" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purpose of ascertaining facts in connection with any study or investigation authorized by this chapter, the commissioner and each deputy shall have full power to compel the attendance of witnesses, to administer oaths and to examine such persons as he may deem necessary.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2428" number="3668" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner or any agent or employee of the department duly designated in writing by him for such purposes may administer oaths or affirmations, examine witnesses in public or private hearing, receive evidence and preside at or conduct any such study or investigation. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2429" number="3669" version="3">
+				<HEADING>Section 806. Interference with investigation. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-911" name="806"/>Section 806. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Interference with investigation. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2430" number="3670" version="46">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> became Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1128" destination-id="0-0-0-913">1128</LINK>.</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2431" number="3671" version="3">
+				<HEADING>Section 807. Inspectors general of agencies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-915" name="807"/>Section 807. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Inspectors general of agencies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2432" number="3672" version="617">
+					<PARA>No person shall be appointed as an inspector general of a city agency unless such appointment is approved by the commissioner of investigation. The commissioner of investigation shall promulgate standards of conduct and shall monitor and evaluate the activities of inspectors general in the agencies to assure uniformity of activity by them.</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4631" number="3673" version="149">
+				<HEADING>Section 808. Evaluation and recommendations.*</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1505" name="808_1"/>Section 808. Evaluation and recommendations.*</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4649" number="3674" version="770">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections numbered as Section 808. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4883" number="3675" version="149">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4648" number="3676" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Actions, claims, complaints, and investigations</CHARFORMAT>&quot; means information regarding civil actions reported pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="7-114" destination-id="0-0-0-0">7-114</LINK> of the administrative code; notices of claim filed against the police department or individual police officers, or both, received by the comptroller; settlements of claims filed against the police department or individual police officers, or both, by the comptroller; complaints received and investigations conducted by the civilian complaint review board; closed investigations conducted by the police department; reviews of police department investigations conducted by the commission to combat police corruption; complaints received pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="804" destination-id="0-0-0-907">804</LINK>; any criminal arrests or closed investigations of individual police officers known to the police department for actions taken while on duty; and claims of bias-based profiling established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="14-151" destination-id="0-0-0-0">14-151</LINK> of the code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4647" number="3677" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Inspector general for the police department</CHARFORMAT>&quot; means the individual responsible for implementing the duties set forth in paragraph 1 of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="803" destination-id="0-0-0-905">803</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4646" number="3678" version="75">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The inspector general for the police department shall, working with the law department, the comptroller, the police department, the civilian complaint review board, the commission to combat police corruption, and the commission on human rights collect and evaluate information regarding allegations or findings of improper police conduct and develop recommendations relating to the discipline, training, and monitoring of police officers and related operations, policies, programs, and practices of the police department, including, but not limited to, any system that is used by the police department to identify police officers who may be in need of enhanced training or monitoring. In developing such recommendations, the inspector general for the police department shall consider, at a minimum, the following information: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4645" number="3679" version="75">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>patterns or trends identified by analyzing actions, claims, complaints, and investigations, including, but not limited to, any patterns or trends regarding precincts and commands; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4644" number="3680" version="409">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>comparisons of closed actions reported pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="7-114" destination-id="0-0-0-0">7-114</LINK> of the administrative code with information concerning any incidents alleged to have given rise to such civil actions contained in other closed actions, claims, complaints, and investigations, as applicable; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4643" number="3681" version="75">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>steps taken by the police department in response to actions, claims, complaints, and investigations, including investigations conducted, disciplinary actions, or changes in its operations, policies, programs, and practices; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4642" number="3682" version="777">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>any recommendations issued by the comptroller, the civilian complaint review board, the commission to combat police corruption, and the commission on human rights related to actions, claims, complaints, and investigations, including, but not limited to, recommendations regarding reporting on civil actions required pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="7-114" destination-id="0-0-0-0">7-114</LINK> of the administrative code; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4641" number="3683" version="777">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>a review of criteria included in any system that is used by the police department to identify police officers who may be in need of enhanced training or monitoring and outcomes resulting from utilization of such system; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4640" number="3684" version="75">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>information on collaboration and information sharing procedures of the police department with the law department, the comptroller, the civilian complaint review board, the commission to combat police corruption, and the commission on human rights. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4639" number="3685" version="772">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any written evaluations or recommendations developed by the inspector general for the police department pursuant to subdivision b of this section shall be made available on the website of such individual&apos;s office by April 30, 2018 and annually thereafter until May 1, 2020, after which such recommendations shall be issued every three years. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4638" number="3686" version="75">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Nothing in this section shall be construed to limit the authority of either the police commissioner or the commissioner of investigation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4637" number="3687" version="777">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>All information collected, reviewed, or included in the evaluations or recommendations issued pursuant to this section shall be subject to the protections set forth in paragraph 3 of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="803" destination-id="0-0-0-905">803</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4636" number="3688" version="772">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>Nothing in this section shall be construed to require the police department to provide any information or documents pertaining to an ongoing criminal, civil, or administrative investigation or proceeding, or to disclose information regarding an individual that has requested their identity remain confidential following a report to the department of improper police conduct by another department officer or employee, concerning such officer or employee&apos;s office or employment, except as required by law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4635" number="3689" version="75">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>This section shall be construed in accordance with all applicable laws, including, but not limited to, section 50-a of the civil rights law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4633" number="3690" version="412">
+					<PARA>(L.L. 2017/166, 9/8/2017, eff. 9/8/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4876" number="3691" version="409">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2017/166" destination-id="0-0-0-0">L.L. 2017/166</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-053]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5716" number="3692" version="396">
+				<HEADING>Section 808. Public outreach and reporting.*</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1557" name="808_2"/>Section 808. Public outreach and reporting.*</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4881" number="3693" version="521">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">* <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> there are two sections numbered as Section 808. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4882" number="3694" version="149">
+					<PARA>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The department shall conduct annual outreach campaigns to educate the public on forms of government corruption, fraud, and waste, and provide information regarding how the public can submit complaints to the department. Such outreach campaigns are not limited to but whenever practicable shall include the use of print, radio, and public forums. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4880" number="3695" version="149">
+					<PARA>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The department shall post a report on its website by March 1st of each year regarding public complaints received by the department for the preceding year. Such reports shall include the total number of complaints disaggregated by the mechanism through which the complaint was submitted and a summary of relevant outreach activities. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4878" number="3696" version="149">
+					<PARA>(L.L. 2018/043, 1/11/2018, eff. 5/11/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

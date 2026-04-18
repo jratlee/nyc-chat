@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-3429" number="5184" version="3">
+			<HEADING>Chapter 54: Collective Bargaining</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1189" name="Chapter 54"/>Chapter 54: Collective Bargaining</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3430" number="5185" version="3">
+				<HEADING>Section 1170. Office of collective bargaining; director. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1191" name="1170"/>Section 1170. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Office of collective bargaining; director. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3431" number="5186" version="617">
+					<PARA>There shall be an office of collective bargaining, the head of which shall be the director of such office, who shall be the person holding the office of chairman of the board of collective bargaining. The director may appoint, and at pleasure remove, two deputies. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3432" number="5187" version="3">
+				<HEADING>Section 1171. Board of collective bargaining. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1193" name="1171"/>Section 1171. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Board of collective bargaining. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3433" number="5188" version="617">
+					<PARA>There shall be in the office of collective bargaining a board of collective bargaining, which shall consist of seven members. Two members of the board shall be city members, two members of the board shall be labor members, and three members of the board, of whom one shall be chairman, shall be impartial members. The mayor shall have the power to appoint the city members of the board to serve at his pleasure, and the labor members of the board from designations by the municipal labor committee. Each labor and city member shall have an alternate, who shall be appointed and removed in the same manner as the member for whom he is the alternate. The chairman and other impartial members shall be elected by the unanimous vote of the city and labor members, and shall serve for three year terms, provided, that of the impartial members first elected, the chairman shall serve for a term ending on January first, nineteen hundred seventy, one member shall serve for a term ending on January first nineteen hundred sixty-nine, and one member shall serve for a term ending on January first, nineteen hundred sixty-eight.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4668" number="5189" version="617">
+					<PARA>Notwithstanding any other provision of law, a labor member may not be removed from the board except upon request of the municipal labor committee, or except for cause, as hereinafter provided. Any member may be removed for cause by a majority of the entire board, including at least one city member and one labor member, after having been given a copy of the charges against him and an opportunity to be heard in person or by counsel in his defense upon not less than ten days&apos; notice. Vacancies in the office of a city member or a labor member shall be filled in the same manner as herein provided for appointment. Vacancies in the office of an impartial member occurring otherwise than by expiration of term shall be filled by unanimous vote of the city and labor members for the unexpired balance of the term. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3434" number="5190" version="3">
+				<HEADING>Section 1172. Board of certification. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1195" name="1172"/>Section 1172. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Board of certification. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3435" number="5191" version="617">
+					<PARA>There shall be in the office of collective bargaining a board of certification, which shall consist of the impartial members of the board of collective bargaining. The chairman of the board of certification shall be the person who is chairman of the board of collective bargaining. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3436" number="5192" version="3">
+				<HEADING>Section 1173. Powers and duties. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1197" name="1173"/>Section 1173. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3437" number="5193" version="617">
+					<PARA>The office of collective bargaining, the board of collective bargaining and the board of certification shall have such powers and duties with respect to labor relations and collective bargaining as shall be prescribed by law. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3438" number="5194" version="3">
+				<HEADING>Section 1174. Compensation. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1199" name="1174"/>Section 1174. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Compensation. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3439" number="5195" version="50">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Board of collective bargaining: board of certification; director.</CHARFORMAT> The city members and the labor members of the board of collective bargaining and their alternates shall serve without compensation. The director shall be salaried for his or her services as director, chair of the board of collective bargaining, and chair of the board of certification. The impartial members, excluding the director, shall be paid a per diem fee to be determined by the city members and labor members of the board of collective bargaining. The director and all members of both such boards and their alternates shall be entitled to receive reimbursement for their actual and necessary expenses incurred in the performance of their duties. Fifty per cent of the salary, fees, and expenses provided for in this subdivision shall be paid by members of the municipal committee, under rules and regulations issued by the board of collective bargaining, which rules may provide how such costs shall be distributed among such members.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3440" number="5196" version="50">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Members of mediation and impasse panels; arbitrators.</CHARFORMAT> Members of mediation and impasse panels, and arbitrators, shall be paid a per diem fee to be determined by the board of collective bargaining, unless the parties to the particular dispute shall have agreed to a different fee, and shall be reimbursed for their actual and necessary expenses incurred in the performance of their duties. The public employer and public employee organization which are parties to the particular negotiation or grievance shall each pay fifty percent of such fees and expenses and related expenses incidental to the handling of deadlocked negotiations and unresolved grievances. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3441" number="5197" version="50">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Appointment of counsel and attorneys.</CHARFORMAT> The director may appoint a counsel and attorneys, who, at the direction of the board of certification or the board of collective bargaining may appear for and represent the office of collective bargaining or either of the aforesaid boards in any legal proceeding. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3442" number="5198" version="694">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2001/028" destination-id="0-0-0-0">L.L. 2001/028</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6593" number="5199" version="694">
+				<HEADING>Section 1175. Publication of collective bargaining agreements. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1201" name="1175"/>Section 1175. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Publication of collective bargaining agreements. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3443" number="5200" version="617">
+					<PARA>Not later than sixty calendar days after the execution of a collective bargaining agreement, a copy shall be published in the City Record together with a statement by the mayor (1) of the total costs and current and future budgetary and economic consequences of the agreement and (2) of the implications and likely impact of the agreement on the efficient management of city agencies and the productivity of city employees. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3444" number="5201" version="3">
+				<HEADING>Section 1176. Budgeting for agreements. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1203" name="1176"/>Section 1176. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Budgeting for agreements. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3445" number="5202" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>So far as practicable, each collective bargaining agreement covering city employees shall be executed prior to the commencement of the fiscal year during which its provisions shall first be in effect.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3446" number="5203" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>No part of any retroactive wage or salary settlement shall be charged to the capital budget. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3447" number="5204" version="3">
+				<HEADING>Section 1177. Agency participation. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1205" name="1177"/>Section 1177. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Agency participation. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3448" number="5205" version="617">
+					<PARA>The heads of city agencies or their designated representatives shall participate in the development of the city&apos;s position with respect to work rules and practices and other matters affecting the management of each agency in advance of collective bargaining negotiations affecting employees of an agency. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

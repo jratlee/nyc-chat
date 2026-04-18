@@ -1,1 +1,7 @@
-.env\n*.log\nnode_modules/
+.env
+*.log
+database/data/
+database/logs/
+database/plugins/*.jar
+**/__pycache__/
+.DS_Store

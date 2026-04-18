@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-144669" number="8020" version="2661">
+			<HEADING>Chapter 7000: Mechanical Code</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1106" name="T01C7000"/>Chapter 7000: Mechanical Code</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-6109" number="8021" version="770">
+								<HEADING>§ 7000-01 National Fire Protection Association, Flammable Combustible Code Edition Amendment. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-1108" name="T01C7000_7000-01"/>§ 7000-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">National Fire Protection Association, Flammable Combustible Code Edition Amendment. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-104734" number="8022" version="770">
+									<PARA>(Repealed City Record 1/22/2018, eff. 2/21/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-022]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-144674" number="8023" version="2641">
+								<HEADING>§ 7015-01 Referenced Standards.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-19038" name="T01C7000_7015-01"/>§ 7015-01 Referenced Standards.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-144679" number="8024" version="2644">
+									<PARA>Pursuant to § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-103.19" destination-id="0-0-0-0">28-103.19</LINK> of the New York City Administrative Code, delete and replace the following reference standards as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144678" number="8025" version="2641">
+									<PARA>Reference standard ACCA Manual D as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new ACCA Manual D is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144675" number="8026" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ACCA</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Air Conditioning Contractors of America<LINEBRK/>2800 Shirlington Road, Suite 300<LINEBRK/>Arlington, VA 22206</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">ANSI/ACCA 1 Manual D -2016</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Residential Duct Systems</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">603.2</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144680" number="8027" version="2642">
+									<PARA>Reference standard AHRI 700 as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new AHRI 700 is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144681" number="8028" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">AHRI</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Air-Conditioning, Heating and Refrigeration Institute<LINEBRK/>4100 North Fairfax Drive, Suite 200<LINEBRK/>Arlington, VA 22203</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">700 -2019</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard for Specifications for Refrigerants</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">1102.2.2.3</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144682" number="8029" version="2642">
+									<PARA>Reference standard ASME CSD-1 as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new ASME CSD-1 is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144683" number="8030" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ASME</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">American Society of Mechanical Engineers<LINEBRK/>Three Park Avenue<LINEBRK/>New York, NY 10016-5990</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">CSD-1 -2012</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Controls and Safety Devices for Automatically Fired Boilers</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">1004.1, 1004.1.1, 1004.8, 1006.1, 1006.2, 1006.3, 1006.4, 1007.1, 1007.2, 1007.3, 1010.2.1, 1011.1</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144684" number="8031" version="2642">
+									<PARA>Reference standard NFPA 54 as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new NFPA 54 is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144685" number="8032" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NFPA</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">National Fire Protection Association<LINEBRK/>1 Batterymarch Park<LINEBRK/>Quincy, MA 02169-7471</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">54 -2018</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">National Fuel Gas Code</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">504.9, 901.2, 910.7</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144686" number="8033" version="2642">
+									<PARA>Reference standard NSF 358-1 as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new NSF 358-1 is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144687" number="8034" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">NSF</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">NSF International<LINEBRK/>789 Dixboro Road, P.O. Box 130140<LINEBRK/>Ann Arbor, MI 48113-0140</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">NSF 358-1 -2014</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Polyethylene Pipe and Fittings for Water-Based Ground-Source “Geothermal” Heat Pump Systems</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Table 1210.4, Table 1210.5</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144688" number="8035" version="2642">
+									<PARA>Reference standard SMACNA as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new SMACNA is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144689" number="8036" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">SMACNA</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Sheet Metal &amp; Air-Conditioning Contractors National Association, Inc.<LINEBRK/>4201 Lafayette Center Drive<LINEBRK/>Chantilly, VA 20151-1209</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">SMACNA -2021</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Fibrous Glass Duct Construction Standards</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">603.5</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144690" number="8037" version="2642">
+									<PARA>Reference standard UL 2158A as added by Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="MC 1502" destination-id="0-0-0-0">MC 1502</LINK> of the New York City Mechanical Code is hereby deleted and a new UL 2158A is added to read as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144676" number="8038" version="2642">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" space-before="212">
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+												<COLUMNFORMAT column-width="144" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">UL</CHARFORMAT>
+														</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">UL LLC<LINEBRK/>333 Pfingsten Road<LINEBRK/>Northbrook, IL 60062-2096</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">
+															</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard Reference<LINEBRK/>Number</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Title</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT alignment="bottom" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Referenced in code<LINEBRK/>section number</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">2158A -2017</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">Standard for Clothes Dryer Transition Duct</CELLFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<PARAFORMAT justify="right">
+															<CELLFORMAT left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000">504.8.3</CELLFORMAT>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-144691" number="8039" version="2642">
+									<PARA>(Added City Record 11/15/2023, eff. 12/15/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-092]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

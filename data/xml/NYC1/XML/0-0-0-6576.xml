@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-6576" number="4984" version="683">
+			<HEADING>Chapter 50: Term Limits</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1153" name="Chapter 50"/>Chapter 50: Term Limits</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3291" number="4985" version="664">
+				<HEADING>Section 1137. Public policy.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1155" name="1137"/>Section 1137. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public policy.</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3292" number="4986" version="664">
+					<PARA>It is hereby declared to be the public policy of the city of New York to limit the time elected officials can serve as mayor, public advocate, comptroller, borough president and council member so that there is more opportunity for citizen participation in the legislative and executive branches and the airing of a greater diversity of ideas. It is further declared that this policy is most appropriately served by limiting the time such officials can serve to not more than two consecutive full terms. It is further declared that public confidence in government should be protected by restricting amendments that would affect the application of term limits to any elected official then in office.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3293" number="4987" version="664">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2008/051" destination-id="0-0-0-0">L.L. 2008/051</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6550" number="4988" version="664">
+				<HEADING>Section 1138. Term limits. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1157" name="1138"/>Section 1138. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Term limits. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3294" number="4989" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Notwithstanding any provision to the contrary contained in this charter, no person shall be eligible to be elected to or serve in the office of mayor, public advocate, comptroller, borough president or council member if that person had previously held such office for two or more consecutive full terms, unless one full term or more has elapsed since that person last held such office.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3295" number="4990" version="664">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding any other provision to the contrary, no local law may be enacted by the city council, including but not limited to amendment of the provisions of this chapter, if such local law would alter or permit alteration of the term limit set forth in this section as such limit applies to any person then serving in the office of mayor, public advocate, comptroller, borough president or council member.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3296" number="4991" version="664">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Severability.</CHARFORMAT> If any provision of this section, or any provision of paragraph one of subdivision k of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1152" destination-id="0-0-0-1183">eleven hundred fifty-two</LINK> relating to the application of this section, shall be held invalid or ineffective in whole or in part or inapplicable to any person or situation, such holding shall not affect, impair or invalidate the remainder of this section and such paragraph, and all other provisions thereof shall nevertheless be separately and fully effective and the application of any such provision to other persons or situations shall not be affected.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5793" number="4992" version="664">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2008/051" destination-id="0-0-0-0">L.L. 2008/051</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

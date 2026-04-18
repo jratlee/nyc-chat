@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-4" number="4" version="613">
+			<HEADING>Preamble</HEADING>
+			<PARA>Preamble</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-6346" number="5" version="613">
+				<PARA>We, the people of New York city, declare that our city is a multiracial democracy, and that our diversity is our strength. We honor and respect the cultures, languages, and histories of all who call and have called this land home, and we celebrate their revolutionary imagination, courage, and resiliency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6354" number="6" version="613">
+				<PARA>We strive to be a city where the value, talents, and contributions of every New Yorker are recognized and embraced, and where equity and inclusiveness, community empowerment, accessibility, and opportunity for every New Yorker are the unwavering standards to which we are held accountable in all aspects of governance, business, and service delivery. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6353" number="7" version="613">
+				<PARA>We endeavor to ensure that every person who resides in New York city has the opportunity to thrive with: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6352" number="8" version="1004">
+				<PARA>
+					<TAB tab-count="1"/>(i)<TAB tab-count="1"/>A safe, healthy, and sustainable living environment; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6351" number="9" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>A resilient neighborhood served by quality and accessible infrastructure and services as well as a robust local economy; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6350" number="10" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Vibrant and welcoming public spaces throughout New York city, where everyone belongs and can move freely; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6349" number="11" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Resources necessary to prosper economically and build wealth; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6348" number="12" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(v)<TAB tab-count="1"/>Safe, secure, and affordable housing; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6347" number="13" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Quality and culturally-relevant child and youth supports, including early childhood and pre-kindergarten through twelfth grade education; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6345" number="14" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>Compassionate and culturally-responsive health, trauma, and mental health care; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6344" number="15" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Access and opportunity to participate meaningfully in government decision-making; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6343" number="16" version="613">
+				<PARA>
+					<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>Humane, empathetic, and respectful treatment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6342" number="17" version="613">
+				<PARA>We recognize that New York city sits on the traditional territories of the original inhabitants, the Lenape, and we endeavor to honor their stewardship of the land by protecting our environment and all living things. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6341" number="18" version="772">
+				<PARA>We acknowledge the grave injustices and atrocities that form part of our country&apos;s history, including the forced labor of enslaved Africans, the colonialism that displaced Indigenous people from their lands, the devaluing and underpaying of immigrant workers, and the discrimination, racial segregation, mass incarceration, and other forms of violence and systemic inequity that continue to be experienced by marginalized groups, including, but not limited to, Black, Indigenous, Latinx, Asian, Pacific Islander, Middle Eastern, and other People of Color, women, religious minorities, immigrants, people who are LGBTQ+, and people with disabilities. We also recognize that these systemic injustices are at the foundation of so many of society&apos;s structures and institutions, and have caused profound physical, emotional, social, and psychological harm and trauma to individuals, families, and communities. They have also resulted in widespread loss of economic opportunity and intergenerational wealth. The effects of these harms are deeply engrained, systemic, and continuing. We are ever mindful that vigilance is required to prevent the recurrence of past or worsening of continuing harms. We must act intentionally to remedy these past and continuing harms and to reconstruct, revise and reimagine our foundations, structures, institutions, and laws to promote justice and equity for all New Yorkers. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6339" number="19" version="613">
+				<PARA>The collective values set out in this preamble will guide the operation of our city government and inform and shape how the city carries out the duties, obligations, and authorities, and upholds and protects the rights set out in the charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6338" number="20" version="613">
+				<PARA>We, the people of New York city, united in our resolve to build a just and equitable city for all, recognize the efforts of those New Yorkers, past and present, who fought for racial equity and social justice, honor the contributions of those New Yorkers who have suffered in the name of freedom, and acknowledge all who fought, struggled, and dreamed for a better life and a better city. Together, we stand on their shoulders as we move boldly toward a brighter tomorrow for ourselves, our children, and future generations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+			<RECORD id="0-0-0-6337" number="21" version="613">
+				<PARA>(L.L. 2022/121, 12/2/2022, eff. 12/2/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-080]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

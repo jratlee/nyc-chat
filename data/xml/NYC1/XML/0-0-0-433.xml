@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-433" number="1196" version="3">
+			<HEADING>Chapter 2-A: Districting Commission</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-159" name="Chapter 2-a"/>Chapter 2-A: Districting Commission</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-434" number="1197" version="456">
+				<HEADING>Section 50. Districting commission; composition; appointment; terms; vacancies; compensation. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-161" name="50"/>Section 50. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Districting commission; composition; appointment; terms; vacancies; compensation. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-435" number="1198" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be a districting commission consisting of fifteen members appointed as provided in this section.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-436" number="1199" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The council delegation of the political party which has the largest delegation in the council shall, by majority vote, appoint five members of the commission, no more than one of whom may be a resident of the same borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-437" number="1200" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The council delegation of the political party which has the second largest delegation in the council, shall, by majority vote, appoint three members of the commission, no more than one of whom may be a resident of the same borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-438" number="1201" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>If only one political party has a council delegation, then the chairpersons of the county committees of the political party with no council delegation which, at the time of the general election last preceding the time at which such appointments are required to be made, had the largest number of enrolled voters in the city, shall each submit three nominations to the mayor, in order to provide a list of fifteen nominations from that party. The mayor shall appoint three members from such list, no more than one of whom may be a resident of the same borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-439" number="1202" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The mayor shall appoint seven additional members, but the party enrollment, if any, of these additional members shall be such that individuals enrolled in a single political party shall not be a majority of the total number of members of the commission. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-440" number="1203" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Officers and employees of the city or any city agency, lobbyists required to file a statement of registration under federal, state or local law, the employees of such lobbyists, federal, state and local elected officials, and officers of any political party shall not be eligible to be members of the commission. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-441" number="1204" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The members of the commission shall elect one of the fifteen members to serve as the chair of the commission. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-442" number="1205" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>For purposes of this section, a member of the council who was elected to the council upon the nomination of more than one political party shall be considered to be a member of the council delegation of the political party on whose ballot line he or she received the largest number of votes in his or her last election to the council. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-443" number="1206" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commission shall have among its members (a) at least one resident of each borough, and (b) members of the racial and language minority groups in New York city which are protected by the United States voting rights act of nineteen hundred sixty-five, as amended, in proportion, as close as practicable, to their population in the city. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-444" number="1207" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The mayor, no later than twenty-two months before the general election of the council to be held in the year nineteen hundred and ninety-three, and every ten years thereafter, shall convene one or more meetings of all of the appointing and recommending authorities specified in subdivision a of this section for the purpose of establishing a screening and selection process for ensuring that the racial and language minority groups in New York city which are protected by the United States voting rights act of nineteen hundred sixty-five, as amended, will be fairly represented on the commission.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-445" number="1208" version="327">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Each council delegation authorized by subdivision a of this section to make appointments to the commission shall make such appointments no earlier than one year and ten months before, and no later than one year and nine months before, the general election of the council to be held in the year nineteen hundred ninety-three, and every ten years thereafter. In any case in which the chairpersons of the county committees of a political party are authorized to submit nominations to the mayor, such nominations shall be submitted no earlier than one year and ten months before, and no later than one year and nine months before, the general election of the council to be held in the year nineteen hundred ninety-three, and every ten years thereafter. The mayor shall make appointments to the commission after each council delegation authorized to make appointments has done so but not later than one year and eight months before such a general election of the council. The commission&apos;s term shall end sixty days after the day of the first general election of the council following the commission&apos;s adoption of a districting plan, as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="51" destination-id="0-0-0-163">fifty-one</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-446" number="1209" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>In the event of a vacancy by death, resignation or otherwise, a new member enrolled in the same political party from which his or her predecessor was selected shall be appointed in the same manner as the member whose departure from the commission created the vacancy to serve the balance of the term remaining. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-447" number="1210" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>No member of the districting commission shall be removed from office except by the person or persons who appointed such member and only for cause and upon notice and hearing. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-448" number="1211" version="3">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The members of the commission shall serve without compensation except that each member shall be allowed actual and necessary expenses to be audited in the same manner as other city charges. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-449" number="1212" version="48">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The commission may hire or contract for necessary staff assistance and may require agencies of city government to provide technical assistance. The commission shall have a budget as provided by the mayor. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-450" number="1213" version="411">
+					<PARA>(Am. L.L. 2019/215, 12/11/2019, eff. 12/11/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5425" number="1214" version="327">
+				<HEADING>Section 51. Powers and duties of the commission; hearings; submissions and approval of plan. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-163" name="51"/>Section 51. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties of the commission; hearings; submissions and approval of plan. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-451" number="1215" version="82">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Following each decennial census, the commission shall prepare a plan for dividing the city into districts for the election of council members. In preparing the plan, the commission shall be guided by the criteria set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="52" destination-id="0-0-0-165">fifty-two</LINK>.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-452" number="1216" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commission shall hold one or more public hearings not less than one month before it submits its plan to the city council, in accordance with subdivision c of this section. The commission shall make its plan available to the public for inspection and comment not less than one month before the first such public hearing. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-453" number="1217" version="327">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commission shall submit its plan to the city council not less than one year and three months before the general election of the city council to be held in the year nineteen hundred ninety-three and every ten years thereafter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-454" number="1218" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The plan submitted in accordance with subdivision c of this section shall be deemed adopted unless within three weeks, the council by the vote of a majority of all of its members adopts a resolution objecting to such plan and returns the plan to the commission with such resolution and a statement of its objections, and with copies of the written objections of any individual members of the council who have submitted objections to the speaker prior to such date. Any objections from individual members submitted to the speaker by such date shall be transmitted to the districting commission whether or not the council objects to such districting plan. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-456" number="1219" version="327">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>Upon the receipt of any such resolution and objections, the commission shall prepare a revised plan and shall, no later than one year and one month before such general election of the city council, make such plan available to the council and the public for inspection and comment. The commission shall hold public hearings and seek public comment on such revised plan. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5427" number="1220" version="327">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>Following its consideration of the comments received pursuant to subdivision e of this section, the commission shall, no later than eleven months before such general election of the council, prepare and submit a final plan for the redistricting of the council. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-457" number="1221" version="82">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>Notwithstanding the provisions of subdivision d or subdivision f of this section, no plan shall be deemed adopted in accordance with either of such subdivisions until the commission files, with the city clerk, a copy of such plan and a statement signed by at least nine members of the commission certifying that, within the constraint of paragraph a of subdivision one of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="52" destination-id="0-0-0-165">fifty-two</LINK>, the criteria set forth in the other paragraphs of such subdivision have been applied in the order in which they are listed and that such criteria have been implemented, in such order, to the maximum extent practicable. Such certification shall also set forth the manner in which the commission implemented the requirements of paragraph b of subdivision one of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="51" destination-id="0-0-0-163">fifty-two</LINK>. Such plan shall be deemed adopted upon the commission&apos;s filing with the city clerk of such plan and such certification. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-458" number="1222" version="48">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>After the commission files its final plan with the city clerk pursuant to subdivision g of this section, the commission shall take all steps necessary to ensure that such plan is effectuated, including but not limited to submitting such plan for preclearance by the United States department of justice pursuant to the United States voting rights act of nineteen hundred sixty-five, as amended, and making such adjustments in its plan as may be necessary and appropriate to respond to a determination of a court or the United States department of justice. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-459" number="1223" version="411">
+					<PARA>(Am. L.L. 2019/215, 12/11/2019, eff. 12/11/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5426" number="1224" version="327">
+				<HEADING>Section 52. District plan; criteria. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-165" name="52"/>Section 52. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">District plan; criteria. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-460" number="1225" version="3">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>In the preparation of its plan for dividing the city into districts for the election of council members, the commission shall apply the criteria set forth in the following paragraphs to the maximum extent practicable. The following paragraphs shall be applied and given priority in the order in which they are listed.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-461" number="1226" version="768">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The difference in population between the least populous and the most populous districts shall not exceed ten per centum (10%) of the average population for all districts, according to figures available from the most recent decennial census. Any such differences in population must be justified by the other criteria set forth in this section. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-462" number="1227" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such districting plan shall be established in a manner that ensures the fair and effective representation of the racial and language minority groups in New York city which are protected by the United States voting rights act of nineteen hundred sixty-five, as amended. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-463" number="1228" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>District lines shall keep intact neighborhoods and communities with established ties of common interest and association, whether historical, racial, economic, ethnic, religious or other. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-464" number="1229" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Each district shall be compact and shall be no more than twice as long as it is wide. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-465" number="1230" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>A district shall not cross borough or county boundaries. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-466" number="1231" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>Districts shall not be drawn for the purpose of separating geographic concentrations of voters enrolled in the same political party into two or more districts in order to diminish the effective representation of such voters. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-467" number="1232" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The districting plan shall be established in a manner that minimizes the sum of the length of the boundaries of all of the districts included in the plan. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-468" number="1233" version="3">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Each district shall be contiguous, and whenever a part of a district is separated from the rest of the district by a body of water, there shall be a connection by a bridge, a tunnel, a tramway or by regular ferry service. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-469" number="1234" version="48">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>If any district includes territory in two boroughs, then no other district may also include territory from the same two boroughs. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

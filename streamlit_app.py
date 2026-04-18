@@ -168,16 +168,27 @@ if prompt:
                     {"emb": emb}
                 )
             
-            # B. Cypher Fallback/Search (FIXED CYPHER INJECTION)
-            search_term = prompt[-5:] if len(prompt) >= 5 else prompt
+            # 2. Cypher Fallback/Search (Refined Keyword Matching)
+            # Grab the longest word from the prompt to use as a fuzzy keyword fallback
+            words = sorted(prompt.split(), key=len, reverse=True)
+            search_term = words[0] if words else prompt
+            
             cypher = """
             MATCH (n) 
-            WHERE n.id CONTAINS $search_term OR n.id CONTAINS '28-' 
+            WHERE toLower(n.id) CONTAINS toLower($search_term) 
+               OR toLower(n.description) CONTAINS toLower($search_term)
             RETURN n.id as id, n.description as desc 
             LIMIT 3
             """
             graph_res = db.query(cypher, {"search_term": search_term})
-            context_nodes = vector_res + graph_res
+            
+            # Combine and deduplicate context nodes
+            seen_ids = set()
+            context_nodes = []
+            for node in (vector_res + graph_res):
+                if node.get('id') not in seen_ids:
+                    seen_ids.add(node.get('id'))
+                    context_nodes.append(node)
             
             # C. Web search if toggled
             if use_web_search:
@@ -227,15 +238,20 @@ if prompt:
         response_placeholder.markdown(full_response)
         
         # 3. Citation Expander
-        citations = []
-        for n in context_nodes:
-            citations.append(f"**{n['id']}**: {n['desc'][:200]}...")
-        if web_context:
-            citations.append(f"**Live Web Findings**:\n{web_context}")
+        with st.expander("📚 View References & Citations"):
+            for n in context_nodes:
+                # Safely handle missing IDs or descriptions
+                node_id = n.get('id') or "Unknown Citation"
+                node_desc = n.get('desc') or "No summary available in the legal graph."
+                
+                # Safely slice the description string
+                short_desc = node_desc[:250] + "..." if len(node_desc) > 250 else node_desc
+                st.markdown(f"- **{node_id}**: {short_desc}")
             
-        if citations:
-            with st.expander("📚 View References & Citations"):
-                for cite in citations:
-                    st.markdown(cite)
+            if use_web_search and web_context:
+                st.markdown("---")
+                st.markdown("**Web Search Context:**")
+                st.markdown(web_context)
         
-        st.session_state.messages.append({"role": "assistant", "content": full_response, "citations": citations})
+        # We store citations as context_nodes for session history consistency
+        st.session_state.messages.append({"role": "assistant", "content": full_response, "citations": context_nodes})

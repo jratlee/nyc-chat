@@ -1,0 +1,524 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-472" number="1237" version="3">
+			<HEADING>Chapter 4: Borough Presidents.</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-169" name="Chapter 4"/>Chapter 4: Borough Presidents.</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-473" number="1238" version="3">
+				<HEADING>Section 81. Qualifications; election; term; salary; removal; vacancy. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-171" name="81"/>Section 81. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualifications; election; term; salary; removal; vacancy. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-474" number="1239" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be a president of each borough, who shall be a resident thereof at the time of election and remain a resident thereof throughout the term of office.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-475" number="1240" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The borough president shall be elected by the electors of the borough at the same time and for the same term as in this charter prescribed for the mayor. A borough president who resigns or is removed from office prior to the completion of a full term shall be deemed to have served a full term for purposes of section 1138 of the charter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-476" number="1241" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The salary of the borough president shall be one hundred seventy-nine thousand two hundred dollars a year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-477" number="1242" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>A president of a borough may be removed or suspended in the same manner as provided in this charter with respect to the mayor. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-478" number="1243" version="80">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>Any vacancy in the office of a borough president shall be filled by popular election in the manner set forth in this subdivision. Until an interim or permanent successor is first elected, the deputy borough president or the executive assistant, in the order of priority specified by the borough president pursuant to subdivision one of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="82" destination-id="0-0-0-173">eighty-two</LINK>, shall act as borough president. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-479" number="1244" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Within three days of the occurrence of a vacancy in a borough presidency, the mayor shall proclaim the date for the election or elections required by this subdivision, provide notice of such proclamation to the city clerk and the board of elections and publish notice thereof in the City Record. After the proclamation of the date for an election to be held pursuant to paragraphs four or five of this subdivision, the city clerk shall publish notice thereof not less than twice in each week preceding the date of such election in newspapers distributed within the city, and the board of elections shall mail notice of such election to all registered voters within the appropriate borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-480" number="1245" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>If a vacancy occurs during the first three years of the term, a general election to fill the vacancy for the remainder of the unexpired term shall be held in the year in which the vacancy occurs, unless the vacancy occurs after the last day on which an occurring vacancy may be filled at the general election in that same year with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law. If such a vacancy occurs in any year after such last day, it shall be filled for the remainder of the unexpired term at the general election in the following year provided, however, that no general election to fill a vacancy shall be held in the last year of the term, except as provided in paragraph nine of this subdivision. Party nominations of candidates for a general election to fill a vacancy for the remainder of the unexpired term shall be made at a primary election, except as provided in paragraph five of this subdivision. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-481" number="1246" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>If a special or general election to fill the vacancy on an interim basis has not been previously held pursuant to paragraphs four, six, seven and eight of this subdivision, the person elected to fill the vacancy for the remainder of the unexpired term at a general election shall take office immediately upon qualification and shall serve until the term expires. If a special or general election to fill the vacancy on an interim basis has been previously held, the person elected to fill the vacancy for the remainder of the unexpired term at a general election shall take office on January first of the year following such general election and shall serve until the term expires. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-482" number="1247" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>If a vacancy occurs during the first three years of the term and on or before the last day in the third year of the term on which an occurring vacancy may be filled for the remainder of the unexpired term at a general election with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law, a special or general election to fill the vacancy on an interim basis shall be held, unless the vacancy occurs less than ninety days before the next primary election at which party nominations for a general election to fill the vacancy may be made and on or before the last day on which an occurring vacancy may be filled for the remainder of the unexpired term at the general election in the same year in which the vacancy occurs with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-483" number="1248" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>If a vacancy occurs after the last day in the third year of the term on which an occurring vacancy may be filled for the remainder of the unexpired term at a general election in each year with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law, but not less than ninety days before the date of the primary election in the fourth year of such term, a special or general election to fill such vacancy for the remainder of the unexpired term shall be held. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-487" number="1249" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Elections held pursuant to paragraph four or five of this subdivision shall be scheduled in the following manner: A special election to fill the vacancy shall be held on the first Tuesday at least eighty days after the occurrence of the vacancy, provided that the mayor, in the proclamation required by paragraph one of this subdivision, may schedule such election for another day no more than ten days after such Tuesday and not less than seventy-five days after such proclamation if the mayor determines that such rescheduling is necessary to facilitate maximum voter participation; except that <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5431" number="1250" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is less than ninety days before a regularly scheduled general election, the vacancy shall be filled at such general election; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5430" number="1251" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after a regularly scheduled general election, the vacancy shall be filled at such general election; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5429" number="1252" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>if the vacancy occurs on or after August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after, but less than thirty days after, a regularly scheduled general election, the vacancy shall be filled at a special election to be held on the first Tuesday in December in such year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-488" number="1253" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>All nominations for elections to fill vacancies held pursuant to paragraphs four and five of this subdivision shall be by independent nominating petition. A signature on an independent nominating petition made earlier than the date of the proclamation required by paragraph one of this subdivision shall not be counted. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-489" number="1254" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>A person elected to fill a vacancy in a borough presidency at an election held pursuant to paragraph four of this subdivision shall take office immediately upon qualification and serve until December thirty-first of the year in which the vacancy is filled for the remainder of the unexpired term pursuant to paragraph two of this subdivision. A person elected to fill a vacancy in a borough presidency at an election held pursuant to paragraph five of this subdivision shall take office immediately upon qualification and serve until the term expires. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-490" number="1255" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>If a vacancy occurs less than ninety days before the date of the primary election in the last year of the term, the person elected at the general election in such year for the next succeeding term shall take office immediately upon qualification and fill the vacancy for the remainder of the unexpired term. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-492" number="1256" version="411">
+					<PARA>(Am. L.L. 2016/019, 2/19/2016, retro. eff. 1/1/2016; Am. L.L. 2019/215, 12/11/2019, eff. 12/11/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5428" number="1257" version="689">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2002/027" destination-id="0-0-0-0">L.L. 2002/027</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2006/051" destination-id="0-0-0-0">L.L. 2006/051</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6565" number="1258" version="672">
+				<HEADING>Section 82. Powers and duties. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-173" name="82"/>Section 82. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-493" number="1259" version="616">
+					<PARA>The president of a borough shall:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-494" number="1260" version="616">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Appoint and may at pleasure remove a deputy and an executive assistant, either of whom may discharge such of the powers of the president of the borough as the president by instrument in writing, filed in the borough president&apos;s office and with the city clerk and each board, body or committee of which the borough president is a member, may delegate to either of them either the deputy or the executive assistant, designated pursuant to this subdivision, in the order of priority specified by the president in such instrument, shall, when such office becomes vacant, or when such president is prevented from attending to the duties of the office, by reason of sickness, absence from the city or suspension from office, temporarily act as such president. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-495" number="1261" version="616">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Have power to appoint a secretary and such assistants, clerks and subordinates as such borough president may deem necessary, within the appropriation therefor. The said secretary, assistants, clerks and subordinates shall hold office at the pleasure of the president, subject to the provisions of the civil service law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-496" number="1262" version="988">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Continue to maintain a topographical bureau for such borough and appoint the director of the bureau who shall also serve as construction coordinator and consulting engineer for the borough and shall have qualifications as a licensed professional engineer, provided that upon consolidation of the city map pursuant to paragraph one of subdivision b of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="198" destination-id="0-0-0-283">one hundred ninety-eight</LINK>, the president of a borough need not maintain such topographical bureau or appoint the director of such bureau. If such bureau is maintained, in addition to other duties, the director of the bureau shall monitor capital projects in the borough and shall be available to serve as an expediter on construction projects in the borough and provide technical assistance with respect to construction projects. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-497" number="1263" version="616">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Have power to recommend capital projects. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-498" number="1264" version="616">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Have power to hold public hearings on matters of public interest. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-499" number="1265" version="616">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Make recommendations to the mayor and to other city officials in the interests of the people of the borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-500" number="1266" version="616">
+					<PARA>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>Within appropriations therefor, establish and maintain a budget office for the borough to assist the borough president in the preparation of budget proposals, review and analysis of proposed budgets, departmental estimates, budget modifications and other fiscal matters under the jurisdiction of the president of the borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-501" number="1267" version="616">
+					<PARA>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>Consult with the mayor in the preparation of the executive expense budget and the executive capital budget and submit proposed appropriations and other budget recommendations to the mayor and the council in accordance with <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="Chapter 3" destination-id="0-0-0-167">chapters three</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="Chapter 6" destination-id="0-0-0-197">six</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="Chapter 9" destination-id="0-0-0-301">nine</LINK> of the charter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-502" number="1268" version="616">
+					<PARA>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>Establish and maintain a planning office for the borough to assist the borough president in planning for the growth, improvement and development of the borough; reviewing and making recommendations regarding applications and proposals for the use, development or improvement of land located within the borough; preparing environmental analyses required by law; providing technical assistance to the community boards within the borough; and performing such other planning functions as are assigned to the borough president by this charter or other law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-503" number="1269" version="616">
+					<PARA>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>Monitor and make recommendations regarding the performance of contracts providing for the delivery of services in the borough and, when the borough president deems it appropriate, require that a hearing be held in the borough by a contract performance panel. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-504" number="1270" version="616">
+					<PARA>
+						<TAB tab-count="1"/>11.<TAB tab-count="1"/>Have power to have legislation introduced in the council; such proposed legislation shall indicate that it was introduced at the behest of the borough president. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-505" number="1271" version="616">
+					<PARA>
+						<TAB tab-count="1"/>12.<TAB tab-count="1"/>Provide training and technical assistance to the members of community boards within the borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-506" number="1272" version="616">
+					<PARA>
+						<TAB tab-count="1"/>13.<TAB tab-count="1"/>Oversee the coordination of a borough-wide public service complaint program and report to the mayor, council president and public on recurring complaints of borough residents and the borough president&apos;s recommendations for improving the city&apos;s response to such complaints. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-507" number="1273" version="616">
+					<PARA>
+						<TAB tab-count="1"/>14.<TAB tab-count="1"/>On or before the first day of September nineteen hundred ninety, and every four years thereafter, prepare a strategic policy statement for the borough and provide copies of such statement to the mayor, council and community boards in the borough. Such statement shall include: (i) a summary of the most significant long-term issues faced by the borough; (ii) policy goals related to such issues; and (iii) proposed strategies for meeting such goals. In preparing the statement, the borough president shall consult with the community boards in the borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-508" number="1274" version="616">
+					<PARA>
+						<TAB tab-count="1"/>15.<TAB tab-count="1"/>Make a complete transcript of each public hearing called by the borough president available for public inspection free of charge within sixty days after the hearing and provide a copy of any requested pages of such transcript at a reasonable fee to cover copying and, if relevant, mailing costs. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-509" number="1275" version="616">
+					<PARA>
+						<TAB tab-count="1"/>16.<TAB tab-count="1"/>Perform such other functions and duties and exercise such other powers as may be assigned by law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5157" number="1276" version="616">
+					<PARA>
+						<TAB tab-count="1"/>17.<TAB tab-count="1"/>a.<TAB tab-count="1"/>No later than July 1, 2019, and by July 1 of each year thereafter, each borough president shall submit to the mayor and the speaker of the council and shall make available on the borough president&apos;s website a report in a format that is searchable and downloadable that shall include the following information for the previous calendar year, or as otherwise specified: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5183" number="1277" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The names of persons serving in community board member positions in the previous calendar year, disaggregated by community district, including the first date of appointment, dates of reappointment, if any, length of service, nominating council member or other nominating party, and community board leadership positions, if any; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5182" number="1278" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Demographic information about community board members voluntarily disclosed pursuant to clause (v) of subparagraph 1 of paragraph b of this subdivision for each community board in an aggregate form that is anonymized. provided, however, that age shall be reported in 10 year age ranges, and provided further that no information shall be required to be reported pursuant to this subparagraph if such information may be withheld from disclosure pursuant to article 6 of the New York public officers law; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5181" number="1279" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>The number of vacant community board member positions within the borough, disaggregated by community district; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5180" number="1280" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>A description of the borough president&apos;s recruitment plan for filling vacant community board member positions, including: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5179" number="1281" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>A description of outreach efforts to publicize community board member openings; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5178" number="1282" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The particular methods used to seek out candidates for membership from diverse backgrounds, including with regard to race, ethnicity, gender, age, disability status, sexual orientation, language, geographic residence, and other characteristics the borough president deems relevant to promoting diversity and inclusion of under-represented groups and communities within community boards: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5177" number="1283" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The number of applicants for open community board member positions received, disaggregated by community district; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5176" number="1284" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>The number of persons interviewed for open community board member positions, disaggregated by community district; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5175" number="1285" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>A general description of the evaluation criteria followed in the selection process; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5174" number="1286" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Any particular tools employed by such borough president in the selection process, such as the use of a screening panel; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5173" number="1287" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Each borough president shall make available on the borough president&apos;s website an application for community board member positions, which shall include, but not be limited to, the following information regarding the applicant: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5172" number="1288" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Name and address; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5171" number="1289" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Residence, business, professional or other significant interest in the community district; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5170" number="1290" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Past service on a community board, including prior appointment dates and number and length of prior terms served; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5169" number="1291" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>Age, if less than 18 years old, or a certification that the applicant is at least 18 years old; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5168" number="1292" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(v)<TAB tab-count="1"/>The option to provide additional demographic information, including age, gender, race, ethnicity, sexual orientation, disability status, languages spoken, or other demographic information the applicant chooses to disclose, together with a notification that such information will be made public in aggregate and anonymized form as provided in subparagraph (ii) of paragraph a of this subdivision; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5167" number="1293" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>Work and education history, special skills, and professional licenses; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5166" number="1294" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>Relevant professional, civic or community involvement experience; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5165" number="1295" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(viii)<TAB tab-count="1"/>Disclosure of city employment as such term is used in subdivision (a) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2800" destination-id="0-0-0-1425">2800</LINK>; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5164" number="1296" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ix)<TAB tab-count="1"/>Disclosure of potential conflicts of interest; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5163" number="1297" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(x)<TAB tab-count="1"/>Statement describing the applicant&apos;s interest in the community board member position; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5162" number="1298" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(xi)<TAB tab-count="1"/>A certification that the applicant meets all requirements for the position of community board member pursuant to subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2800" destination-id="0-0-0-1425">2800</LINK> and section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1135" destination-id="0-0-0-1149">1135</LINK> and any other applicable law and, if appointed, will abide by all applicable conflicts of interest laws; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5161" number="1299" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(xii)<TAB tab-count="1"/>Any additional information that the borough president determines to be relevant or necessary to the application process. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5158" number="1300" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The department of information technology and telecommunications shall provide assistance to borough presidents in developing such an application and making the application readily accessible to the public online. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-032]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-510" number="1301" version="616">
+					<PARA>
+						<TAB tab-count="1"/>18.<TAB tab-count="1"/>a.<TAB tab-count="1"/>For fiscal year 2021 and each fiscal year thereafter, the appropriations available to pay for the expenses of each borough president shall be not less than a sum equal to the minimum appropriation for that borough president for the prior fiscal year modified by the percentage change, if any, in the total city-funded appropriations contained in the expense budget, excluding debt service, pension contributions and fringe benefits, from the prior fiscal year to the city-funded total appropriations contained in the expense budget, excluding debt service, pension contributions, and fringe benefits, for the current fiscal year; provided, however, that (i) such minimum appropriation shall not increase in any year by a percentage greater than the increase in the consumer price index for all urban consumers in the New York-Newark-Jersey City area, as published by the bureau of labor statistics of the United States department of labor, or a successor index, for the calendar year prior to that in which the budget is adopted and (ii) for the purposes of making the calculations required by this paragraph, the minimum appropriation for fiscal year 2020 shall be deemed to be $6,282,711 for the president of the borough of the Bronx, $7,240,311 for the president of the borough of Brooklyn, $5,284,978 for the president of the borough of Manhattan, $5,821,751 for the president of the borough of Queens and $4,757,434 for the president of the borough of Staten Island. Any proposed budget shall ensure compliance with the minimum appropriation required by this subdivision for the upcoming fiscal year. The calculation to determine the minimum appropriations for each borough president pursuant to this paragraph shall be set forth in the preliminary expense budget, the executive expense budget, and the adopted budget. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5570" number="1302" version="616">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Notwithstanding paragraph a, and in addition to any action that may be taken pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="106" destination-id="0-0-0-213">one hundred six</LINK>, the appropriations available to pay for the expenses of each borough president may be less than the minimum appropriations required by paragraph a, provided that, prior to adoption of the budget pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="254" destination-id="0-0-0-401">two hundred fifty-four</LINK> or prior to the adoption of a budget modification pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="107" destination-id="0-0-0-215">one hundred seven</LINK>, the mayor determines that such reduction is fiscally necessary and that such reduction is part of a plan to decrease overall appropriations or is due to unforeseen financial circumstances, and the mayor sets forth the basis for such determinations in writing to the council and the applicable borough president at the time of submission or adoption, as applicable, of any budget or budget modification containing such reduction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5569" number="1303" version="988">
+					<PARA>(Am. L.L. 2018/211, 12/3/2018, eff. 1/1/2019; Am. L.L. 2019/215, 12/11/2019, eff. 12/11/2019; Am. L.L. 2025/177, 12/2/2025, eff. 12/2/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5568" number="1304" version="328">
+				<HEADING>Section 83. Organization of office. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-175" name="83"/>Section 83. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Organization of office. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-511" number="1305" version="616">
+					<PARA>Any borough president to the extent to which the organization of such borough president&apos;s office is not prescribed by law, may organize such borough president&apos;s office into such divisions, bureaus or offices and make such assignments of powers and duties among them, and from time to time change such organization or assignments as the borough president may consider advisable. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-512" number="1306" version="3">
+				<HEADING>Section 85. Borough board. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-177" name="85"/>Section 85. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Borough board. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-513" number="1307" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be in each borough a board to be known as the borough board which shall consist of the borough president and the district council members from such borough, and the chairperson of each community board in the borough. The borough president shall be the chairperson of such board, which shall hold public hearings at stated intervals in the borough and report to the council, the mayor and the city planning commission on borough programs and proposed borough capital projects. The borough president, the council members from the borough and the chairperson of the community boards in the borough shall be voting members of the borough board but a member from a community board shall vote only on issues that directly affect the community district represented by such member. The borough board shall employ technical and clerical assistance within appropriations for such purposes, and the borough president shall provide necessary additional staff assistance.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-514" number="1308" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Each borough board shall: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-515" number="1309" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Cooperate with community boards and city agencies with respect to matters relating to the welfare of the borough and its residents; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-516" number="1310" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>In its discretion hold or conduct public or private hearings; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-517" number="1311" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Adopt by-laws and meet at least once a month but no formal action of the board shall be taken except at a meeting open to the public; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-518" number="1312" version="983">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3-a)<TAB tab-count="1"/>Publish such by-laws to its website, or to the website of the borough president, in a searchable, non-proprietary, and machine-readable format, and publish updated by-laws no later than two weeks after the date on which such board adopts revisions to such by-laws; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7577" number="1313" version="983">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Assist agencies that deliver services within the borough in the preparation of service statements for the borough and review such statements; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-519" number="1314" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Prepare comprehensive and special purpose plans for the physical growth, improvement and development of the borough; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-520" number="1315" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Review and make recommendations with respect to applications and proposals of public agencies and private entities for the use, development, or improvement of land located in more than one district; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-521" number="1316" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Mediate disputes and conflicts among two or more community districts in the borough; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-522" number="1317" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Submit a comprehensive statement of the expense and capital budget priorities and needs of the borough; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-523" number="1318" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Evaluate the progress of capital developments within the borough and the quality and quantity of services provided by agencies within the borough; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-524" number="1319" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(10)<TAB tab-count="1"/>Give notice of all its public meetings and hearings, and make such meetings and hearings available for broadcasting and cablecasting; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-525" number="1320" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(11)<TAB tab-count="1"/>Keep a public record of its activities and transactions, including minutes of meetings, majority and minority reports, by-laws, and all documents which the board is required by law to review; such documents shall, in accordance with law, be made available to elected officials upon request and for reasonable public inspection; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-526" number="1321" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(12)<TAB tab-count="1"/>Otherwise consider the needs of the borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-527" number="1322" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>A majority of the members of any borough board entitled to vote on a matter before such board shall constitute a quorum of such board for action on such board. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-528" number="1323" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Whenever any act is authorized to be done or any determination or decision made by any borough board, the act, determination or decision of the majority of the members present entitled to vote during the presence of a quorum, shall be held to be the act, determination or decision of such board. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-529" number="1324" version="48">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>Any borough board may adopt rules permitting a member to designate a representative to exercise all the power of such member as a member of the borough board. Such a representative shall be considered a member of the board for the purpose of determining a quorum of the borough board. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-530" number="1325" version="994">
+					<PARA>(Am. L.L. 2025/182, 12/12/2025, eff. 12/12/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-7576" number="1326" version="983">
+				<HEADING>Section 86. Opening and closing streets. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-179" name="86"/>Section 86. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Opening and closing streets. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-531" number="1327" version="616">
+					<PARA>Except in the case of an emergency, no person, agency, business, association, or corporation shall remove the pavement, disturb the surface or otherwise open or close a street, road or highway until a written notice is filed at least ten days in advance of the intended action with the construction coordinator and consulting engineer for the borough in the office of the borough president and the office of district manager for the community district in which the street, road or highway is located. In the event of an emergency, such notice may be made in person or by telephone before the action is instituted and in writing immediately after the action is instituted. If this is not feasible, notice shall be made in person or by telephone and in writing immediately after the action is instituted. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

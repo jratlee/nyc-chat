@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-6765" number="5715" version="712">
+			<HEADING>Chapter 61: Department of Housing Preservation and Development</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1315" name="Chapter 61"/>Chapter 61: Department of Housing Preservation and Development</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3825" number="5716" version="3">
+				<HEADING>Section 1800. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1317" name="1800"/>Section 1800. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3826" number="5717" version="618">
+					<PARA>There shall be a department of housing preservation and development, the head of which shall be the commissioner of housing preservation and development. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-006]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3827" number="5718" version="3">
+				<HEADING>Section 1801. Officials of the department. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1319" name="1801"/>Section 1801. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Officials of the department. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3828" number="5719" version="770">
+					<PARA>The commissioner may appoint not more than five deputy commissioners, one of whom may be a first deputy commissioner and one of whom shall be a deputy commissioner charged with the powers and duties that include, but are not limited to, the powers and duties described in paragraphs (j), (k), (l) and (m) of subdivision six of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1802" destination-id="0-0-0-1321">eighteen hundred two</LINK> of this chapter. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3829" number="5720" version="3">
+				<HEADING>Section 1802. Powers and duties of the commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1321" name="1802"/>Section 1802. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties of the commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6266" number="5721" version="618">
+					<PARA>Except as otherwise specifically provided by law, the commissioner may exercise or delegate any of the following functions, powers and duties which are vested in the department: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3831" number="5722" version="618">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>all functions of the city relating to the rehabilitation, maintenance, alteration and improvement of residential buildings and privately owned housing including, but not limited to, the making of rehabilitation loans pursuant to article eight (&quot;municipal loans&quot;), article eight-a (&quot;mini-loans&quot;) and article fifteen (&quot;participation loans&quot;) of the private housing finance law, acting as liaison with the New York city rehabilitation mortgage insurance corporation established pursuant to article fourteen of the private housing finance law (&quot;REMIC&quot;) and the New York city housing development corporation established pursuant to article twelve of the private housing finance law (&quot;HDC&quot;), the execution of emergency repairs to and the sealing, removal and demolition of buildings, structures and privately-owned housing in accordance with applicable provisions of law and the enforcement of those provisions of the multiple dwelling law or any other law, rule or regulation which relate to the maintenance, use, occupancy, safety or sanitary condition of any building or portion thereof which is occupied, arranged or intended to be occupied as a home, residence or dwelling place; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3832" number="5723" version="618">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>such functions and duties as may be prescribed by law with respect to the relocation of tenants of real property and the selection of tenants for publicly owned or publicly aided housing in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3833" number="5724" version="618">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>all functions of the city, and all powers, rights and duties as provided by any federal, state or local law or resolution, relating to slum clearance, slum prevention and urban renewal; neighborhood conservation; prevention and rehabilitation of blighted, substandard, deteriorated or unsanitary areas, and publicly-aided and public housing, including the regulation of rents in housing built with state or local financing, except housing under the jurisdiction of the New York city housing authority; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3834" number="5725" version="618">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>the functions, rights, powers and duties and the offices granted to, vested in or delegated to the housing and redevelopment board, the housing and development administration or the administrator of the housing and development administration; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3835" number="5726" version="618">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>such powers, rights and duties vested in or exercised by the New York city housing authority as may be transferred to or vested in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3836" number="5727" version="618">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>the functions, powers and duties to: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3837" number="5728" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>establish and administer programs designed to encourage the rehabilitation and preservation of existing housing; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3838" number="5729" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>administer laws authorizing tax exemption or tax abatement, or both, including, but not limited to, section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-243" destination-id="0-0-0-0">11-243</LINK> of the administrative code of the city of New York and section four hundred twenty-one of the real property tax law, which are in aid of the construction, rehabilitation, alteration or improvement of residential buildings and structures and the elimination of substandard conditions therein, process applications for such exemption or abatement or both, and coordinate the activities of officers and agencies of the city relating thereto; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3839" number="5730" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>manage and superintend all real property acquired by the city for, or devoted to, housing or urban renewal purposes; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3840" number="5731" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>represent the city in carrying out the provisions of the private housing finance law including, but not limited to, article two (relating to limited-profit housing companies), article five (relating to redevelopment companies), article eight, article eight-a, article eleven (relating to housing development fund companies) and article fifteen, and act as and exercise the powers, rights and duties vested in the &quot;supervising agency&quot; pursuant to the private housing finance law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3841" number="5732" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>represent the city in carrying out the provisions of article fifteen of the general municipal law (&quot;urban renewal law&quot;) including, but not limited to, acquiring, leasing or disposing of real property pursuant to said law and establishing the disposition price of real property in an urban renewal area; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3842" number="5733" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(f)<TAB tab-count="1"/>undertake projects and exercise the rights, powers and privileges authorized by sections fifty-five and fifty-five-a of the public housing law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3843" number="5734" version="815">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(g)<TAB tab-count="1"/>require the payment of charges in consideration for the financing, regulation, supervision and audit of municipally-aided projects and loan programs administered by the commissioner, which charges shall be paid into the treasury of the city and shall be paid and deposited in the general fund of the city; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3844" number="5735" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(h)<TAB tab-count="1"/>act as the coordinating agency with respect to the activities of officers and agencies of the city concerning areas designated by the planning commission or any analogous officer or body, as districts for development or improvement of neighborhoods; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3845" number="5736" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>acquire real property, pursuant to the federal housing and community development act of nineteen hundred seventy-four, on behalf of other city agencies. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3846" number="5737" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(j)<TAB tab-count="1"/>sell, lease, exchange or otherwise dispose of residential real property of the city, provided that no such sale, lease, exchange or other disposition shall be authorized without the approval of the mayor and until a public hearing has been held with respect to such action after the publishing of notice in the City Record at least thirty days in advance of such hearing, and provided further that any disposition by public auction shall be conducted by the department of citywide administrative services, except as otherwise provided by law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3847" number="5738" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(k)<TAB tab-count="1"/>manage and superintend all residential real property of the city not used for public purposes, including real property acquired for a public purpose and not being currently utilized for such purpose, but not wharf property or other real property under the jurisdiction of the New York city transit authority, real property under the jurisdiction of the department of small business services, or real property under the jurisdiction of the New York city housing authority by virtue of an authorization granted by the mayor pursuant to the provisions of subdivision three of section one hundred twenty-five of the public housing law, or real property under the jurisdiction of the triborough bridge and tunnel authority; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3848" number="5739" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(l)<TAB tab-count="1"/>exercise such other powers and duties as may be prescribed by law in relation to the management, demolition or sealing or other treatment of residential real property of the city; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-075]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3849" number="5740" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(m)<TAB tab-count="1"/>employ professional community and other personnel to manage residential real property of the city; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-075]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6295" number="5741" version="618">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(n)<TAB tab-count="1"/>enforce the provisions of the zoning resolution related to eligibility requirements with respect to the development, acquisition, rehabilitation, preservation, sale or rental of affordable housing administered by the department pursuant to such resolution, including, but not limited to, sections 23-90 and 23-154 of the zoning resolution and related provisions of law and rules promulgated pursuant to such sections. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-075]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6294" number="5742" version="815">
+					<PARA>(Am. L.L. 2022/045, 1/15/2022, eff. 7/14/2022; Am. 2023 N.Y. Laws Ch. 535, 10/23/2023, eff. 10/23/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3850" number="5743" version="739">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1996/059" destination-id="0-0-0-0">L.L. 1996/059</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6830" number="5744" version="739">
+				<HEADING>Section 1803. Inspectors, inspection. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1323" name="1803"/>Section 1803. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Inspectors, inspection. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3851" number="5745" version="3">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Housing maintenance inspectors shall have such qualifications as shall be prescribed by the department of citywide administrative services after consultation with the commissioner. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3852" number="5746" version="3">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The commissioner or any inspector or any officer of the department authorized in writing by the commissioner or the commissioner&apos;s delegate may, in accordance with law, for the purpose of performing their respective official duties, enter and inspect any building, structure, enclosure, premises or any part thereof, or anything therein or attached thereto, and any refusal to permit such entry or inspection shall be a misdemeanor triable in the criminal court and punishable upon conviction by not more than thirty days imprisonment, or by a fine of not more than one hundred dollars or both. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3853" number="5747" version="711">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1996/059" destination-id="0-0-0-0">L.L. 1996/059</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6763" number="5748" version="711">
+				<HEADING>Section 1804. Acquisitions of real property. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1325" name="1804"/>Section 1804. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Acquisitions of real property. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3854" number="5749" version="618">
+					<PARA>No purchase, lease, condemnation or other acquisition of real property by the department shall be authorized until (1) a public hearing has been held with respect to the acquisition after the publishing of notice in the City Record at least thirty days in advance of such hearing and (2) the department shall have received the approval of the mayor; provided, however, that in the case of an acquisition by purchase or condemnation, no such hearing shall be required if a public hearing is held with respect to such purchase or condemnation pursuant to any other requirement of law. In the case of a lease in which the city is to be the tenant, the notice for the hearing required in this subdivision shall include a statement of the location and proposed use of the premises, and the term and annual rent of the proposed lease. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3855" number="5750" version="3">
+				<HEADING>Section 1805. Establishment of affordable housing trust fund. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1327" name="1805"/>Section 1805. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Establishment of affordable housing trust fund. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3856" number="5751" version="84">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Notwithstanding any provision of law to the contrary and in addition to the functions, powers and duties that the commissioner may exercise or delegate pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1802" destination-id="0-0-0-1321">eighteen hundred two</LINK> of this chapter, the commissioner shall be authorized to establish or cause to be established an affordable housing trust fund. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3857" number="5752" version="3">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Such fund may be established through agreement with a public benefit corporation authorized pursuant to the private housing finance law to finance the development and rehabilitation of affordable housing. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3858" number="5753" version="409">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The sole purpose of the fund established pursuant to subdivision one of this section shall be to fund affordable housing outside of the areas set forth in paragraphs two through four of subdivision (a) of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="11-245" destination-id="0-0-0-0">11-245</LINK> of the administrative code of the city of New York. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3859" number="5754" version="3">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Payments from such fund shall be subject to the following requirements: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3860" number="5755" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Priority shall be given first to projects in the ten sub-borough areas, as established by the United States census bureau, with the highest percentage of households below the poverty line based on the most recent United States census bureau data, with a target of forty percent of the total amount of the fund as initially funded to be used in such areas; and then to projects in the next five sub-borough areas, as established by the United States census bureau, with the highest percentage of households below the poverty line based on the most recent United States census bureau data, with a target of fifteen percent of the total amount of the fund as initially funded to be used in such areas. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3861" number="5756" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Priority shall be given to projects that will create affordable housing for persons of low income as defined in rules of the department in effect on the date of enactment of the local law that added this paragraph. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3862" number="5757" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Priority shall be given to projects in which the developer agrees to maintain the affordability of the housing significantly beyond the period of the governmental assistance. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3863" number="5758" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Payments from such fund shall be made in accordance with subsidy guidelines, including, but not limited to, guidelines concerning the maximum amount of subsidy per dwelling unit and per project, established by the commissioner or established in the agreement, if any, with the public benefit corporation pursuant to subdivision two of this section provided however, that no project may receive a subsidy in excess of twenty million dollars. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3864" number="5759" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The aggregate payments from such fund in any calendar year beginning on or after January first, two thousand seven shall not be less than five percent of the total amount of the fund as initially funded, provided, however, that in no calendar year shall a lesser amount be spent other than pursuant to the written approval of the mayor. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3865" number="5760" version="148">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>On or before February first, two thousand eight and each year thereafter, the commissioner shall report to the council on the payments from the fund. Such report shall include a description of each project funded, including location, number of units, affordability requirements, status of the project and amount of funding for each project. Within forty-five days of receipt of such report the council shall conduct a hearing on such report and such fund created pursuant to this section.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4842" number="5761" version="671">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2006/058" destination-id="0-0-0-0">L.L. 2006/058</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6562" number="5762" version="671">
+				<HEADING>Section 1806. Urban renewal data.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1555" name="1806"/>Section 1806. Urban renewal data.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4845" number="5763" version="151">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For the purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4875" number="5764" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project boundary.</CHARFORMAT> The term &quot;project boundary&quot; means the perimeter of an urban renewal area. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4874" number="5765" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Urban renewal area.</CHARFORMAT> The term &quot;urban renewal area&quot; has the same meaning ascribed to such term in section 502 of the general municipal law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4873" number="5766" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Urban renewal plan.</CHARFORMAT> The term &quot;urban renewal plan&quot; has the same meaning ascribed to such term in section 502 of the general municipal law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4872" number="5767" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Urban renewal site.</CHARFORMAT> The term &quot;urban renewal site&quot; means a tract of land that is designated for acquisition for one or more particular land uses and identified as a redevelopment parcel pursuant to an urban renewal plan. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4871" number="5768" version="151">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Not less than one year before the expiration date of any urban renewal plan in effect on or after March 1, 2018, the department, in coordination with the department of city planning, shall provide written notice of the expiration date of such urban renewal plan to the speaker of the council, each borough president, council member, and community board whose district includes any real property within the project boundary of the affected urban renewal area, provided that in the case of any urban renewal plan with an expiration date that is less than one year after March 1, 2018, such notice shall be provided as soon as practicable. Such written notice shall include any restrictions on use, density or design contained in such expiring urban renewal plan, the status of any pending application to change any applicable large-scale special permit, the status of any pending application to amend such urban renewal plan, including any pending application to extend the duration of such urban renewal plan with respect to any unsold parcels of real property, the department of city planning application number of such pending application, and a notice that upon expiration of such urban renewal plan existing zoning regulations may allow as-of-right development subject to less restrictive use, density, and design requirements, <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4870" number="5769" version="772">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department, in coordination with the department of city planning, shall establish a publicly accessible website on <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-23" type="Web" url="nyc.gov">nyc.gov</LINK> to provide information about currently and formerly designated urban renewal areas in the city of New York. Such website shall include information regarding the urban renewal law, an explanatory guide to researching urban renewal restrictions on designated urban renewal sites, and links to resources for conducting such research, including but not limited to the city&apos;s online zoning and land use maps, the automated city register information system, and the land use and CEQR application tracking system. The department shall post on such website an illustrative map of the city that indicates by graphical representation or icon the approximate locations of all currently and formerly designated urban renewal areas in the city of New York. The department shall link each such graphical representation or icon to the information about each such urban renewal area posted on such website pursuant to this subdivision. The department shall post on such website the following information or links to such information about each such urban renewal area, to the extent that such information is available in department or city records: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4869" number="5770" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The name of such urban renewal area; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4868" number="5771" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The history of approvals of the applicable urban renewal plan and all amendments thereto; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4867" number="5772" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A downloadable copy of the applicable urban renewal area and all amendments thereto; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4866" number="5773" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The project boundary of such urban renewal area; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4865" number="5774" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The designated urban renewal sites within the project boundary of such urban renewal area and the permitted uses of such designated urban renewal sites pursuant to such urban renewal plan; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4864" number="5775" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Whether such urban renewal plan is currently in effect or has expired and, if currently in effect, the expiration date of such urban renewal plan; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4863" number="5776" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(g)<TAB tab-count="1"/>With respect to any urban renewal plan currently in effect, the status of any pending application to amend such urban renewal plan, including any pending application to extend the duration of such urban renewal plan with respect to any unsold parcels of real property, and the department of city planning application number of such pending application; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4862" number="5777" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(h)<TAB tab-count="1"/>A link to <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-23" type="Web" url="zola.planninglabs.nyc">zola.planninglabs.nyc</LINK> or successor website that directs to the highest practicable zoom level that contains all blocks and lots within such urban renewal area. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4861" number="5778" version="148">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Information required to be posted on the website established pursuant to subdivision 3 of this section shall be posted on the following schedule: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4860" number="5779" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The informational map of the city posted on such website pursuant to subdivision 3 of this section shall display the approximate locations of all current and former urban renewal areas no later than six months after the effective date of the local law that added this section and shall include links to the information about each such urban renewal area posted on such website pursuant to such subdivision in accordance with the scheduled posting of each such urban renewal plan as described in paragraphs (b), (c) and (d) of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4859" number="5780" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Such information about urban renewal areas subject to an urban renewal plan currently in effect shall be posted to such website no later than six months after the effective date of the local law that added this section; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4858" number="5781" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Such information about urban renewal areas for which the final version of an urban renewal plan expired less than 10 years before the effective date of the local law that added this section shall be posted to such website no later than one year after the effective date of the local law that added this section; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4857" number="5782" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Such information about urban renewal areas for which the final version of an urban renewal plan expired 10 or more years before the effective date of the local law that added this section shall be posted no later than eighteen months after the effective date of the local law that added this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4856" number="5783" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Notwithstanding paragraphs (b), (c) and (d) of this subdivision, the downloadable copy of all amendments to applicable urban renewal areas referred to in paragraph (c) of subdivision 3 of this section, as required to be posted on the website established pursuant to subdivision 3 of this section, shall be posted as soon as practicable, but no later than 5 years after the effective date of the local law that added this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4855" number="5784" version="148">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>No later than two years after the effective date of the local law that added this section, the department shall report the following information to the mayor, the speaker of the council, the borough presidents, the affected council members, and the community boards, to the extent that such information is available in department or city records: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4854" number="5785" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Maps displaying the project boundaries of all currently and formerly designated urban renewal areas in the city of New York, to the extent practicable; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4853" number="5786" version="777">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>An illustrative map or maps of the city displaying the approximate locations of all such urban renewal areas; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4852" number="5787" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>A list, organized by borough, of all such urban renewal areas; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4851" number="5788" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The council districts that may include real property within the project boundary of any such urban renewal area; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4850" number="5789" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>For each such urban renewal area, the expiration date of the final version of the applicable urban renewal plan; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4849" number="5790" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The land use restrictions imposed pursuant to such urban renewal plans; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4848" number="5791" version="148">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(g)<TAB tab-count="1"/>A notice that upon expiration of such urban renewal plans existing zoning regulations may allow as-of-right development subject to less restrictive use, density, and design requirements. Such notice shall be accompanied by information about researching urban renewal restrictions on currently and previously designated urban renewal sites. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4847" number="5792" version="772">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>No later than March 1, 2018, every lot on the city&apos;s online zoning and land use map at <LINK style-name="Web" style-name-escaped="Web" style-id="0-0-0-23" type="Web" url="zola.planninglabs.nyc">zola.planninglabs.nyc</LINK> or successor website shall have an attribute that links to the website established pursuant to subdivision 3 of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4844" number="5793" version="806">
+					<PARA>(L.L. 2018/040, 1/11/2018, eff. 1/11/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6931" number="5794" version="806">
+				<HEADING>Section 1807. Office of the homeowner advocate.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1785" name="1807"/>Section 1807. Office of the homeowner advocate.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7398" number="5795" version="961">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the term “homeowner” means a natural person who utilizes a building within the city as a primary residence by being: (i) the shareholder in a cooperative corporation that entitles such owner to occupancy of a dwelling unit in such building; (ii) the owner of a residential condominium unit in such building; or (iii) the owner of such building containing a residence within the city, provided such building has between 1 and 4 dwelling units. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6946" number="5796" version="806">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>There shall be in the department an office of the homeowner advocate, the head of which shall be the homeowner advocate. The office of the homeowner advocate, with the assistance of any third-party organization identified by such office that provides relevant services to homeowners, shall have responsibilities that include, but are not limited to, the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6945" number="5797" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Receiving comments, questions, and concerns from homeowners related to city services; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6944" number="5798" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Referring homeowners to the appropriate state or federal agency and, where needed, facilitating communication or serving as a liaison between the homeowner and such agency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6943" number="5799" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Serving as a liaison between homeowners and the department, referring homeowners to other city agencies, including, but not limited to, the department of buildings, the department of environmental protection, and the department of finance, and providing the names of offices within such agencies that relate to the rights and responsibilities associated with homeownership; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6942" number="5800" version="961">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>In consultation with the department of consumer and worker protection, referring homeowners and their heirs to community based organizations, legal services organizations, and other organizations that provide support or counseling to homeowners on topics such as scam prevention, mortgage counseling, municipal payment assistance, repair financing, financial planning, estate planning, and navigating and accessing private financial and technical resources; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-113]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6941" number="5801" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Making trainings available to homeowners on topics such as finance related to real property ownership, property management, rental housing, lead paint, mortgage relief, and foreclosure prevention; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6940" number="5802" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Creating public awareness campaigns about the rights and responsibilities of homeowners; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6939" number="5803" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>Maintaining on the department’s website a list of the names, websites, and contact information of existing not-for-profit organizations providing low-cost or free services to homeowners within the city. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6938" number="5804" version="806">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>By September 30, 2025, and by September 30 of each year thereafter, the office of the homeowner advocate shall post on the department’s website a report. The report shall include, but need not be limited to, the following information, disaggregated by community district where available: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6937" number="5805" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of inquiries received by the office of the homeowner advocate, including complaints received from 311, further disaggregated by complaint type and frequency; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6936" number="5806" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>A summary of actions taken for each inquiry type; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6935" number="5807" version="806">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Recommendations for free and low cost services that are not already available that might be beneficial to homeowners within the city. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-089]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6932" number="5808" version="961">
+					<PARA>(L.L. 2023/125, 9/3/2023, eff. 3/1/2024; Am. L.L. 2025/026, 3/15/2025, eff. 9/11/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-113]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

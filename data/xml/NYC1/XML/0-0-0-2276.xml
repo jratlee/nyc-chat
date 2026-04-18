@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-2276" number="3449" version="83">
+			<HEADING>Chapter 27: Board of Standards and Appeals</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1517" name="Chapter 27"/>Chapter 27: Board of Standards and Appeals</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2277" number="3450" version="3">
+				<HEADING>Section 659. Constitution and appointment. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-859" name="659"/>Section 659. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Constitution and appointment. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2278" number="3451" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be an independent board of standards and appeals located within the office of administrative trials and hearings. The board of standards and appeals shall consist of five members to be termed commissioners to be appointed by the mayor each for a term of six years.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2279" number="3452" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>One of the members shall be a planner with professional qualifications and at least ten years&apos; experience as a planner. One of the members shall be a registered architect and shall have had at least ten years&apos; experience as an architect. One of the members shall be a licensed professional engineer and shall have had at least ten years&apos; experience as an engineer. The mayor shall designate one of the members, who shall have the required experience as an architect, planner or as an engineer, to serve as chair and shall designate one of the members to serve as vice-chair, who shall act as chair in the absence of the chair or in the event that a vacancy exists in the office of chair. Of the members, no more than two shall be residents of any one borough. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2280" number="3453" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Every member of the board shall receive a salary, which shall not be reduced during his or her term of office except in case of general reduction of salaries and in proportion to reductions of salaries of other officers with similar salaries. A member shall not engage in any other occupation, profession or employment. Members shall attend the hearings and executive sessions of the board, and shall perform such other duties as may be required by the chair. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2281" number="3454" version="48">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Vacancies shall be filled by the mayor for the unexpired term of the member whose place has become vacant and with a person having his or her qualifications. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2282" number="3455" version="741">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/049" destination-id="0-0-0-0">L.L. 1991/049</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6831" number="3456" version="741">
+				<HEADING>Section 660. Executive director of standards and appeals. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-861" name="660"/>Section 660. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Executive director of standards and appeals. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2283" number="3457" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be an executive director of standards and appeals who shall be appointed by and shall hold office at the pleasure of the board of standards and appeals.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2284" number="3458" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The executive director shall have had at least five years&apos; experience in administrative or supervisory positions dealing with administration and personnel. The executive director shall devote his or her entire time to the performance of his or her duties and shall not engage in any other occupation, profession or employment. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2285" number="3459" version="741">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/049" destination-id="0-0-0-0">L.L. 1991/049</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6832" number="3460" version="741">
+				<HEADING>Section 661. Staff, powers and duties. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-863" name="661"/>Section 661. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Staff, powers and duties. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4515" number="3461" version="97">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The executive director may appoint such engineers, architects, and experts and other officers and employees as may be required to perform the duties of his or her office, with the approval of the board and within the appropriation provided therefor. The executive director shall also ensure the board has access to the advice of a state certified general real estate appraiser, either by engaging the services of an appraiser employed or retained by a city agency, retaining the services of a third party, or appointing at least one staff member, provided that such state certified general real estate appraiser shall have no less than five years&apos; experience in analyzing and auditing real estate investments, with the approval of the board and within the appropriation provided therefor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2287" number="3462" version="97">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The executive director shall assign and supervise all members of his or her staff. The executive director shall have prepared and presented matters before the board of standards and appeals in accordance with the rules, regulations and directives of such board, and shall prepare the calendar of such board.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4697" number="3463" version="97">
+					<PARA>(Am. L.L. 2017/102, 5/30/2017, eff. 9/27/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-017]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2288" number="3464" version="97">
+				<HEADING>Section 662. Removal by mayor after hearing. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-865" name="662"/>Section 662. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Removal by mayor after hearing. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2289" number="3465" version="617">
+					<PARA>Any member may be removed by the mayor on proof of official misconduct, or of negligence in official duties, or of conduct in any manner connected with his or her official duties which tends to discredit his or her office, or of mental or physical inability to perform his or her duties; but before removal he or she shall receive a copy of the charges and shall be entitled to a hearing before the mayor and to the assistance of counsel at such hearing. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2290" number="3466" version="3">
+				<HEADING>Section 663. Meetings. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-867" name="663"/>Section 663. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Meetings. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2291" number="3467" version="617">
+					<PARA>Meetings of the board shall be held at the call of the chair and at such other times as the board may determine. The chair, or in his or her absence the vice-chair may administer oaths and compel the attendance of witnesses. All hearings before the board shall be open to the public and shall be before at least three members of the board, and a concurring vote of at least three members shall be necessary to a decision to grant an application or an appeal, to revoke or modify a variance, special permit or other decision of the board, or to make, amend or repeal a rule or regulation. The board shall keep minutes of its proceedings, showing the vote of each member upon every question, or if absent or failing to vote, indicating such fact, and shall also keep records of its examinations and other official action. Such minutes and such records shall be public records. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2292" number="3468" version="741">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/049" destination-id="0-0-0-0">L.L. 1991/049</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6833" number="3469" version="741">
+				<HEADING>Section 665. Rules and regulations; bulletin. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-869" name="665"/>Section 665. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rules and regulations; bulletin. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2293" number="3470" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Every rule or regulation and every amendment or repeal thereof, and every order, requirement, decision or determination of the board shall immediately be filed in the office of the board and shall be a public record.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2294" number="3471" version="173">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>[Repealed.]</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2295" number="3472" version="173">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>[Repealed.]</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2296" number="3473" version="741">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/049" destination-id="0-0-0-0">L.L. 1991/049</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6834" number="3474" version="741">
+				<HEADING>Section 666. Jurisdiction. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-871" name="666"/>Section 666. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Jurisdiction. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4509" number="3475" version="617">
+					<PARA>The board shall have power:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2298" number="3476" version="617">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>To make, amend and repeal rules and regulations for carrying into effect the provisions of the laws, resolutions, rules and regulations in respect to any subject-matter jurisdiction whereof is conferred by law upon the board, and to include in such rules and regulations provisions applying to specific conditions and prescribing means and methods of practice to effectuate such provisions and for carrying into effect the powers of the board. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2299" number="3477" version="617">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>To make, amend and repeal rules and regulations for the enforcement of those provisions of the labor law and other laws which relate to the construction or alteration of, structural changes in plumbing and drainage of, elevators in, fire escapes on, adequacy and means of exit from, or fire protection in, all buildings within the city, which shall take the place of the industrial code and of any rules and regulations of the department of labor of the state of New York relating to the same subject-matter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2300" number="3478" version="617">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>To make, amend and repeal rules, regulations and directives governing the preparation and presentation by the director of matters before the board. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2301" number="3479" version="617">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>To exercise exclusively with respect to buildings situated within the city, the same powers as are exercised by the department of labor of the state of New York elsewhere in the state. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2302" number="3480" version="617">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>To determine and vary the application of the zoning resolution as may be provided in such resolution and pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="668" destination-id="0-0-0-875">six hundred sixty-eight</LINK>. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2303" number="3481" version="617">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>To hear and decide appeals from and review, </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2304" number="3482" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>except as otherwise provided by law, any order, requirement, decision or determination of the commissioner of buildings or of a deputy commissioner of buildings or any borough superintendent of buildings acting under a written delegation of power from the commissioner of buildings filed in accordance with the provisions of section<LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="642" destination-id="0-0-0-843"> six hundred forty-two</LINK> or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="645" destination-id="0-0-0-849">six hundred forty-five</LINK> of this charter, or </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2305" number="3483" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>any order, requirement, decision or determination of the fire commissioner or any rule or regulation or amendment or repeal thereof made by the fire commissioner, or </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2306" number="3484" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>any order, requirement, decision or determination of the commissioner of transportation or the commissioner of ports and trade made in relation to the structures or uses on water front property under his or her jurisdiction in connection with the application or enforcement of the provisions of the zoning resolution of the city of New York, the labor law and such other laws, rules and regulations as may govern the construction, alteration, maintenance, use, occupancy, safety, sanitary conditions, mechanical equipment and inspection of structures in the city, under the authority conferred upon them by law, by reversing or affirming in whole or in part, or modifying the order, regulation, decision or determination appealed from, and to make such order, requirement, decision or determination as in its opinion ought to be made in the premises, and to that end shall have the power of the officer from whose ruling the appeal is taken, and of any officer under whose written delegation of power such ruling was made. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2307" number="3485" version="617">
+					<PARA>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>In passing upon appeals, to vary or modify any rule or regulation or the provisions of any law relating to the construction, use, structural changes, equipment, alteration or removal of buildings or structures, or vaults in sidewalks appurtenant thereto, where there are practical difficulties or unnecessary hardship in the way of carrying out the strict letter of the law, so that the spirit of the law shall be observed, public safety secured and substantial justice done, provided that the provisions of the housing maintenance code and of any regulation or order issued under such code may be varied or modified only to the extent permitted by such code and only in the manner and subject to the conditions therein specified. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2308" number="3486" version="617">
+					<PARA>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>To review, upon motion of any member of the board, any rule, regulation, amendment or repeal thereof, and any order, requirement, decision or determination from which an appeal may be taken to the board under the provisions of this chapter or of any law, or of any rule, regulation or decision of the board; but no such review shall prejudice the rights of any person who has in good faith acted thereon before it is reversed or modified. The provisions of this chapter relating to appeals to the board shall be applicable to such review. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2309" number="3487" version="988">
+					<PARA>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>To afford an equal right to the city planning commission, community boards, and borough boards and lessees and tenants as well as owners to appear before it for the purpose of proposing arguments or submitting evidence in respect of any matter brought before it pursuant to the zoning resolution of the city of New York or section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="666-a" destination-id="0-0-0-1839">six hundred sixty-six-a</LINK>. In rendering a final determination on any matter before it in which any such party has proposed relevant arguments or submitted relevant evidence, the board shall refer to such arguments or evidence in its final determination and describe the extent to which the board considered such arguments or evidence in reaching its final determination, to the extent applicable. The board may categorize similar comments together and respond to such categories, provided that each such categorical response indicates the testimony to which it is responding. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2310" number="3488" version="988">
+					<PARA>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>To issue such special permits as the board is authorized to issue under the zoning resolution or actions under section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="666-a" destination-id="0-0-0-1839">six hundred sixty-six-a</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2311" number="3489" version="617">
+					<PARA>
+						<TAB tab-count="1"/>11.<TAB tab-count="1"/>To revoke or modify, upon due notice and hearing, variances and special permits previously granted under the zoning resolution if the terms and conditions of such grants have been violated.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4621" number="3490" version="988">
+					<PARA>(Am. L.L. 2017/082, 5/30/2017, eff. 8/28/2017; Am. L.L. 2025/177, 12/2/2025, eff. 12/2/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2312" number="3491" version="741">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/049" destination-id="0-0-0-0">L.L. 1991/049</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/107" destination-id="0-0-0-0">L.L. 1993/107</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6835" number="3492" version="988">
+				<HEADING>Section 666-a. Fast-track action for affordable housing projects.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1839" name="666-a"/>Section 666-a. Fast-track action for affordable housing projects.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7664" number="3493" version="988">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>In accordance with this section, the board may modify the application or interpretation of any use, bulk, or parking regulation of the zoning resolution to a building to be developed, preserved, or converted, in whole or in part for affordable housing, as such term is defined in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="16-a" destination-id="0-0-0-1799">sixteen-a</LINK>, provided that the board makes the following findings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7663" number="3494" version="988">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The building is or will be owned, in whole or in part, by a company that has been organized exclusively to develop housing projects for persons of low income; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7662" number="3495" version="988">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The building is wholly located in a zoning district that allows residential uses; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7661" number="3496" version="988">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>As determined in consultation with the commissioner of housing preservation and development, the building is consistent with applicable affordable housing design and development standards established by such commissioner and could not be developed, preserved or converted without modifying the application of any use, bulk, or parking regulations; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7660" number="3497" version="988">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The building will not alter the essential character of the neighborhood; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7659" number="3498" version="988">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Under the conditions and safeguards imposed, the hazards or disadvantages to the community at large of such modifications at the particular site are outweighed by the advantages to be derived by the community and city from the grant of such modifications. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7658" number="3499" version="988">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The decision of the board shall set forth each required finding in each specific approval of an action authorized pursuant to this section or which of the required findings have not been satisfied in each denial of such an action. Such decision shall, for any approval of an action pursuant to this section, set forth the evidence or other data supporting each finding by the board in reaching such decision. Reports of other city agencies made as a result of inquiry by the board may be considered by the board.&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7657" number="3500" version="988">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>In granting a modification pursuant to this section, the board may prescribe such conditions or restrictions as it may deem necessary to minimize any adverse effects of such modifications on other property in the neighborhood and to ensure such affordable housing that is developed, preserved or converted is consistent with applicable design and development standards. Such conditions or restrictions shall be incorporated in the building permit and certificate of occupancy. Failure to comply with such conditions or restrictions shall constitute a violation of such permit or certificate of occupancy and may constitute the basis for denial or revocation of a building permit or certificate of occupancy and for all other applicable remedies. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7655" number="3501" version="988">
+					<PARA>(L.L. 2025/177, 12/2/2025, eff. 12/2/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-7654" number="3502" version="988">
+				<HEADING>Section 667. Inspections. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-873" name="667"/>Section 667. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Inspections. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2313" number="3503" version="617">
+					<PARA>Any member of the board or any subordinate thereof shall, when authorized in writing by the chair, and the director or any officer or employee designated by the chair in writing shall have power at any time to enter, inspect and examine any premises, buildings, structures, vehicles or vessels for the purpose of carrying out the duties of the board and shall report his or her findings in writing to the board. Refusal to permit such entry shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days&apos; imprisonment, or by a fine of not more than fifty dollars, or both. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2314" number="3504" version="3">
+				<HEADING>Section 668. Variances and special permits. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-875" name="668"/>Section 668. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Variances and special permits. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4510" number="3505" version="184">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The applicant, the property owner, and the preparer of any document accompanying an application to vary the zoning resolution or an application for a special permit shall certify, executed under penalty of perjury, that the statements made in the application and accompanying documents are correct. Such certifications shall be notarized. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4928" number="3506" version="772">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The board shall establish by rule the minimum required materials, including but not limited to financial analysis, to be submitted with an application for a variance from the zoning resolution, provided that this requirement shall not limit the board&apos;s ability to require additional materials from an applicant, and further provided that such application shall include the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4927" number="3507" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>In addition to any materials submitted in support of a claim of uniqueness of physical conditions, a neighborhood character study defined by a radius appropriate to the scale of the neighborhood, as determined by the board, shall be provided. Such study shall include data relevant to the waivers being sought, photographs and relevant land use approvals, for the entire study area. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4926" number="3508" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>A financial analysis conducted by a qualified real estate professional, other than the owner or applicant, shall be submitted. Such financial analysis shall illustrate that an as-of-right project would not result in a reasonable return on investment whereas the waivers sought for the project would result in a reasonable return on investment and that the waivers sought are the minimum necessary to yield a reasonable return. The financial analysis shall include total development costs comprised of but not limited to: (i) market-based acquisition costs, (ii) any appraisals of the property provided by the applicant as part of an application to a local, state or federal agency within the 5 years prior, and, (iii) as applicable, hard and soft costs. If the applicant asserts that the project cannot obtain construction or rehabilitation financing because of the existing zoning requirements, the applicant shall provide proof of all attempts to obtain such financing. All construction cost estimates shall be prepared by a registered architect, professional engineer, builder or contractor, other than the owner or applicant. Such estimates must be signed and, where applicable, contain such preparer&apos;s seal. All rental or sellout estimates must be substantiated by market appraisals with appropriate narrative adjustments. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4624" number="3509" version="184">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Community boards and borough boards shall review applications to vary the zoning resolution and applications for special permits within the jurisdiction of the board of standards and appeals under the zoning resolution pursuant to the following procedure: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4945" number="3510" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Each proposal or application shall be filed with the board of standards and appeals, which shall forward a copy within five days to the community board for each community district in which the land involved, or any part thereof, is located, and to the borough board if the proposal or application involves land located in two or more districts in a borough. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4944" number="3511" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Each such community board shall, not later than sixty days after the receipt of the proposal or application, either notify the public of the proposal or application, in the manner specified by the city planning commission pursuant to subdivision i of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="197-c" destination-id="0-0-0-279">one hundred ninety-seven-c</LINK>, conduct a public hearing thereon and prepare and submit a written recommendation thereon directly to the board of standards and appeals, or waive the conduct of such public hearing and the preparation of such written recommendation. If a public hearing is held, the applicant shall submit to the board of standards and appeals a copy of any presentation materials utilized at the hearing, as well as a notarized statement executed under penalty of perjury that such materials are true and correct and are as presented to the community board, and such community board may submit to the board of standards and appeals a copy of any testimony presented or materials received from the applicant for such application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4943" number="3512" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>A copy of a recommendation or waiver by a community board pursuant to paragraph two of this subdivision that involves land located within two or more community districts in a borough shall also be filed with the borough board within the same time period specified in that paragraph. Not later than thirty days after the filing of such a recommendation or waiver with the borough board by every community board in which the land involved is located or after the expiration of the time allowed for such community boards to act, the borough board may hold a public hearing on the proposal or application and any such recommendation and may submit a written recommendation or a waiver thereof to the board of standards and appeals. If a public hearing is held, the applicant shall submit to the board of standards and appeals a copy of any presentation materials utilized at the hearing, as well as a notarized statement executed under penalty of perjury that such materials are true and correct and are as presented to the borough board, and such borough board may submit to the board of standards and appeals a copy of any testimony presented or materials received from the applicant for such application. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4942" number="3513" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The receipt of such a recommendation or waiver from every community or borough board involved, or the expiration of the time allowed for such boards to act, shall constitute an authorization to the board of standards and appeals to review the application and to make a decision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4941" number="3514" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>If after the receipt of such a recommendation or waiver from every community or borough board involved, or the expiration of the time allowed for such boards to act, the applicant for a special permit or variance submits to the board of standards and appeals any additional documents or plans, he or she shall at the same time forward copies of such documents or plans to the city planning commission, the council member involved and to the community or borough board involved. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4940" number="3515" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Copies of any written information submitted by an applicant for purposes of determining whether an environmental impact statement will be required by law in connection with an application under this section, and any documents or records intended to define or substantially redefine the overall scope of issues to be addressed in any such draft environmental impact statement shall be delivered to all affected community boards and borough boards. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4939" number="3516" version="184">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>If a meeting involving a city agency and an applicant is convened to define or substantially redefine the overall scope of issues to be addressed in any draft environmental impact statement required by law for an application subject to review under this section, each community board involved and each borough president involved shall receive advance notice of such meeting, and each shall have the right to send one representative to the meeting. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4938" number="3517" version="184">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The recommendation of a community board or borough board pursuant to subdivision c of this section shall be filed with the board of standards and appeals and a copy sent to the city planning commission. The board of standards and appeals shall conduct a public hearing and act on the proposed application. All testimony delivered at a public hearing by the applicant on the proposed application shall be sworn or affirmed under oath. A decision of the board shall indicate whether each of the specific requirements of the zoning resolution for the granting of variances has been met and shall include findings of fact with regard to each such requirement. When the board of standards and appeals grants or denies an application for a variance or special permit, the board shall respond, as applicable, to any relevant recommendation filed with such board by a community board or borough board regarding such application. Inadvertent failure to comply with the preceding sentence shall not result in the invalidation of any board decision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4937" number="3518" version="988">
+					<PARA>
+						<TAB tab-count="1"/>d-1.<TAB tab-count="1"/>Notwithstanding any provision in subdivision d of this section to the contrary, for applications filed pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="666-a" destination-id="0-0-0-1839">six hundred sixty-six-a</LINK>, the board of standards and appeals shall conduct the public hearing required pursuant to subdivision d of this section no later than thirty days after the expiration of the time allowed for the filing of a recommendation or waiver with the board by the affected community board or borough board, and the board shall give public notice not less than five days in advance of such hearing. The board shall take final action on the application no later than thirty days after the expiration of time allowed for such hearing, provided that where the board determines that an application does not satisfy the required findings, it may hold a second hearing and take final action on such application within sixty days of such determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7665" number="3519" version="988">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>Copies of a decision of the board of standards and appeals and copies of any recommendation of the affected community board or borough board shall be filed with the city planning commission and, for applications filed pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="666-a" destination-id="0-0-0-1839">six-hundred sixty-six-a</LINK>, with the commissioner of housing preservation and development. Copies of the decision shall also be filed with the affected community or borough boards. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4936" number="3520" version="184">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>Any decision of the board of standards and appeals pursuant to this section may be reviewed as provided by law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4935" number="3521" version="184">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The board shall report to the department of investigation any and all information concerning conduct which it knows or should reasonably know to involve the offering or presentation of a written instrument that contains a false statement or false information to such board with the knowledge or belief that such instrument will become part of the records of such board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4934" number="3522" version="988">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>The city planning commission shall be a party to any proceeding to determine and vary the application of the zoning. The commissioner of housing preservation and development shall also be a party to a proceeding to modify the zoning resolution pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="666-a" destination-id="0-0-0-1839">six hundred sixty-six-a</LINK>. The commission may appear and be heard on any application pursuant to this section before the board of standards and appeals if, in the judgment of the city planning commission, the granting of relief requested in such application would violate the requirements of the zoning resolution relating to the granting of variances. The commission and commissioner of housing preservation and development, as applicable, shall have standing to challenge the granting or denial of a variance or modification pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="666-a" destination-id="0-0-0-1839">six hundred sixty-six-a</LINK> in a proceeding brought pursuant to article seventy-eight of the civil practice law and rules, or in any similar proceeding. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4948" number="3523" version="184">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>Any copy of an application or application material that is required by this chapter, or by rule of the board, to be mailed by the applicant to a council member, borough president, community board or city agency shall be sent to such parties by certified mail, or any similar method approved by the board that provides for proof of service. Proof of service of the delivery of the initial filing of an application to the council member, borough president and community board, as required by this chapter, shall be submitted to the board, and the board shall note on its website that such proof of service of delivery has been received and verified. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4932" number="3524" version="184">
+					<PARA>
+						<TAB tab-count="1"/>j.<TAB tab-count="1"/>The board shall provide access on its website to any testimony posted by the department of city planning pursuant to paragraph 10 of subdivision a of section 191. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4931" number="3525" version="184">
+					<PARA>
+						<TAB tab-count="1"/>k.<TAB tab-count="1"/>The board of standards and appeals shall compile data on the location of all variances and special permit applications filed with the board after January 1, 1998 and acted upon by the board, into a publicly available data set. Such data set shall also be provided to the department of information technology and telecommunications for inclusion on an interactive map of the city maintained on a city website. Such map shall allow a user to filter the view of such data by variance, type of special permit, year of filing of variances and special permits and year of decision by the board on variances and special permits. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4930" number="3526" version="184">
+					<PARA>
+						<TAB tab-count="1"/>l.<TAB tab-count="1"/>The board of standards and appeals may promulgate such rules and prescribe such forms as are necessary to carry out the provisions of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4929" number="3527" version="988">
+					<PARA>(Am. L.L. 2017/101, 5/30/2017, eff. 8/28/2017; Am. L.L. 2017/083, 5/30/2017, eff. 11/26/2017; Am. L.L. 2017/093, 5/30/2017, eff. 11/26/2017; Am. L.L. 2017/103, 5/30/2017, eff. 5/30/2018; Am. L.L. 2017/105, 5/30/2017, eff. 5/30/2018; Am. L.L. 2025/177, 12/2/2025, eff. 12/2/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-116]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2327" number="3528" version="66">
+				<HEADING>Section 669. Procedure on appeals. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-877" name="669"/>Section 669. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Procedure on appeals. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2328" number="3529" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>An appeal may be taken by any person aggrieved or by the head of any agency.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2329" number="3530" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such appeal may be taken within such time as shall be prescribed by the board by general rule, by filing with the officer from whom the appeal is taken and with the board a notice of appeal, specifying the grounds thereof. The officer from whom the appeal is taken shall forthwith transmit to the board all the papers constituting the record upon which the action appealed from was taken. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2330" number="3531" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The board shall fix a reasonable time for the hearing of appeals, and give due notice thereof to the parties, and decide the same within a reasonable time. If the appeal is from an order revoking a permit or approval, the hearing shall be had no later than at the third scheduled hearing of the board following the date of filing of the appeal, or five weeks following such date, whichever is sooner, and the decision of the board shall be rendered expeditiously. Upon the hearing any party may appear in person or by agent or attorney. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2331" number="3532" version="409">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Any decision of the board under this section may be reviewed in accordance with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="25-207" destination-id="0-0-0-0">25-207</LINK> of the administrative code of the city of New York.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4516" number="3533" version="741">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/049" destination-id="0-0-0-0">L.L. 1991/049</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6836" number="3534" version="741">
+				<HEADING>Section 670. False statements.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1483" name="670"/>Section 670. False statements.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4517" number="3535" version="184">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>It shall be a violation of this section for any person to knowingly make or allow to be made a material false statement in any certificate, professional certification, form, signed statement, application or report that is either submitted directly to the board of standards and appeals or that is generated with the intent that the board rely on its assertions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4952" number="3536" version="184">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The office of the corporation counsel or an agency designated by the mayor shall have the authority to enforce the provisions of this section. Pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1048" destination-id="0-0-0-1023">1048</LINK>, the office of administrative trials and hearings shall have jurisdiction over any such violation. Any determination reached by such office shall constitute a final determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4951" number="3537" version="191">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>A person who has been found to have knowingly made or allowed to be made a material false statement in violation of subdivision a of this section shall be subject to a civil penalty of up to $15,000 for each such false statement. The board of standards and appeals may dismiss any application in connection with a final determination of such violation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4950" number="3538" version="184">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Any person who commits a violation of subdivision a of this section and who notifies the board of such violation prior to receiving notice of the potential violation shall not be subject to a civil penalty for such violation, except that the board may dismiss any application in connection with such violation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4949" number="3539" version="184">
+					<PARA>(L.L. 2017/103, 5/30/2017, eff. 5/30/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-025]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

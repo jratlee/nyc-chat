@@ -1,0 +1,234 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-7792" number="5479" version="1012">
+			<HEADING>Chapter 57: Department of Environmental Protection</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1239" name="Chapter 57"/>Chapter 57: Department of Environmental Protection</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3611" number="5480" version="3">
+				<HEADING>Section 1401. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1241" name="1401"/>Section 1401. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3612" number="5481" version="617">
+					<PARA>There shall be a department of environmental protection, the head of which shall be the commissioner of environmental protection. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3613" number="5482" version="3">
+				<HEADING>Section 1402. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1243" name="1402"/>Section 1402. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3614" number="5483" version="617">
+					<PARA>The commissioner may appoint three deputies. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3615" number="5484" version="3">
+				<HEADING>Section 1403. Powers and duties of the commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1245" name="1403"/>Section 1403. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties of the commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6852" number="5485" version="786">
+					<PARA>Except as otherwise provided by law, the commissioner shall have charge and control of and be responsible for all those functions and operations of the city relating to the provision of a pure, wholesome and adequate supply of water, the disposal of sewage and the prevention of air, water and noise pollution, and shall be authorized to respond to emergencies caused by releases or threatened releases of hazardous substances and to collect and manage information concerning the amount, location and nature of hazardous substances. Each inspector or other employee of the department who issues notices of violation shall, for provisions of law that are enforced exclusively by the department, have access at the time that a violation is issued to equipment allowing such person: (1) to determine if such violation is a first-time violation of the applicable provision of law, and (2) if permitted by law, to issue a warning for such violation and to record that such a warning has been issued. The powers and duties of the commissioner shall include, without limitation, the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-074]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3617" number="5486" version="617">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Water resources control.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3618" number="5487" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The commissioner shall have charge and control of: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3619" number="5488" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>All structures and property connected with the supply and distribution of water for public use not owned by private corporations, including all fire and drinking hydrants and all water meters; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3620" number="5489" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Furnishing the water supply and maintaining its quality, and of the investigation for and the construction of all works necessary to deliver the proper and required quality of water with ample reserve for contingencies and future demands; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3621" number="5490" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Making and enforcing rules and regulations governing and restricting the use and supply of water; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3623" number="5491" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The commissioner shall examine into the sources of water supply of any private companies supplying the city or any portion thereof or its inhabitants with water to see that the same is wholesome and the supply is adequate, to establish such rules and regulations in respect thereof as are reasonable and necessary for the convenience of the public and to exercise superintendence, regulation and control in respect to the supply of water by such water companies. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-014]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3624" number="5492" version="617">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Sewage control.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3625" number="5493" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The commissioner shall have charge and control over the location, construction, alteration, repair, maintenance and operation of all sewers including intercepting sewers and sewage disposal plants, and of all matters in the several boroughs relating to public sewers and drainage, and shall initiate and make all plans for drainage and shall have charge of all public and private sewers in accordance with such plans; and shall have charge of the management, care and maintenance of sewer and drainage systems therein. In addition, the commissioner shall have the authority to supervise and adopt rules regarding private sewage disposal systems, other than community private sewage disposal systems, and to prescribe civil penalties for the violation of such rules of no more than ten thousand dollars per violation, and, except as otherwise provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="643" destination-id="0-0-0-845">six hundred forty-three</LINK> of this charter, to issue permits pursuant to such rules for the construction and maintenance of such private sewage disposal systems. With regard to community private sewage disposal systems, the commissioner shall have the authority to perform inspections, and to issue notices of violation for violations of any provision of the New York city health code relating to private sewage disposal, which shall be served and returnable as provided by law for violations of the New York city health code, and the power to perform such other duties with regard to the supervision and regulation of such systems as may be lawfully delegated to him or her by the board of health or department of health and mental hygiene. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3626" number="5494" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The commissioner may adopt regulations requiring the discharge of sewage, refuse, factory waste and trade waste into the public sewers of the city, or regulating, restricting or prohibiting the use of public sewers for the discharge therein of any material or substance and may prescribe civil penalties for the violation thereof. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3627" number="5495" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Nothing in this subdivision shall be construed to limit the authority or powers of the commissioner of health and mental hygiene, the department of health and mental hygiene, or the board of health relating to the declaration or abatement of nuisances, or the enforcement of applicable public health laws or rules. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3628" number="5496" version="617">
+					<PARA>
+						<TAB tab-count="1"/>b-1.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Water pollution control.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-014]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4582" number="5497" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Except as otherwise provided by law and subject to the provisions of this chapter, the commissioner shall have the power to administer and enforce provisions of law, rules and regulations relating to the management and control of discharges and runoff from public and private property, including but not limited to stormwater discharges; regulate and control discharges into water within and about the city of New York of harmful or objectionable substances, contaminants and pollutants that may have an adverse impact on waters of the state; enforce all laws, rules and regulations with respect to discharges described in this paragraph; make such investigations and studies as may be desirable for the purpose of such enforcement and of controlling and eliminating pollution of waters within and about the city of New York; and, for the purposes set forth in this paragraph, compel the attendance of witnesses and take such witnesses&apos; testimony under oath. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-014]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4581" number="5498" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The commissioner shall have the power to coordinate the actions of city agencies with respect to compliance with the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-014]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4580" number="5499" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>City agencies shall have the power to take such actions, including but not limited to the promulgation of rules, as they determine to be necessary to ensure compliance with the provisions of the state pollutant discharge elimination system (SPDES) permit for municipal separate storm sewer systems of New York city, SPDES No. NY-0287890 or its successor, and with provisions of law related thereto. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-014]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4579" number="5500" version="617">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Air resources control.</CHARFORMAT> The commissioner shall regulate and control the emission into the open air of harmful or objectionable substances, including, but not limited to, smoke, soot, dust, fumes, flyash, gas vapors, odors and any products of combustion or incomplete combustion resulting from the use of fuel burning equipment or from the heating of fuels or refuse. The commissioner shall enforce all laws, rules and regulations with respect to such emissions and shall make such investigations and studies as may be desirable for the purpose of such enforcement and of controlling and eliminating air pollution, and for such purpose shall have the power to compel the attendance of witnesses and to take their testimony under oath. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3629" number="5501" version="617">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Noise pollution control.</CHARFORMAT> The commissioner shall enforce all laws, rules and regulations to eliminate noise pollution. The commissioner shall make investigations and studies to develop permissible sound levels and to correct problems related to noise control, and, for such purposes, shall have power to compel the attendance of witnesses and to take their testimony under oath. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3630" number="5502" version="617">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Review of environmental consequences of certain activities.</CHARFORMAT> The commissioner shall review and comment upon the environmental consequences of any activity requiring the approval of any agency of the city where such activity may have a significant impact on the physical aspects of the environment of the city, and shall be responsible for investigating, evaluating and reporting upon activities related to fuel supply and demand, alternative sources of energy, and resource recovery. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3631" number="5503" version="786">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reserved.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3635" number="5504" version="786">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Energy conservation and alternative fuels.</CHARFORMAT> The commissioner shall participate in formulating an energy policy for the city, including assessing the environmental costs and factors associated with all kinds of energy use and programs developed to meet energy needs. The commissioner shall study, establish, organize, promote, coordinate and carry out policies, activities, projects and programs designed to encourage fuel and energy conservation, alternate sources of fuel and energy and encourage, stimulate and foster others to participate in such projects, programs and activities. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3636" number="5505" version="617">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Emergency response.</CHARFORMAT> The commissioner shall have the power to respond to emergencies caused by releases or threatened releases of hazardous substances into the environment. The commissioner may (1) implement any response measures deemed to be necessary to protect the public health or welfare or the environment from a release or threat of release, (2) order responsible persons to undertake response measures, and (3) recover the costs of response measures incurred by the department from the responsible persons. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3637" number="5506" version="617">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Community right-to-know.</CHARFORMAT> The commissioner shall have the power to collect, compile and manage information concerning the amount, location and nature of hazardous substances present in the city. This information shall be made available to city personnel responsible for responding to emergencies involving hazardous substances and the public.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4578" number="5507" version="786">
+					<PARA>(Am. L.L. 2017/097, 5/30/2017, eff. 6/29/2017; Am. L.L. 2021/159, 12/24/2021, eff. 6/22/2022; Am. L.L. 2023/068, 5/29/2023, eff. 6/28/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3640" number="5508" version="984">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1987/042" destination-id="0-0-0-0">L.L. 1987/042</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1988/026" destination-id="0-0-0-0">L.L. 1988/026</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1990/071" destination-id="0-0-0-0">L.L. 1990/071</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/050" destination-id="0-0-0-0">L.L. 1991/050</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1996/065" destination-id="0-0-0-0">L.L. 1996/065</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6722" number="5509" version="709">
+				<HEADING>Section 1404. Office of environmental remediation. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1495" name="1404"/>Section 1404. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Office of environmental remediation. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3641" number="5510" version="757">
+					<PARA>There shall be an office of environmental remediation within the department. The office shall be headed by the director of the office of environmental remediation in accordance with subdivision e of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="15" destination-id="0-0-0-81">fifteen</LINK> of the New York city charter. The office shall exercise such powers and duties as the director shall determine, including, but not limited to, the power and duty to administer the E-Designation program, as defined in section 11-15 of the zoning resolution of the city of New York.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4571" number="5511" version="45">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> Former Section 1404, environmental control board, renumbered as Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1049-a" destination-id="0-0-0-1029">1049-a</LINK>.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3642" number="5512" version="755">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2008/035" destination-id="0-0-0-0">L.L. 2008/035</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2009/027" destination-id="0-0-0-0">L.L. 2009/027</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6545" number="5513" version="655">
+				<HEADING>Section 1405. Borough commissioners.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1737" name="1405"/>Section 1405. Borough commissioners.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6219" number="5514" version="536">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>For each borough, the commissioner of environmental protection shall assign a borough commissioner, who shall: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6218" number="5515" version="536">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Inform the commissioner of environmental protection regarding programs, personnel, and facilities within the borough to which such borough commissioner is assigned; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6217" number="5516" version="536">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Consult when appropriate with the relevant borough president, other borough commissioners of the department and community boards. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6216" number="5517" version="536">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Nothing in this section shall prohibit the commissioner of environmental protection from assigning as borough commissioner under this section an employee who is also assigned to a position in the department pursuant to subdivision f of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2704" destination-id="0-0-0-1413">2704</LINK> or subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2706" destination-id="0-0-0-1417">2706</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6214" number="5518" version="536">
+					<PARA>(L.L. 2022/023, 1/9/2022, eff. 4/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

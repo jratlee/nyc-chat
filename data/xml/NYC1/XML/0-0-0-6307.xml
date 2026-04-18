@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-6307" number="3323" version="608">
+			<HEADING>Chapter 25: Department of Correction</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1513" name="Chapter 25"/>Chapter 25: Department of Correction</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2201" number="3324" version="3">
+				<HEADING>Section 621. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-827" name="621"/>Section 621. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2202" number="3325" version="617">
+					<PARA>There shall be a department of correction the head of which shall be the commissioner of correction. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2203" number="3326" version="3">
+				<HEADING>Section 622. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-829" name="622"/>Section 622. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2204" number="3327" version="617">
+					<PARA>The commissioner may appoint two deputies. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2205" number="3328" version="3">
+				<HEADING>Section 623. Powers of commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-831" name="623"/>Section 623. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers of commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2206" number="3329" version="617">
+					<PARA>The commissioner shall have:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2207" number="3330" version="617">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Charge and management of all institutions of the city, including all hospital wards therein for the care and custody of felons, misdemeanants, all prisoners under arrest awaiting arraignment who require hospital care, including those requiring psychiatric observation or treatment and violators of ordinances or local laws and for the detention of witnesses who are unable to furnish security for their appearance in criminal proceedings, except such places for the detention of prisoners or persons charged with crime as are by law placed under the charge of some other agency. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2208" number="3331" version="617">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Sole power and authority concerning the care, custody and control of all court pens for the detention of prisoners while in the criminal courts of the city of New York, the family court of the state of New York within the city of New York, the supreme court in the counties of New York, Bronx, Kings, Queens and Richmond and of all vehicles employed in the transportation of prisoners who have been sentenced, are awaiting trial or are held for any other cause. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2209" number="3332" version="617">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Charge and management of persons or any other institution of the city placed under his jurisdiction by law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2210" number="3333" version="617">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>All authority, except as otherwise provided by law, concerning the care and custody of felons, misdemeanants and violators of local laws held in the institutions under his charge. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2211" number="3334" version="617">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>All authority in relation to the custody and transportation of persons held for any cause in criminal proceedings and all prisoners under arrest awaiting arraignment who require hospital care, including those requiring psychiatric observation or treatment, in any county within the city. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2212" number="3335" version="617">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>General supervision and responsibility for the planning and implementation of re-training, counseling and rehabilitative programs for felons, misdemeanants and violators of local laws who have been sentenced and are held in institutions under his charge. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2213" number="3336" version="3">
+				<HEADING>Section 624. Cleaning and maintenance of buildings. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-833" name="624"/>Section 624. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cleaning and maintenance of buildings. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2214" number="3337" version="617">
+					<PARA>The commissioner shall maintain and operate buildings and structures under his jurisdiction. The commissioner may construct such additions and repairs to buildings under his jurisdiction as can be accomplished by the use of the labor of persons under his care and custody and with materials in the possession of the department. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2215" number="3338" version="3">
+				<HEADING>Section 625. Labor of prisoners. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-835" name="625"/>Section 625. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Labor of prisoners. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2216" number="3339" version="617">
+					<PARA>Every incarcerated individual of an institution under the authority of the commissioner shall be employed in some form of industry, in farming operations or other employment, and products thereof shall be utilized in the institutions under the commissioner or in any other agency. Those persons held for trial may be employed in the same manner as sentenced prisoners, provided they give their consent in writing. Such incarcerated individuals or prisoners held for trial may be detailed by the commissioner to perform work or service on the grounds and buildings or on any public improvement under the charge of any other agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-064]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5930" number="3340" version="489">
+					<PARA>(Am. 2021 N.Y. Laws Ch. 322, 8/2/2021, eff. 8/2/2021) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-064]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2217" number="3341" version="3">
+				<HEADING>Section 626. Board of correction. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-837" name="626"/>Section 626. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Board of correction. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7441" number="3342" version="974">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be a city board of correction to consist of nine members. Members shall be appointed for a term of six years. Vacancies shall be filled for the remainder of the unexpired term. Three members shall be appointed by the mayor, three by the council, and three by the mayor on the nomination jointly by the presiding justices of the appellate division of the supreme court for the first and second judicial departments. Appointments shall be made by the three respective appointing authorities on a rotating basis to fill any vacancy occurring on or after the effective date of this charter. Members of the board may be reimbursed for expenses incurred in the performance of their duties. The chairman of the board shall be designated from time to time by the mayor from among its members. Members of the board may be removed by the mayor for cause and after a hearing at which they shall be entitled to representation by counsel.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2219" number="3343" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The board shall adopt rules to govern its own proceedings. The board may appoint an executive director to serve at its pleasure with such duties and responsibilities as the board may assign, and other professional, clerical, and support personnel within appropriations for such purpose. The commissioner shall designate such of the department&apos;s stenographic, clerical and other assistance to the board as may be necessary for the proper performance of its functions. The commissioner may attend meetings of the board but shall not be a member of it. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2220" number="3344" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The board, or by written designation of the board, any member of it, the executive director, or other employee, shall have the following powers and duties: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2221" number="3345" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The inspection and visitation at any time of all institutions and facilities under the jurisdiction of the department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2222" number="3346" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The inspection of all books, records, documents, and papers of the department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2223" number="3347" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The preparation for submission to the mayor, the council, and the commissioner of proposals for capital planning and improvements; studies and reports concerned with the development of the department&apos;s correctional program planning; and studies and reports in regard to methods of promoting closer cooperation of custodial, probation, and parole agencies of government and the courts; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2224" number="3348" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The evaluation of departmental performance. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2225" number="3349" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The board, annually and at such other times as it may determine, shall submit to the mayor, the council, and the commissioner reports, findings and recommendations in regard to the matters within its jurisdiction. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2226" number="3350" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The board shall establish minimum standards for the care, custody, correction, treatment, supervision, and discipline of all persons held or confined under the jurisdiction of the department; and it shall promulgate such minimum standards in rules and regulations after giving the mayor and commissioner an opportunity to review and comment on the proposed standards, or amendments or additions to such standards. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2227" number="3351" version="772">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The board shall establish procedures for the hearing of grievances, complaints or requests for assistance (1) by or on behalf of any person held or confined under the jurisdiction of the department or (2) by any employee of the department. Starting July 1, 2021, the board shall issue a report, at least every three years, on issues related to the department&apos;s grievance process. Such report shall incorporate direct feedback from incarcerated individuals and proposed recommendations for relevant improvements, and shall include a section of recommendations on how to improve the grievance process for vulnerable populations, including incarcerated individuals who are lesbian, gay, bisexual, transgender, intersex, and gender nonconforming. Such report shall be submitted to the council and posted on the board&apos;s website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-045]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2228" number="3352" version="336">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>Within the scope of its authority pursuant to this section, the board may compel the attendance of witnesses, require the production of books, accounts, papers and other evidence, administer oaths, examine persons, and conduct public or private hearings, studies and investigations. The board may institute proceedings in a court of appropriate jurisdiction to enforce its subpoena power and other authority pursuant to this section.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5628" number="3353" version="336">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>The board, or by written designation, a member of the board or the executive director, may conduct hearings, or study or investigate any matter within the jurisdiction of the department, and the board may make recommendations and submit reports of its findings to the appropriate authorities. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-045]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5629" number="3354" version="974">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>1.<TAB tab-count="1"/>For purposes of this subdivision, the term “correctional health services” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="9-108" destination-id="0-0-0-0">9-108</LINK> of the administrative code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7540" number="3355" version="974">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Except where the commissioner of investigation, the attorney general, or the district attorney for the county in which a death of an incarcerated individual held or confined under the jurisdiction of the department occurred investigates such death or prosecutes any alleged criminal offense related to such death and requests or directs the board not to investigate such death, the board shall investigate such death and prepare a report about such investigation. Such report shall include any recommendations about measures the department or correctional health services may implement to prevent the circumstances that contributed to the individual’s death. Nothing in this subdivision shall be construed to limit the board’s discretion to investigate a death of an incarcerated individual held or confined under the jurisdiction of the department, including any death the board attributes to a person’s time in the custody of the department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7539" number="3356" version="974">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The board shall submit such report to the department and correctional health services for review by the department and correctional health services pursuant to subdivision h of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="9-171" destination-id="0-0-0-0">9-171</LINK> of the administrative code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7538" number="3357" version="974">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>No later than 30 days after the board submits the report to the department and correctional health services, the board shall post such report and any response to such report from the department and correctional health services on the website of the board, provided that the board may post such report and any such response on any date after the department and correctional health services have provided such a response. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7537" number="3358" version="974">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Notwithstanding subparagraph (b) of paragraph 2, where the board has not concluded an investigation of a death of an incarcerated individual pursuant to this subdivision within 180 days of such death, the board shall, every 60 days until the board concludes such investigation and posts a report about such investigation, post on its website a statement that the board has not concluded such investigation, except where the commissioner of investigation, the attorney general, or the district attorney for the county in which such death occurred investigates such death or prosecutes any alleged criminal offense related to such death and requests or directs the board not to investigate such death. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7536" number="3359" version="974">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Upon request from the next of kin of an incarcerated individual who has died, the board shall provide to such next of kin records provided to the board by the department and correctional health services for purposes of such investigation in accordance with section 87 of the public officers law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7534" number="3360" version="974">
+					<PARA>(Am. L.L. 2019/133, 7/14/2019, eff. 1/14/2020; Am. L.L. 2025/105, 8/13/2025, eff. 11/11/2025) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-115]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-2229" number="3361" version="3">
+				<HEADING>Section 627. Council members authorized to visit correctional facilities. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-839" name="627"/>Section 627. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Council members authorized to visit correctional facilities. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2230" number="3362" version="617">
+					<PARA>Any council member is authorized to inspect and visit at any time the institutions and facilities under the jurisdiction of the department. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

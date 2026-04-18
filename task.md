@@ -3,6 +3,11 @@
   - [x] Set up GitHub remote (`jratlee/nyc-chat`)
   - [x] Sanitize repo (remove secrets, add `.env.example`)
   - [x] Restore services and verify `nyc.localhost`
+- [x] Phase 12: UI & Search Refinement
+  - [x] Fix TypeError in Citations Expander
+  - [x] Refine Fallback Cypher Query (Longest Word Logic)
+  - [x] Consolidate Data Sources (NYC1-3) into Repo
+  - [x] Update README with Data Onboarding Instructions
 - [x] Phase 11: Streamlit Deployment Readiness
   - [x] Create standalone `streamlit_app.py`
   - [x] Generate `requirements.txt` for cloud hosting

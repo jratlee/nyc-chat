@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\QYOUGRVBABWOEQAB\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\QYOUGRVBABWOEQAB\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\QYOUGRVBABWOEQAB\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-236154" number="50239" version="2466">
+			<HEADING>Chapter 43: Early Childhood Care and Education Reimbursements</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-30045" name="T21-aC043"/>Chapter 43: Early Childhood Care and Education Reimbursements</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-245063" number="50240" version="2466">
+										<HEADING>§ 21-1015 Early childhood care and education reimbursements.</HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-30047" name="21-1015"/>§ 21-1015 Early childhood care and education reimbursements.</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-245098" number="50241" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For the purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245097" number="50242" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual operating budget.</CHARFORMAT> The term “annual operating budget” means the operating budget that the provider is contractually required to submit to the department for review and approval prior to the start of each fiscal year. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245096" number="50243" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Approvable.</CHARFORMAT> The term “approvable” means an invoice that meets all contractual requirements for payment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245095" number="50244" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contract.</CHARFORMAT> The term “contract” means a contract between the department and a provider for early childhood education services. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245094" number="50245" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contract budget.</CHARFORMAT> The term “contact budget” means the overall budget for the contracted services that the provider is contractually required to submit to the department for review and approval prior to the contract’s registration with the comptroller. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245093" number="50246" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Invoice.</CHARFORMAT> The term “invoice” means a submission to the department by a provider seeking payment for services rendered under a contract. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245092" number="50247" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Payment.</CHARFORMAT> The term “payment” means a payment made by the department to a provider, or an offset against a previous advance or overpayment, which fully satisfies the amount requested in an approvable invoice. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245091" number="50248" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Provider.</CHARFORMAT> The term “provider” means a licensed child care provider or family child care network providing early childhood education services, including early childhood special education services, pursuant to a contract with the department. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245090" number="50249" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Registration.</CHARFORMAT> The term “registration” means the formal review and approval of a contract by the comptroller, upon which the contract becomes effective for performance and payment. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245089" number="50250" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Report.</CHARFORMAT> On a quarterly basis, the department shall submit to the mayor and the speaker of the council, and post on the department’s website, a report regarding payments to early childhood care and education providers. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245088" number="50251" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>The report shall include, for each provider: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245087" number="50252" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The name of the provider; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245086" number="50253" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The contract identification number or tax identification number for each contract; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245085" number="50254" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The total value of each contract; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245084" number="50255" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The zip codes where the provider renders services pursuant to the contract; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245083" number="50256" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The amount the department has paid to the provider as an advance; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245082" number="50257" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Whether the department has approved the provider’s annual operating budget, listed as yes or no; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245081" number="50258" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The amount the department has paid to the provider pursuant to each contract. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245080" number="50259" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>The report shall also include: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245079" number="50260" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The total number and value of invoices the department has received; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245078" number="50261" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The total number and value of invoices the department has approved; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245077" number="50262" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(c)<TAB tab-count="1"/>The total number and value of invoices the department has rejected or returned for revision; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245076" number="50263" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The average number of days between the date that the department receives an approvable invoice and the date that it approves the invoice; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245075" number="50264" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The total number and value of contracts for which the department has issued an advance, and the total value of the advances; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245074" number="50265" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The total number and value of approvable invoices for which the department has not issued payment; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245073" number="50266" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(g)<TAB tab-count="1"/>The average number of days between the date that the department determines that an invoice is approvable and the date that the department issues payment on the invoice; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245072" number="50267" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(h)<TAB tab-count="1"/>In the quarterly report required pursuant to paragraph 4 of subdivision c of this section, a narrative description of the primary reasons that led to the department rejecting provider annual operating budgets and invoices over the preceding year; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245071" number="50268" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Any recommendations for improvements in the process. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245070" number="50269" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+												<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting deadlines.</CHARFORMAT> For each year, the department shall submit the quarterly reports required pursuant to subdivision b on the following schedule: <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245069" number="50270" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>1.<TAB tab-count="1"/>For the period beginning January 1 and ending March 31, no later than May 1; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245068" number="50271" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>2.<TAB tab-count="1"/>For the period beginning April 1 and ending June 30, no later than August 1; <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245067" number="50272" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>3.<TAB tab-count="1"/>For the period beginning July 1 and ending September 30, no later than November 1; and <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245066" number="50273" version="2466">
+											<PARA>
+												<TAB tab-count="1"/>
+												<TAB tab-count="1"/>4.<TAB tab-count="1"/>For the period beginning October 1 and ending December 31, no later than February 1 of the following year. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-245064" number="50274" version="2466">
+											<PARA>(L.L. 2026/073, 3/27/2026, eff. 3/27/2026) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-119]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

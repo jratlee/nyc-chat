@@ -1,0 +1,1664 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-42699" number="51498" version="1245">
+			<HEADING>Chapter 8: Cooling Towers</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-5921" name="T24C008"/>Chapter 8: Cooling Towers</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-42700" number="51499" version="1942">
+								<HEADING>§ 8-01 Scope and Applicability. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5923" name="T24C008_8-01"/>§ 8-01 Scope and Applicability. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42701" number="51500" version="3">
+									<PARA>This Chapter applies to owners of New York City buildings or other premises in the City that are equipped with a cooling tower system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42702" number="51501" version="111">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-42703" number="51502" version="3">
+								<HEADING>§ 8-02 Definitions. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5925" name="T24C008_8-02"/>§ 8-02 Definitions. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42704" number="51503" version="1129">
+									<PARA>When used in this Chapter, the following terms mean: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42705" number="51504" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">ANSI/ASHRAE 188-2015</CHARFORMAT>&quot; means sections 5, 6 and 7.2 of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">ANSI/ASHRAE Standard 188-2015 Legionellosis: Risk Management for Building Water Systems</CHARFORMAT>, a publication issued by the American National Standards Institute (ANSI)/American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE), final approval date June 26, 2015, at pages 4 - 8. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42706" number="51505" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Bacteriological indicator</CHARFORMAT>&quot; means a biological process control indicator that estimates microbial content in the circulating water of a cooling tower system, such as heterotrophic plate count (HPC) as measured in a water sample or by a dip slide. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42707" number="51506" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Biocidal indicator</CHARFORMAT>&quot; means a direct or indirect measure of the effectiveness of biocide, consisting of free halogen residual concentration or oxidation reduction potential (ORP), as specified in the management program and plan. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42708" number="51507" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building</CHARFORMAT>&quot; means any structure used or intended for supporting or sheltering any use or occupancy. The term shall be construed as if followed by the phrase &quot;structure, premises, lot or part thereof&quot; unless otherwise indicated by the text. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42709" number="51508" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cleaning</CHARFORMAT>&quot; means physical, mechanical or other removal of biofilm, scale, debris, rust, other corrosion products, sludge, algae and other potential sources of contamination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42710" number="51509" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cooling tower</CHARFORMAT>&quot; means a cooling tower, evaporative condenser or fluid cooler that is part of a recirculated water system incorporated into a building&apos;s cooling, industrial process, refrigeration, or energy production system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42711" number="51510" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cooling tower system</CHARFORMAT>&quot; means one or more cooling towers and all of the recirculating water system components, process instruments and appurtenances through which water flows or comes into contact with key parts consisting of biocide, anti-scaling and anti-corrosion chemical applicators, valves, pumps, the tower superstructure, condensers and heat exchangers and other related components. The cooling tower system may comprise multiple cooling towers that share some or all superstructure components. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42712" number="51511" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Corrective actions</CHARFORMAT>&quot; mean disinfection, cleaning, flushing, and other activities to remedy biofilm growth, <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT> proliferation, or other system mechanical problems identified through monitoring, inspections, or other means as may be determined by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42713" number="51512" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Compliance inspection</CHARFORMAT>&quot; means the inspection, testing and other activities that are required on a regular basis (at least every 90 days) in accordance with the maintenance program and plan and this Chapter, including the completion of a written or electronic checklist, and must be conducted and certified by a qualified person. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42714" number="51513" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dead legs</CHARFORMAT>&quot; mean lengths of pipe normally closed at one end or ending in a fitting within the cooling tower system that limits water circulation and is likely to result in stagnant water in the system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42715" number="51514" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department</CHARFORMAT>&quot; means the New York City Department of Health and Mental Hygiene. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42716" number="51515" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Dip slide</CHARFORMAT>&quot; means a method to test for microorganisms (such as HPC) consisting of a sterile culture medium affixed to a sterile slide, that is dipped directly into the liquid that is to be sampled. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42717" number="51516" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disinfection</CHARFORMAT>&quot; means using one or more of the biocides registered with the New York State Department of Environmental Conservation at a defined concentration, under specific conditions and for an established period that will kill or inactivate pathogenic microorganisms. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42718" number="51517" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Drift eliminator</CHARFORMAT>&quot; means a system of baffles or cells that cause separation of entrained water designed to remove aerosols from cooling tower exhaust. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42719" number="51518" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heterotrophic plate count</CHARFORMAT>&quot; or &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">HPC</CHARFORMAT>&quot; means a measure of the concentration of microorganisms that require an external source of organic carbon for growth including bacteria, yeasts and mold in water samples. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42720" number="51519" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Idling</CHARFORMAT>&quot; means turning off or limiting water circulation within the cooling tower system but not draining the system water. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42721" number="51520" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Immediate</CHARFORMAT>&quot; or &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">immediately</CHARFORMAT>&quot; means within 24 hours when used in regards to (i) actions required to be taken under this Chapter, or (ii) incidents or results required to be reported under this Chapter, or (iii) records required to be made available to the Department under this Chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42722" number="51521" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>&quot; means the genus of bacteria which is ubiquitous in aqueous environments, including the recirculated water of cooling tower systems that are not properly or regularly maintained. There are more than 50 different species of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>, all of which are potentially pathogenic. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42723" number="51522" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+										</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0"> sample</CHARFORMAT>&quot; means water or other sample to be examined for the presence of viable <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>bacteria using semiselective culture media and procedures specific to the cultivation and detection of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>species, such as those outlined in International Organization for Standardization (ISO) Standards 11731-1:1998 and 11731-2:2004. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42724" number="51523" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Maintenance program and plan</CHARFORMAT>&quot; or &quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">plan</CHARFORMAT>&quot; means a written set of measures describing monitoring, cleaning, disinfection and all other activities for the prevention and control of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>growth in a cooling tower system, that is in accordance with section 5, 6 and 7.2 of ANSI/ASHRAE 188-2015 and with the manufacturer&apos;s instructions, and is developed by a qualified person. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42725" number="51524" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Makeup water</CHARFORMAT>&quot; means water added to the cooling tower system on a regular basis to replace water lost by evaporation, drift or leakage and to maintain optimal system operation and process control. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42726" number="51525" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Management and maintenance team</CHARFORMAT>&quot; means the individual or individuals designated by a building owner to be responsible for the continued effective and safe operation of a cooling tower system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42727" number="51526" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Owner</CHARFORMAT>&quot; means any person, agent, firm, partnership, corporation or other legal entity having a legal or equitable interest in, or control of the premises. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42728" number="51527" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Process control measures</CHARFORMAT>&quot; mean actions that must be taken to evaluate internal functioning of the cooling tower system, including monitoring conductivity, pH, biological indicators and other parameters, and observing phenomenon such as scaling, corrosion and biofilm. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42729" number="51528" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Qualified person</CHARFORMAT>&quot; means a New York State licensed and registered professional engineer; a certified industrial hygienist; a certified water technologist with training and experience developing management plans and performing inspections in accordance with current standard industry protocols including, but not limited to ANSI/ASHRAE 188-2015; or an environmental consultant who has at least two (2) years of operational experience in water management planning and operation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42730" number="51529" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Responsible person</CHARFORMAT>&quot; means a person employed or whose services are retained by an owner, who understands and is capable of performing the required daily water quality measurements, weekly system monitoring and operation and maintenance of a cooling tower system in accordance with the maintenance program and plan, and making recommendations for diagnosing anomalous conditions that require corrective actions, under the guidance of a qualified person. The responsible person should be capable of measuring water pH, temperature and disinfectant residual levels at proper locations/frequencies; checking biocide storage container levels; recording dates, amounts and times of biocide injection; and logging all other relevant data and comments. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42731" number="51530" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Risk management assessment</CHARFORMAT>&quot; means a process for comprehensively identifying, describing and evaluating in detail all aspects of a cooling tower system that may potentially contribute to the growth and dissemination of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>bacteria. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42732" number="51531" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Routine monitoring</CHARFORMAT>&quot; means evaluation and other activities that must be completed periodically in accordance with the maintenance program and plan and this Chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42733" number="51532" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Stagnant water</CHARFORMAT>&quot; means water that is confined, standing, experiencing a period of low flow or usage, and not being actively circulated through the cooling tower system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42734" number="51533" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Standard methods</CHARFORMAT>&quot; means accepted protocols for sampling, recording, laboratory testing, reporting and other procedures related to environmental and water quality sampling, including, but not limited to, those set forth in <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Standard Methods for the Examination of Water and Wastewater</CHARFORMAT> 22nd Edition, 2012, a publication issued jointly by the American Public Health Association, the American Water Works Association and the Water Environment Federation and the <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Standards Microbiological Methods </CHARFORMAT>(TC 147/SC4) published by the International Organization for Standardization, or successor editions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42735" number="51534" version="2502">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Summertime hyperhalogenation</CHARFORMAT>&quot; means a one-time per year dosing of higher than normal levels of chlorine or bromine based biocide conducted between July 1 and August 31 to ensure the maintenance of a minimum of 5 parts per million (ppm) free halogen residual in the cooling tower system for at least 6 hours. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126712" number="51535" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">System shutdown</CHARFORMAT>&quot; means shutting off or closing and draining the cooling tower system when cooling is no longer needed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42736" number="51536" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">System start-up</CHARFORMAT>&quot; means commissioning a new system, or putting the cooling tower system into operation after system shutdown or idling. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42737" number="51537" version="3">
+									<PARA>
+										<TAB tab-count="1"/>&quot;<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Water quality parameters</CHARFORMAT>&quot; means temperature, pH, conductivity, biocidal indicator, bacteriological indicator and other chemical and physical indicators of system process control. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42739" number="51538" version="1706">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016; amended City Record 7/7/2020, eff. 7/7/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97831" number="51539" version="111">
+								<HEADING>§ 8-03 Maintenance Program and Plan. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5927" name="T24C008_8-03"/>§ 8-03 Maintenance Program and Plan. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42740" number="51540" version="3">
+									<PARA>
+										<TAB tab-count="1"/>For each cooling tower system the owner must have a maintenance program and plan prepared by a qualified person in accordance with sections 5, 6 and 7.2 of ANSI/ASHRAE 188-2015, the manufacturer&apos;s instructions, and the requirements of this Chapter. The plan must be kept current and amended by a responsible or qualified person as needed to reflect any changes in the management and maintenance team, system design, operation or system control requirements for the cooling tower system. The plan must be kept in the building where a cooling tower or cooling tower system is located, or in an adjacent building or structure on the same campus, complex, lot, mall or on-site central engineering division, and must be made available to the Department for inspection upon and at the time of a request. At a minimum, the plan must include and describe: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42741" number="51541" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Management and maintenance team.</CHARFORMAT> Identification, including names and contact information (mail and email addresses and telephone numbers) and description of the function of each person on the cooling tower system management and maintenance team, including: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42742" number="51542" version="1852">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The owner of the building where each cooling tower system is located and any manager or other person designated by the owner as responsible for compliance with the requirements of Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-194.1" destination-id="0-0-0-0">17-194.1</LINK> and this Chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42743" number="51543" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Any person designated by the owner as a responsible person, as defined in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-02" destination-id="0-0-0-5925">8-02</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42744" number="51544" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Every consultant, service company and qualified person who cleans, disinfects, delivers chemicals or services the cooling tower system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42745" number="51545" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cooling tower system. </CHARFORMAT>Identification, specifications and description of each cooling tower system and all components located at a specific address, including: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42746" number="51546" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The number of cooling towers in the cooling tower system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42747" number="51547" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The location of each cooling tower in relation to the building and the building address, block and lot number. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42748" number="51548" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The dimensions and characteristics of the cooling tower system including total recirculating water volume, cooling tower tonnage, biocide delivery method, flow rate and other key characteristics. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42749" number="51549" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The purpose of the cooling tower system and seasonal or year-round operation including start and end date, if applicable. For systems with multiple cooling towers, conditional operation, such as cycling or scaling related to cooling demand, must also be noted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42750" number="51550" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The New York City Department of Buildings registration number for each cooling tower. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42751" number="51551" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>The cooling tower manufacturer, model number and serial number, if applicable. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42752" number="51552" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>A flow diagram or schematic of the cooling tower system, identifying all of the principal components and appurtenances of the cooling tower system including makeup water and waste stream plumbing locations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42753" number="51553" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Risk management assessment. </CHARFORMAT>The assessment must identify risk factors for <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>proliferation and specify risk management procedures for all or parts of each cooling tower system, and anticipated conditions including: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42754" number="51554" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Any dead legs or stagnant water in the recirculation system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42755" number="51555" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Operating configurations and conditions that may occur after periods of extended inactivity lasting more than three (3) days, including idling or low circulation while not being fully drained. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42756" number="51556" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>System parts that require continual operation throughout the year making regular, periodic offline cleaning and disinfection difficult. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42757" number="51557" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Any components that may add additional risk factors for organic material buildup and microbial growth such as strainers and out-of-use filters. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42758" number="51558" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Sources of elevated organic contamination, including, but not limited to windblown debris, bird waste and plant material. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42759" number="51559" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Design configurations that present risk of direct sun exposure on basin, deck or fill. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42760" number="51560" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Ventilation intakes or other routes for human exposure to cooling tower aerosols. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42761" number="51561" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>System components adversely affecting water quality management procedures. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42762" number="51562" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Other risk or limiting factors or constraints in the cooling tower system&apos;s design and functioning. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42763" number="51563" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cooling tower operation.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42764" number="51564" version="2302">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Control measures, corrective actions, documentation, including a written checklist for routine monitoring, and reporting that comply with 24 RCNY §§ <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK> through <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-08" destination-id="0-0-0-5937">8-08</LINK> and any routine maintenance activities recommended by the manufacturer&apos;s instructions, including performance measures, which may sufficiently demonstrate adequate implementation of the operation requirements described in the maintenance program and plan. Where there is a conflict between the requirements of this Chapter, Part 4 of the State Sanitary Code, § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-194.1" destination-id="0-0-0-0">17-194.1</LINK> of the Administrative Code, and the manufacturer&apos;s instructions, the maintenance program and plan must reflect the most stringent requirement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42765" number="51565" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Specific, detailed seasonal and temporary shutdown and start-up procedures. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42766" number="51566" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Notification and communication strategies among management and maintenance team members regarding the required corrective actions in response to process control activities, monitoring, sampling results and other actions taken to maintain the cooling tower system. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42768" number="51567" version="111">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97832" number="51568" version="111">
+								<HEADING>§ 8-04 Process Control Measures. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5929" name="T24C008_8-04"/>§ 8-04 Process Control Measures. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42769" number="51569" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Routine system monitoring. </CHARFORMAT>An owner must designate a responsible person as defined in 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-02" destination-id="0-0-0-5925">8-02</LINK> to monitor each cooling tower system at least weekly while such system is in use. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42770" number="51570" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The responsible person must enter on a written or electronic checklist provided and maintained by the owner all visual observations of the cooling tower system and associated equipment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42771" number="51571" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The responsible person must possess the skills and have the knowledge necessary to be able to monitor the system under the guidance of a qualified person, in accordance with the management program and plan. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42772" number="51572" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>All wetted surfaces visible during cooling tower operation without shutting down the system, tower basins and drift eliminators must be observed during monitoring and the presence of organic material, biofilm, algae, scale, sediment and silt/dust deposits, organics (oil and grease), and other visible contaminants observed must be noted on the checklist. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42773" number="51573" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>The responsible person must observe and note the condition of chemical dosing and control equipment and the bleed-off system, and determine if there is sufficient storage and delivery of treatment chemicals. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42774" number="51574" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Any system anomalies or problems must be recorded on the checklist and reported to the management and maintenance team for immediate corrective action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42775" number="51575" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Compliance inspections. </CHARFORMAT>An owner must retain a qualified person to conduct a compliance inspection at least once every ninety (90) days while a cooling tower system is in operation. The qualified person must complete and the owner must maintain a written or electronic checklist containing observations and findings with respect to any of the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42776" number="51576" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Presence of organic material, biofilm, algae, and other visible contaminants. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42777" number="51577" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>General condition of the tower, the basin, packing material and drift eliminator. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42778" number="51578" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Quality of water makeup connections and control. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42779" number="51579" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Proper functioning of the conductivity control. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42780" number="51580" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Proper functioning of all dosing equipment (pumps, strain gauges). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42781" number="51581" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Review of routine maintenance records to ensure proper implementation of required activities and corrective actions as needed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42782" number="51582" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Maintenance.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42783" number="51583" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Routine maintenance. </CHARFORMAT>Cooling tower systems must be maintained and operated in accordance with the maintenance program and plan. Routine maintenance must address all components and operations, including, but not limited to, general system cleanliness, drift eliminator and fill material condition, overall distribution operation, water treatment system, basin/remote sump cleaning, and purging of stagnant and low-flow zones. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42784" number="51584" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Replacement in kind. </CHARFORMAT>Any replacement part or equipment used in a cooling tower must comply with the manufacturer&apos;s design and performance specifications. As applicable, replacement materials must be corrosion resistant and effectively prevent the penetration of sunlight. Any alteration or replacement of a cooling tower system must comply with the New York City Construction Codes. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42785" number="51585" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cleaning. </CHARFORMAT>The cooling tower system must be cleaned whenever routine monitoring indicates a need for cleaning, but no less than twice a year, in accordance with the maintenance program and plan. Cleaning protocol indicated by the manufacturer&apos;s instructions or industry standards, and worker protective measures, as required by applicable law must be specified in the maintenance program and plan. Water contact areas such as the basin, sump, fill, spray nozzles and fittings, drift eliminators and air intake louvres must be properly accessed or removed to facilitate cleaning. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42786" number="51586" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Aerosol and mist control. </CHARFORMAT>The cooling tower system must be operated at all times to minimize the formation and release of aerosols and mist. Owners must install and maintain drift eliminators in accordance with the manufacturer&apos;s specifications and the New York City Construction Codes. The calculated drift loss at maximum design water circulation must not exceed the manufacturer&apos;s tested value for maximum drift loss. Counter-flow cooling towers must achieve a reduction of drift loss to no more than 0.002% percent of the recirculated water volume; cross-flow cooling towers must achieve a reduction of drift loss to no more than 0.005% of the recirculated water volume. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42788" number="51587" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Summertime hyperhalogenation.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126719" number="51588" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A cooling tower system must undergo a summertime hyperhalogenation at least once each year between July 1 and August 31 in accordance with this subdivision. The hyperhalogenation must be performed by a person qualified to apply biocide pursuant to 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(c)(1). The hyperhalogenation must be performed with a registered chlorine or bromine based biocide that is effective at Legionella control in accordance with 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(c). A cooling tower system is exempt from this subdivision if it is in full system shutdown and completely drained of water, in accordance with 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-06" destination-id="0-0-0-5933">8-06</LINK>(a), for the entire period between July 1 and August 31. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126718" number="51589" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Prior to the hyperhalogenation, the cooling tower system must be prepared to ensure that water flow reaches the entire cooling tower system. Biocide applied during the hyperhalogenation must reach all parts of the cooling tower system, including offline or standby equipment that may be out of service, or only used on-demand or during peak demand periods. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126717" number="51590" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>During the hyperhalogenation, a minimum of 5 ppm free halogen residual must be continuously maintained in the cooling tower system for at least six hours. Additionally, the pH and halogen residuals must be measured at two independent sampling locations within the cooling tower system during the hyperhalogenation to verify the minimum biocide residual was achieved and maintained. The water treatment program shall be reviewed by the management and maintenance team to determine if additional chemical inhibitors are desirable to prevent corrosion and scaling. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126716" number="51591" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>A Legionella culture sample must be collected in accordance with 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(f)(3) within 3 to 45 days after the hyperhalogenation required by paragraph (1) of this subdivision. Sample results must be interpreted, and corrective actions implemented, in accordance with the result levels indicated in Table 8-1 of this Chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126715" number="51592" version="1706">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>An owner must submit a declaration of summertime hyperhalogenation within 30 days of completion of the hyperhalogenation required by paragraph (1) of this subdivision through the NYC Cooling Tower Registration Portal. The declaration must include the cooling tower system ID; the hyperhalogenation protocol performed, including the name and quantity of biocides and chemicals applied; dose and contact time; effective pH range of biocides; pH and halogen residual monitoring results during hyperhalogenation; service date and name and qualifications of the person who applied the biocide. The declaration must be kept with required cooling tower records in accordance with 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-07" destination-id="0-0-0-5935">8-07</LINK>(a). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-126713" number="51593" version="1706">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016; amended City Record 7/7/2020, eff. 7/7/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97833" number="51594" version="111">
+								<HEADING>§ 8-05 Water Treatment. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5931" name="T24C008_8-05"/>§ 8-05 Water Treatment. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42789" number="51595" version="3">
+									<PARA>
+										<TAB tab-count="1"/>Prior to changing an existing chemical treatment system or introducing a new chemical treatment agent, cooling tower design, installation, operation, and maintenance must be evaluated by a qualified person to ensure compatibility between the chemicals and the cooling tower system&apos;s materials, and to minimize microbial growth and the release of aerosols. The evaluation must describe the optimum level of chemicals to achieve the desired result in a manner which can be used as a system performance measure. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42790" number="51596" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Daily automatic treatment while in operation. </CHARFORMAT>Water in a cooling tower system must be treated at least once a day when the system is in operation and such treatment must be automated, unless the maintenance program and plan explicitly states how manual or less frequent biocide additions will provide effective control of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>growth. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42791" number="51597" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Recirculating system. </CHARFORMAT>A cooling tower system must be operated and programmed to continually recirculate the water irrespective of the building&apos;s cooling demand of the system, unless the maintenance program and plan specifies in detail how the intended water treatment schedule will be carried out, and how effective biofilm and microorganism control will be achieved when the whole or a part of the system is idle during the scheduled chemical injection. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42792" number="51598" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Chemicals and biocides. </CHARFORMAT>Chemicals and biocides must be used in quantities and combinations sufficient to control the presence of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>, minimize biofilms, and prevent scaling and corrosion that may facilitate microbial growth. Only New York State Department of Environmental Conservation approved oxidizing chemicals may be used as the primary biocide control. For systems where oxidizing chemicals cannot be used as the primary biocide to control the presence of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>building owners must submit an alternative plan for effective bacteriological control for approval by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42793" number="51599" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Biocide applications. </CHARFORMAT>Any person who performs cleaning and disinfection or applies biocides in a cooling tower system must be a commercial pesticide applicator or a pesticide technician certified in accordance with the requirements of Article 33 of the New York State Environmental Conservation Law and 6 NYCRR Part 325, or a pesticide apprentice under the supervision of a certified applicator. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42794" number="51600" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Registered biocides. </CHARFORMAT>Only biocide products registered with the New York State Department of Environmental Conservation may be used to meet the disinfection requirements of this Chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42795" number="51601" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Records.</CHARFORMAT> Water treatment records must be kept for all chemicals and biocides added, noting the purpose of their use, the manufacturer&apos;s name, the brand name, the safety data sheet, the date and time of each addition, and the amount added each week. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42796" number="51602" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Chemical and biocide additions. </CHARFORMAT>Chemicals and biocides must be added in accordance with this section and the procedures described in the maintenance program and plan addressing, as applicable, feeding mechanism, feeding location, frequency, set timer, duration, triggering events, control procedures, and target biocide residuals. Water treatment chemicals and biocides must be used in accordance with the product label and manufacturer&apos;s instructions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42797" number="51603" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-chemical water treatment devices restricted. </CHARFORMAT>Only biocide products registered with the New York State Department of Environmental Conservation may be used to meet the disinfection requirements of this Chapter. Non-chemical water treatment devices that employ alternative technologies to control biological growth may not be used in lieu of chemical biocide unless approved by the Department. Nonchemical water treatment devices may be installed as part of a cooling tower system as specified in the management program and plan, provided that the required chemical water treatment also being used adequately controls for <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42798" number="51604" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Makeup water. </CHARFORMAT>Owners using water derived from rainwater capture or recycling water systems as a source of cooling tower system makeup water must install a drift eliminator and test and treat water in accordance with a specific alternative source water plan. This plan is in addition to the maintenance program and plan required by 24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-03" destination-id="0-0-0-5927">8-03</LINK>, and must be approved by the Department. The alternative water source plan must include provisions for adequate design of the treatment and control components and on-going evaluation to eliminate any risk to public health. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42799" number="51605" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Water quality monitoring.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42800" number="51606" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Frequency. </CHARFORMAT>Water quality parameters, including but not limited to pH, temperature, conductivity and biocidal indicators, must be measured and recorded as specified in the management program and plan as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42801" number="51607" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Manual measurements. </CHARFORMAT>At least three times each week, provided that no more than two days pass without such measurement when the cooling tower system is operating. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42802" number="51608" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Continuous, automated and/or remote measurements. </CHARFORMAT>When continuous, automated and/or remote measurements and recordings are used, the management program and plan must show how effective measurements of system process control are being monitored. Automated measurements must be properly recorded and results made immediately available to responsible and qualified persons and to Department inspectors when requested. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42803" number="51609" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Minimum weekly biological process control indicators. </CHARFORMAT>A bacteriological indicator to estimate microbial content of recirculating water must be collected and interpreted in accordance with Table 8-2 at least once each week while the cooling tower system is operating. Indicators must be taken at times and from water sampling points, as detailed in the maintenance program and plan, that will be representative of water microbial content. Indicators may be taken at any time from constant chemical treatment systems. Indicators from systems that use intermittent biocide applications must be taken before biocide application and reflect normal cooling tower operating conditions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42804" number="51610" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Legionella <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">samples.</CHARFORMAT>&#160;<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT> culture testing must be conducted no less frequently than every 90 days during cooling tower system operation. A <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>sample must be analyzed by a U.S. Centers for Disease Control and Prevention ELITE Program certified laboratory, by the New York State Department of Health Wadsworth Center or other laboratory approved by the Department. Test results of all <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>species at or above the magnitude of level 4 as indicated in Table 8-1 must be reported to the Department within 24 hours of receiving the test results. Additional emergency <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>sampling must be conducted if any of the following occur: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42805" number="51611" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(A)<TAB tab-count="1"/>Power failure of sufficient duration to allow for growth of bacteria; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42806" number="51612" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(B)<TAB tab-count="1"/>Loss of biocide treatment sufficient to allow for growth of bacteria; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42807" number="51613" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(C)<TAB tab-count="1"/>Failure of conductivity controls to maintain proper cycles of concentration; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42808" number="51614" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(D)<TAB tab-count="1"/>At the request of the Department upon a determination that one or more cases of legionellosis is or may be associated with the cooling tower, based on epidemiological data or laboratory testing, <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42809" number="51615" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(E)<TAB tab-count="1"/>Any time two consecutive bacteriological indicator sample results are above Level 4 as indicated in Table 8-2; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42810" number="51616" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(F)<TAB tab-count="1"/>Any other conditions specified by the Department. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42811" number="51617" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Monitoring and sampling locations. </CHARFORMAT>System monitoring and sampling locations must be representative of the entire cooling tower system. The system must be operating with water circulating in the system for at least one hour prior to water quality measurements or collection of samples. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42812" number="51618" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Water quality corrective actions. </CHARFORMAT>The maintenance program and plan must identify the procedures, responsible parties, required response time(s) and notification protocol for corrective actions and must include, at a minimum, corrective actions that must be implemented according to the result levels in Table 8-1 and Table 8-2. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42814" number="51619" version="1706">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+											<DESTINATION id="0-0-0-16930" name=""/>Table 8-1. Corrective actions required for </CHARFORMAT>
+										<CHARFORMAT bold="1" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">culture results.<LINEBRK/>
+										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42816" number="51620" version="1334">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="90" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Level</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0"> Culture Result</CHARFORMAT>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">1</CHARFORMAT>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">
+														</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Process Triggered by </CHARFORMAT>
+														<CHARFORMAT bold="1" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0"> Culture Results</CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>1 </PARA>
+												</COL>
+												<COL>
+													<PARA>&lt;10 CFU/ml </PARA>
+												</COL>
+												<COL>
+													<PARA>Maintain water chemistry and biocide levels.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>2</PARA>
+												</COL>
+												<COL>
+													<PARA>&#160;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">³</CHARFORMAT>10 CFU/ml to &lt;100 CFU/ml</PARA>
+												</COL>
+												<COL>
+													<PARA>Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours; review treatment program; and retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>3 </PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">³</CHARFORMAT> 100 CFU/ml to &lt;1,000 CFU/ml</PARA>
+												</COL>
+												<COL>
+													<PARA>Initiate immediate disinfection by increasing biocide concentration or using a different biocide (within 24 hours), reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>4</PARA>
+												</COL>
+												<COL>
+													<PARA>&#160;<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">³</CHARFORMAT> 1,000 CFU/ml</PARA>
+												</COL>
+												<COL>
+													<PARA>Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform full remediation of the tower by hyperhalogenating<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">2</CHARFORMAT>, draining, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached. For Legionella results at this level, notify Department within 24 hours of receiving test result.<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">3</CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42817" number="51621" version="3">
+									<PARA>
+										<TAB tab-count="1"/>1. Performed by a CDC ELITE Laboratory, or NYSDOH Wadsworth Laboratory, or another laboratory approved by the Department. Combine all species of <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>detected. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42818" number="51622" version="3">
+									<PARA>
+										<TAB tab-count="1"/>2. At a minimum, dose the cooling water system with 5 to 10 ppm Free Halogen Residual for at least 1 hour; pH 7.0 to 7.6. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42819" number="51623" version="3">
+									<PARA>
+										<TAB tab-count="1"/>3. In a manner as specified on the Department&apos;s website. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42821" number="51624" version="1136">
+									<PARA>
+										<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Table 8-2. Corrective actions required for bacteriological indicator results.<LINEBRK/>
+										</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42823" number="51625" version="1136">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="3" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="54" percentage="no"/>
+												<COLUMNFORMAT column-width="90" percentage="no"/>
+												<COLUMNFORMAT column-width="288" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Level </CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Heterotrophic Plate Count</CHARFORMAT>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">1</CHARFORMAT>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0"> and Dip Slide Result</CHARFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Process Triggered by Test Results</CHARFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>1 </PARA>
+												</COL>
+												<COL>
+													<PARA>&lt;10,000 CFU/ml </PARA>
+												</COL>
+												<COL>
+													<PARA>Maintain water chemistry and biocide levels.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>2</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">³</CHARFORMAT>10,000 CFU/ml to &lt;100,000 CFU/ml</PARA>
+												</COL>
+												<COL>
+													<PARA>Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours, review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>3</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">³</CHARFORMAT>100,000 CFU/ml to &lt;1,000,000 CFU/ml</PARA>
+												</COL>
+												<COL>
+													<PARA>Initiate immediate disinfection by increasing biocide concentration or using a different biocide within 24 hours, reviewing treatment program, performing visual inspection to evaluate need to perform cleaning and further disinfection. Retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA>4</PARA>
+												</COL>
+												<COL>
+													<PARA>
+														<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" font-name="Symbol" font-family="serif" character-set="symbol">³</CHARFORMAT>1,000,000 CFU/ml</PARA>
+												</COL>
+												<COL>
+													<PARA>Initiate immediate disinfection by increasing biocides within 24 hours. Within 48 hours perform remediation of the tower by hyperhalogenating<CHARFORMAT bold="0" italic="0" underline="0" strike-out="0" hidden="0" baseline="-60">2</CHARFORMAT>, cleaning, and flushing. Review treatment program, retest water within 3 - 7 days. Subsequent test results must be interpreted in accordance with this Table until level 1 is reached.</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42824" number="51626" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>1.<TAB tab-count="1"/>Performed by an appropriately accredited Laboratory (e.g. NELAP, AALA). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42825" number="51627" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>2.<TAB tab-count="1"/>At a minimum, dose the cooling water system with 5 to 10 ppm Free Halogen Residual for at least 1 hour; pH 7.0 to 7.6. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42827" number="51628" version="111">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97834" number="51629" version="1942">
+								<HEADING>§ 8-06 System Shutdown and Start-Up; Commissioning and Decommissioning Cooling Towers. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5933" name="T24C008_8-06"/>§ 8-06 System Shutdown and Start-Up; Commissioning and Decommissioning Cooling Towers. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42828" number="51630" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Full system shutdown. </CHARFORMAT>Procedures to shut a cooling tower system must conform to the manufacturers&apos; recommendations. When shut down, the system must be completely drained and protected from offline contamination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42829" number="51631" version="1852">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Full system startup. </CHARFORMAT>At a minimum, before cooling tower system start-up, an owner must clean and disinfect a cooling tower that has been shut down or idle for more than five days, in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-194.1" destination-id="0-0-0-0">17-194.1</LINK> of the Administrative Code. Cleaning and disinfection must be done no later than 15 days before the first seasonal use of such tower. The maintenance program and plan must include detailed seasonal and idle period startup procedures that include, at a minimum: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42830" number="51632" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Either fully clean and disinfect, drain to waste and disinfect, or sufficiently hyperhalogenate the recirculated water before startup; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42831" number="51633" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Before the startup of a cooling tower system after an extended shutdown of five or more days, collect samples for <CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella </CHARFORMAT>culture and take actions required by Table 8-1 when results are received; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42832" number="51634" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Before seasonal startup of a system that has been fully shut down, perform a pre-startup inspection by a qualified person. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42833" number="51635" version="1852">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Commissioning new cooling towers. </CHARFORMAT>Newly installed cooling tower systems must be cleaned and disinfected prior to operation according to this section and the maintenance program and plan, and be registered with the Department of Buildings cooling tower registration system in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-317.3" destination-id="0-0-0-0">28-317.3</LINK> of the Administrative Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42834" number="51636" version="1852">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Removal or permanently discontinuing use of cooling towers. </CHARFORMAT>The owner of a cooling tower must notify the Department of Buildings electronically within 30 days after removing or permanently discontinuing use of a cooling tower in accordance with § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-317.3.1" destination-id="0-0-0-0">28-317.3.1</LINK> of the Administrative Code. Such notice must include a statement that the cooling tower has been drained and sanitized in accordance with this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42836" number="51637" version="111">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97835" number="51638" version="111">
+								<HEADING>§ 8-07 Records. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5935" name="T24C008_8-07"/>§ 8-07 Records. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42837" number="51639" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Records. </CHARFORMAT>An owner must keep for at least three (3) years in the building where a cooling tower is located or in an adjacent building or structure on the same campus, complex, lot, mall or on-site central engineering division a record of any maintenance, inspection, deficiency, corrective action, water treatment, test result, cleaning or disinfection performed on the tower. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42838" number="51640" version="1852">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Certification. </CHARFORMAT>The owner of a cooling tower must file an annual certification each year as specified by the Department of Buildings, indicating that such tower was inspected, tested, cleaned and disinfected in accordance with the maintenance program and plan, as required by § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="28-317.5" destination-id="0-0-0-0">28-317.5</LINK> of the Administrative Code. The certification must document any deviations from compliance with the maintenance program and plan and the corrective actions taken to address any deficiencies. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42839" number="51641" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Posting.</CHARFORMAT> The owner must post the Department of Buildings Cooling Tower Registration Number that has been assigned to that cooling tower on each cooling tower. The Registration Number must be posted on a sign or plate that is securely fastened to the cooling tower in a location that is conspicuously visible and must be constructed of a durable, weather resistant material. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42841" number="51642" version="111">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97836" number="51643" version="111">
+								<HEADING>§ 8-08 Modification. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5937" name="T24C008_8-08"/>§ 8-08 Modification. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42842" number="51644" version="1853">
+									<PARA>
+										<TAB tab-count="1"/>The Commissioner or designee may grant a modification when strict application of any provision of this Chapter presents practical difficulties or unusual hardships. The Commissioner in a specific instance may modify the application of such provision consistent with the general purpose of this Chapter and in compliance with Administrative Code § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-194.1" destination-id="0-0-0-0">17-194.1</LINK> and upon such conditions as, in his or her opinion, are necessary to protect the health or safety of the public. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42844" number="51645" version="111">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-97837" number="51646" version="111">
+								<HEADING>§ 8-09 Penalties. </HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-5939" name="T24C008_8-09"/>§ 8-09 Penalties. </PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-42845" number="51647" version="1136">
+									<PARA>
+										<TAB tab-count="1"/>The following penalties shall be imposed for sustained initial and repeat violations. All penalties, except for those alleging a violation of the State Sanitary Code, must be doubled if the respondent fails to appear to answer such violation and is found in default.<LINEBRK/>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-001]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42847" number="51648" version="1706">
+									<PARA>
+										<TABLE>
+											<TABLEFORMAT number-of-widths="4" left-border-space="43" left-border-width="15" left-border-color="#000000" right-border-space="43" right-border-width="15" right-border-color="#000000" top-border-space="43" top-border-width="15" top-border-color="#000000" bottom-border-space="43" bottom-border-width="15" bottom-border-color="#000000" horizontal-border-space="43" horizontal-border-width="15" horizontal-border-color="#000000" vertical-border-space="43" vertical-border-width="15" vertical-border-color="#000000">
+												<COLUMNFORMAT column-width="108" percentage="no"/>
+												<COLUMNFORMAT column-width="180" percentage="no"/>
+												<COLUMNFORMAT column-width="72" percentage="no"/>
+												<COLUMNFORMAT column-width="72" percentage="no"/>
+											</TABLEFORMAT>
+											<ROW>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">Section of Law </CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<CELL header="true">Description</CELL>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<PARAFORMAT justify="right">
+															<CELL header="true">Penalty: First violation</CELL>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="SmallBold" style-name-escaped="SmallBold" style-id="0-0-0-28">
+														<PARAFORMAT justify="right">
+															<CELL header="true">Repeat violation(s)</CELL>
+														</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-03" destination-id="0-0-0-5927">8-03</LINK>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">No maintenance program and plan</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$2,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-03" destination-id="0-0-0-5927">8-03</LINK>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Maintenance program and plan incomplete or not on premises </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Routine monitoring not conducted, documented at least once a week when tower is in use</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK>(b)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Compliance inspections not conducted, documented at least once every 90 days when the tower is in use</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK>(c)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Routine maintenance according to maintenance program and plan not conducted or documented </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK>(d)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Twice yearly or other required cleaning not conducted or documented</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right"> $1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK>(e)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Aerosol control do not meet manufacturer&apos;s design specifications or drift loss reduction requirements in new or existing towers when required</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$2,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-04" destination-id="0-0-0-5929">8-04</LINK>(f) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failure to submit declaration of a hyperhalogenation performed at least once each year between July 1 and August 31</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Daily automatic or approved alternative water treatment plan not provided </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(b)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Cooling water system not continually recirculated and no acceptable alternative </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(c)(1)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Use of an unqualified biocide applicator </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(c)(2)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Use of an unregistered biocide product </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(c)(3)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">No records of all chemicals and biocides added</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(c)(4)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Sufficient quantities and combinations of chemicals not added as specified in the maintenance program and plan</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(d)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Using unacceptable alternative nonchemical water treatment device </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(e)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Use of captured rainwater or recycled water as makeup water not in accordance with approved alternative water source plan</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$2,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(f)(1)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Minimum daily water quality measurements not taken or recorded</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(f)(2)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failure to collect, analyze or record weekly biological process control indicators</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(f)(3)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT> samples not collected or analyzed, or results not recorded or reported to the Department as required</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$2,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(f)(4)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failure to monitor and sample from representative locations and times </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-05" destination-id="0-0-0-5931">8-05</LINK>(f)(5)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Required corrective actions not taken based on bacteriological results</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$2,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-06" destination-id="0-0-0-5933">8-06</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Improper or inadequate shutdown procedures</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-06" destination-id="0-0-0-5933">8-06</LINK>(b)(1)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Improper or inadequate start-up procedures</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-06" destination-id="0-0-0-5933">8-06</LINK>(b)(2)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Legionella</CHARFORMAT> samples not collected, analyzed before system start-up </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-06" destination-id="0-0-0-5933">8-06</LINK>(c)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">New cooling tower not or inadequately cleaned and disinfected prior to operating </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-07" destination-id="0-0-0-5935">8-07</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failure to document all inspections, logs, tests, cleaning, and disinfection in accordance with the maintenance program and plan </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-07" destination-id="0-0-0-5935">8-07</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Failure to retain records for at least 3 years</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-07" destination-id="0-0-0-5935">8-07</LINK>(a)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Required records not kept at the cooling tower premises</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500 </PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-07" destination-id="0-0-0-5935">8-07</LINK>(c)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Department of Buildings Cooling Tower Registration Number not posted as required</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">24 RCNY § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Jump" destination-name="T24C008_8-07" destination-id="0-0-0-5935">8-07</LINK>(d)</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Records not made immediately available to Department upon request </PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$500</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$1,000</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+											<ROW>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">State Sanitary Code Part 4</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">Miscellaneous provisions</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$250</PARAFORMAT>
+													</PARA>
+												</COL>
+												<COL>
+													<PARA style-name="Small" style-name-escaped="Small" style-id="0-0-0-27">
+														<PARAFORMAT justify="right">$250</PARAFORMAT>
+													</PARA>
+												</COL>
+											</ROW>
+										</TABLE>
+									</PARA>
+									<PARA>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-42849" number="51649" version="1706">
+									<PARA>(Added City Record 4/7/2016, eff. 5/7/2016; amended City Record 7/7/2020, eff. 7/7/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-051]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

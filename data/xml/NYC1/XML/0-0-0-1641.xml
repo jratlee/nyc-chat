@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-1641" number="2622" version="327">
+			<HEADING>Chapter 18-A: Civilian Complaint Review Board</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-613" name="Chapter 18-a"/>Chapter 18-A: Civilian Complaint Review Board</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-1642" number="2623" version="733">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/001" destination-id="0-0-0-0">L.L. 1993/001</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6814" number="2624" version="733">
+				<HEADING>Section 440. Public complaints against members of the police department.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-611" name="440"/>Section 440. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public complaints against members of the police department.</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-5856" number="2625" version="527">
+					<PARA>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>It is in the interest of the people of the city of New York and the New York city police department that the investigation of complaints concerning misconduct by officers of the department towards members of the public be complete, thorough and impartial. These inquiries must be conducted fairly and independently, and in a manner in which the public and the police department have confidence. An independent civilian complaint review board is hereby established as a body comprised solely of members of the public with the authority to investigate allegations of police misconduct as provided in this section.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1649" number="2626" version="328">
+					<PARA>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Civilian complaint review board.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5612" number="2627" version="348">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The civilian complaint review board shall consist of 15 members of the public. Members shall be residents of the city of New York and shall reflect the diversity of the city&apos;s population. The members of the board shall be appointed as follows: (i) five members, one from each of the five boroughs, shall be appointed by the city council; (ii) one member shall be appointed by the public advocate; (iii) three members with experience as law enforcement professionals shall be designated by the police commissioner and appointed by the mayor; (iv) five members shall be appointed by the mayor; and (v) one member shall be appointed jointly by the mayor and the speaker of the council to serve as chair of the board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-047]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5613" number="2628" version="348">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>No member of the board shall hold any other public office or employment. No members, except those designated by the police commissioner, shall have experience as law enforcement professionals, or be former employees of the New York city police department. For the purposes of this section, experience as a law enforcement professional shall include experience as a police officer, criminal investigator, special agent, or a managerial or supervisory employee who exercised substantial policy discretion on law enforcement matters, in a federal, state, or local law enforcement agency, other than experience as an attorney in a prosecutorial agency.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5614" number="2629" version="348">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The members shall be appointed for terms of three years. The public advocate shall make the public advocate&apos;s first appointment to the board on or before May 6, 2020. The board member so appointed shall assume office on July 6, 2020. The mayor and the speaker of the council shall make their initial joint appointment to the board on or before May 6, 2020. The member so appointed shall serve as the board&apos;s chair and shall assume office on July 6, 2020. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-047]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5615" number="2630" version="348">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Members of the board shall serve until their successors have been appointed and qualified. In the event of a vacancy on the board during the term of office of a member by reason of removal, death, resignation, or otherwise, a successor shall be chosen in the same manner as the original appointment within 60 days from the date such vacancy occurred. A member appointed to fill a vacancy shall serve for the balance of the unexpired term. During any period in which the office of the chair is vacant, the mayor shall select a member of the board to serve as interim chair until such vacancy has been filled. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-047]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1657" number="2631" version="328">
+					<PARA>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Powers and duties of the board.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5617" number="2632" version="537">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The board shall have the power to receive, investigate, hear, make findings and recommend action upon complaints by members of the public or complaints initiated by the board against members of the police department that allege misconduct involving excessive use of force, abuse of authority including bias-based policing and racial profiling, discourtesy, or use of offensive language, including, but not limited to, slurs relating to race, ethnicity, religion, gender, sexual orientation and disability. The board shall also have the power to investigate, hear, make findings and recommend action regarding the truthfulness of any material official statement made by a member of the police department who is the subject of a complaint received or initiated by the board, if such statement was made during the course of and in relation to the board&apos;s resolution of such complaint. The findings and recommendations of the board, and the basis therefor, shall be submitted to the police commissioner. No finding or recommendation shall be based solely upon an unsworn complaint or statement, nor shall prior unsubstantiated, unfounded or withdrawn complaints be the basis for any such finding or recommendation. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5618" number="2633" version="538">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The board shall promulgate rules of procedure in accordance with the city administrative procedure act, including rules that prescribe the manner in which investigations are to be conducted and recommendations made and the manner by which, when a member of the public is the complainant, such member of the public is to be informed of the status of his or her complaint. Such rules may provide for the establishment of panels, which shall consist of not less than three members of the board, which shall be empowered to supervise the investigation of matters within the board&apos;s jurisdiction pursuant to this section, and to hear, make findings and recommend action on such matters. No such panel shall consist exclusively of members appointed by the council, or designated by the police commissioner, or appointed by the mayor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5619" number="2634" version="527">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The board, by majority vote of its members, may compel the attendance of witnesses and require the production of such records and other materials as are necessary for the investigation of matters within its jurisdiction pursuant to this chapter. The board may request the corporation counsel to institute proceedings in a court of appropriate jurisdiction to enforce the subpoena power exercised pursuant to this chapter, and the board itself may, subject to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="Chapter 17" destination-id="0-0-0-573">chapter 17</LINK> of the charter, institute such proceedings. The board may, subject to any conditions it deems appropriate, delegate to and revoke from its executive director such subpoena authority and authority to institute proceedings. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5620" number="2635" version="348">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The board shall establish a mediation program pursuant to which a complainant may voluntarily choose to resolve a complaint by means of informal conciliation.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5621" number="2636" version="537">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>The board is authorized, within appropriations available therefor, to appoint such employees as are necessary to exercise its powers, including but not limited to the power to initiate complaints in accordance with paragraph 1 of this subdivision, and fulfill its duties. The board shall employ civilian investigators to investigate all matters within its jurisdiction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-047]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5622" number="2637" version="527">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The board shall issue to the mayor and the city council a semi-annual report which shall describe its activities and summarize its actions. Such report shall include, for each investigation initiated pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="441" destination-id="0-0-0-1659">441</LINK>, such investigation&apos;s date of initiation, current status and any date of completion or termination, a description of any investigative findings and recommendations set forth in a written statement of final determination and a description of any written reports from the police commissioner in response to a written statement of final determination. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5623" number="2638" version="348">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>The board shall have the responsibility of informing the public about the board and its duties, and shall develop and administer an on-going program for the education of the public regarding the provisions of this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5505" number="2639" version="328">
+					<PARA>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Cooperation of police department.</CHARFORMAT>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5625" number="2640" version="527">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>It shall be the duty of the police department to provide such assistance as the board may reasonably request, to cooperate fully with investigations by the board, and to provide to the board upon request records and other materials which are necessary for investigations undertaken pursuant to this chapter, except such records or materials that cannot be disclosed by law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5626" number="2641" version="527">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The police commissioner shall ensure that officers and employees of the police department appear before and respond to inquiries of the board and its civilian investigators in connection with investigations undertaken pursuant to this chapter, provided that such inquiries are conducted in accordance with department procedures for interrogation of members. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5627" number="2642" version="328">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The police commissioner shall report to the board in writing on any action taken, including the level of discipline and any penalty imposed, in all cases in which the board submitted a finding or recommendation to the police commissioner with respect to a matter within its jurisdiction pursuant to this section. In any case substantiated by the board in which the police commissioner intends to impose or has imposed a different penalty or level of discipline than that recommended by the board or by the deputy commissioner responsible for making disciplinary recommendations, the police commissioner shall provide such written report, with notice to the subject officer, no later than 45 days after the imposition of such discipline or in such shorter time frame as may be required pursuant to an agreement between the police commissioner and the board. Such report shall include a detailed explanation of the reasons for deviating from the board&apos;s recommendation or the recommendation of the deputy commissioner responsible for making disciplinary recommendations and, in cases in which the police commissioner intends to impose or has imposed a penalty or level of discipline that is lower than that recommended by the board or such deputy commissioner, shall also include an explanation of how the final disciplinary outcome was determined, including each factor the police commissioner considered in making his or her decision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1661" number="2643" version="3">
+					<PARA>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>The provisions of this section shall not be construed to limit or impair the authority of the police commissioner to discipline members of the department. Nor shall the provisions of this section be construed to limit the rights of members of the department with respect to disciplinary action, including but not limited to the right to notice and a hearing, which may be established by any provision of law or otherwise. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1662" number="2644" version="48">
+					<PARA>
+						<TAB tab-count="1"/>(f)<TAB tab-count="1"/>The provisions of this section shall not be construed to prevent or hinder the investigation or prosecution of members of the department for violations of law by any court of competent jurisdiction, a grand jury, district attorney, or other authorized officer, agency or body. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1663" number="2645" version="327">
+					<PARA>
+						<TAB tab-count="1"/>(g)<TAB tab-count="1"/>1.<TAB tab-count="1"/>Beginning in fiscal year 2021 and for each fiscal year thereafter, the appropriations available to pay for the personal services expenses of the civilian complaint review board during each fiscal year shall not be less than an amount sufficient to fund personal services costs for the number of full-time personnel plus part-time personnel, calculated based on full-time equivalency rates, equal to 0.65 percent of the number of uniform budgeted headcount of the police department for that fiscal year, as determined consistent with published budgeted headcount documents of the office of management and budget. The calculation to determine the minimum appropriations for the personal services expenses of the civilian complaint review board pursuant to this paragraph shall be set forth in the preliminary expense budget, the executive expense budget, and the adopted budget. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5508" number="2646" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Notwithstanding paragraph 1 and in addition to any action that may be undertaken pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="106" destination-id="0-0-0-213">106</LINK>, the appropriations available to pay for the personal services expenses of the civilian complaint review board may be less than the minimum appropriations required by paragraph 1 provided that, prior to adoption of the budget pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="254" destination-id="0-0-0-401">254</LINK> or prior to the adoption of a budget modification pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="107" destination-id="0-0-0-215">107</LINK>, the mayor determines that such reduction is fiscally necessary and that such reduction is part of a plan to decrease overall appropriations or is due to unforeseen financial circumstances, and the mayor sets forth the basis for such determinations in writing to the council and the civilian complaint review board at the time of submission or adoption, as applicable, of any budget or budget modification containing such reduction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5507" number="2647" version="537">
+					<PARA>(Am. L.L. 2019/215, 12/11/2019, eff. 12/11/2019 and 3/31/2020; Am. L.L. 2021/047, 4/25/2021, eff. 1/20/2022; Am. L.L. 2022/024, 1/9/2022, eff. 1/20/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5501" number="2648" version="984">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1986/055" destination-id="0-0-0-0">L.L. 1986/055</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/001" destination-id="0-0-0-0">L.L. 1993/001</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2021/047" destination-id="0-0-0-0">L.L. 2021/047</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6051" number="2649" version="527">
+				<HEADING>§ 441. Investigating past professional conduct by members of the police department.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1659" name="441"/>§ 441. Investigating past professional conduct by members of the police department.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-5855" number="2650" version="468">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> As used in this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5854" number="2651" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Act of bias.</CHARFORMAT> The term &quot;act of bias&quot; means an act stemming from a specific incident: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5853" number="2652" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>that is motivated by or based on animus against any person on the basis of race, ethnicity, religion, gender, sexual orientation or disability, and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5852" number="2653" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>that the board is empowered to investigate pursuant to paragraph 1 of subdivision c of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="440" destination-id="0-0-0-611">440</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5851" number="2654" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Board.</CHARFORMAT> The term &quot;board&quot; means the civilian complaint review board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5850" number="2655" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Covered entity.</CHARFORMAT> The term &quot;covered entity&quot; means the police department, the board, the commission on human rights, the department of investigation, a court of competent jurisdiction or any other officer or body designated by the board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5849" number="2656" version="778">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The board: (i) shall conduct an investigation of past conduct in the course of performance of official duties by a current or former member of the police department whom a covered entity has found, in a final determination reached after such member was afforded an opportunity to respond to the relevant allegations, to have engaged in a severe act of bias, regardless of whether such member was on or off duty when engaging in such act, if the date that such investigation commences would be less than five years after such final determination was made; and (ii) may conduct an investigation of past conduct in the course of performance of official duties by a current or former member of the police department whom a covered entity has found, in a final determination reached after such member was afforded an opportunity to respond to the relevant allegations, to have engaged in an act of bias other than a severe act of bias, regardless of whether such member was on or off duty when engaging in such act, if the date that such investigation commences would be less than five years after such final determination was made. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5848" number="2657" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>For the purposes of initiating such investigations, the board shall define what constitutes a severe act of bias and, in consultation with each covered entity, what constitutes a covered entity&apos;s final determination that such a member engaged in an act of bias or severe act of bias, provided that off-duty conduct may be the basis for initiating such investigation only if (i) such conduct could have resulted in removal or discipline by the police department, (ii) the board reasonably believes such conduct has had or could have had a disruptive effect on the mission of the police department, and (iii) the police department&apos;s interest in preventing actual or potential disruption outweighs the member&apos;s speech interest. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5847" number="2658" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Within 10 days after making or changing a definition made pursuant to paragraph 2 of this subdivision, the board shall communicate such definition or change to each covered entity and shall make such definition or change publicly available online. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5846" number="2659" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>If a covered entity that is an agency makes a final determination that such a member engaged in an act of bias or a severe act of bias, such covered entity shall promptly provide notice to the board in a time, form and manner designated by the board in consultation with such covered entity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5845" number="2660" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Within 120 days after the effective date of sections one through four of the local law that added this section, each covered entity that is an agency shall, to the extent practicable, provide the board with a written list of such members whom such covered entity has finally determined to have engaged in an act of bias or severe act of bias before such effective date and on or after January 1, 2016; provided that such list shall be provided in a form and manner, and shall include such additional information, as the board may require in consultation with such covered entity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5844" number="2661" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>At least once every 4 months after the effective date of sections one through four of the local law that added this section, the board shall request from each covered entity that is not an agency, except a court with jurisdiction within the state of New York, information about final determinations made by such entity that such a member engaged in an act of bias or severe act of bias, including final determinations made on or after January 1, 2016. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5843" number="2662" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>The board shall consult with the law department to obtain information about final determinations by a covered entity that is a court with jurisdiction within the state of New York that such a member has engaged in an act of bias or severe act of bias, including final determinations made on or after January 1, 2016. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5842" number="2663" version="772">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The board shall determine the scope of past conduct in the course of performance of official duties by such member to investigate based on the member&apos;s professional rank and assigned roles and the nature of the member&apos;s act of bias. The board shall investigate all or a representative sampling of such member&apos;s past conduct within such scope beginning from the date of hire by the police department until and including, for a former member of the police department, the last day of employment by the police department, or, for a current member of the police department, the date of initiation of an investigation pursuant to this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5841" number="2664" version="468">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Within 10 days after the board initiates such investigation, the board shall provide written notice to the member being investigated and to the relevant covered entity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5840" number="2665" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Within 10 days after the completion of such investigation, the board shall provide a written statement of final determination to the member being investigated. Such statement shall include (i) the investigation&apos;s details, when it was initiated and concluded, the identity of its subject and a summary of the materials reviewed by the board during the investigation; (ii) the board&apos;s investigative findings, including the identification of any threat to the safety of an individual or the public and whether the board found evidence of any additional past acts of bias committed in the course of performance of official duties; (iii) if applicable, any recommendations of the board for remedial action, including training, discipline, where consistent with section 75 of the civil service law, or both; and (iv) if applicable, a statement that the board has determined to terminate the investigation and an explanation why. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5839" number="2666" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The board shall provide an opportunity for the member being investigated to answer in writing, within a time period established by rule, any findings or recommendations made by the board. If such member timely submits such an answer, the board shall consider it and determine whether to revise any such findings or recommendations in response. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5838" number="2667" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Within 10 days after finalizing the written statement of final determination pursuant to paragraphs 2 and 3 of this subdivision, the board shall submit such written statement to the police commissioner, any other parties to whom notice was sent pursuant to paragraph 1 of this subdivision and any other appropriate agency or official as determined by the board. Within 120 days after receiving such written statement, the police commissioner shall report to the board in writing on any action taken or planned to be taken in response, including the level of discipline and any penalty imposed or to be imposed upon such member, as well as any other remedial action. If such action taken or planned to be taken differs from that recommended by the board, the police commissioner shall provide in such written report a detailed explanation for deviating from the board&apos;s recommendations and an explanation of how the final disciplinary or remedial decision was determined, including each factor the police commissioner considered in making such decision. If the police commissioner takes action in response to such written statement of final determination after such 120-day period, the police commissioner shall provide an updated version of such written report to the board within 30 days after taking such action. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5837" number="2668" version="468">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The board may, subject to any conditions it deems appropriate, delegate to and revoke from its chair or executive director any responsibility or authority assigned by this section to the board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5836" number="2669" version="468">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The board may, subject to any conditions it deems appropriate, designate a third party to assist with any investigation conducted under this section. Any such third party shall keep confidential and is prohibited from disclosing except to the board any information it obtains in the course of such investigation, except as otherwise required by law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5835" number="2670" version="468">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The board shall, in accordance with subdivisions b, c and d of this section, promulgate rules that further prescribe the manner in which the board is to conduct investigations, present findings, make recommendations, provide notice and provide an opportunity for the member being investigated to be heard. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5834" number="2671" version="772">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>This section shall not be construed to limit or impair the police commissioner&apos;s authority to discipline members of the police department at any time. Nor shall this section be construed to limit the rights of members of the department with respect to disciplinary action, including but not limited to the right to notice and a hearing, which may be established by any provision of law or otherwise. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5833" number="2672" version="468">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>This section shall not be construed to prevent or hinder any investigation or prosecution undertaken by any covered entity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5831" number="2673" version="468">
+					<PARA>(L.L. 2021/047, 4/25/2021, eff. 1/20/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5829" number="2674" version="468">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2021/047" destination-id="0-0-0-0">L.L. 2021/047</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-060]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,1245 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-3464" number="5253" version="289">
+			<HEADING>Chapter 56: Department of Small Business Services</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1221" name="Chapter 56"/>Chapter 56: Department of Small Business Services</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-3465" number="5254" version="739">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6826" number="5255" version="739">
+				<HEADING>Section 1300. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1223" name="1300"/>Section 1300. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3466" number="5256" version="617">
+					<PARA>There shall be a department of small business services, the head of which shall be the commissioner of small business services. The commissioner may appoint deputies within available appropriations. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3467" number="5257" version="739">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6827" number="5258" version="739">
+				<HEADING>Section 1301. Powers and duties of the commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1225" name="1301"/>Section 1301. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties of the commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4793" number="5259" version="617">
+					<PARA>Except as otherwise provided by law, the commissioner shall have charge and control of and be responsible for all functions and operations of the city relating to business and economic development, the enhancement of economic development and financial opportunity for minority and women owned business enterprises, and ensuring equal employment opportunity by city contractors. Such powers and functions shall include, without limitation, the following:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3469" number="5260" version="617">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>With respect to business and economic development generally the commissioner shall have the power and duty: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3470" number="5261" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>to establish business, industrial and commercial policies, programs and projects which affect the business, industrial, commercial or economic well-being, development, growth and expansion of the economic life of the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3472" number="5262" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>to serve as liaison for the city with local development corporations, other not-for-profit corporations and all other entities involved in economic development within the city. In furtherance of this function, the department shall include in any contract with a contracted entity, as defined by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="22-821" destination-id="0-0-0-0">22-821</LINK> of the administrative code, under which such contracted entity is engaged in providing or administering economic development benefits on behalf of the city and expending city capital appropriations in connection therewith, the provisions required by subchapter 2 of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="T22C008" destination-id="0-0-0-0">chapter 8 of title 22</LINK> of the administrative code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3473" number="5263" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b-1.<TAB tab-count="1"/>[Repealed.] <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3474" number="5264" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b-2.<TAB tab-count="1"/>By August 1, 2017, and by August 1 every year thereafter, the entity under contract with the department to provide or administer economic development benefits on behalf of the city shall assess and evaluate each business entity to which it provided assistance in the form of a loan, grant or tax benefit in excess of one hundred fifty thousand dollars, or sale or lease of city-owned land for a project expected, in accordance with information provided by the applicant for the sale or lease, to retain or create not less than twenty-five jobs, to determine whether they met minority and women-owned business goals, if any, pursuant to the contract. The findings of such assessments shall be submitted to the department on or before November 1, 2017, and on November 1 every year thereafter. By January 30, 2018, and by January 1 every year thereafter, the department shall submit such assessment and evaluation to the mayor and the speaker of the council, which shall include, but not be limited to: (i) a list of all recipients of such economic development benefits; (ii) the minority and women-owned business goals for these recipients; (iii) whether the recipient conducted a good faith effort to identify and utilize minority and women-owned businesses to achieve such goals; and (iv) if minority and women-owned business contracting goals were not met by a recipient, a description of the reasons the goals were not met. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-006]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3475" number="5265" version="770">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>to study, organize, promote, coordinate and carry out within or without the city, activities, projects and programs designed to encourage, stimulate and foster the well-being, development, growth and expansion of business, industry and commerce in the city, and the enhancement and protection of the economic life of the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3476" number="5266" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>to assist, encourage and promote broadened employee ownership, particularly through the use of employee stock ownership plans and producer cooperatives, by conducting research, outreach and public informational programs pertaining to employee ownership and employee stock ownership plans; by providing technical assistance to employee groups exploring an employee buyout, where such an action might be instrumental in retaining a business within the city of New York; and by ensuring that firms applying for financial assistance from any entity involved with economic development in the city of New York shall be correctly advised as to the potential advantages of forming an employee stock ownership plan; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3477" number="5267" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>to serve as a clearinghouse in connection with efforts to devise solutions for problems affecting business, industry and commerce in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3478" number="5268" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>to promote and encourage the expansion and development of markets for city products; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3479" number="5269" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>to promote and encourage the location and development of new business and industry in the city, as well as the maintenance and expansion of existing business and industry, and for this purpose to cooperate with public and private agencies, organizations and individuals; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3480" number="5270" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>to promote, coordinate and implement activities, projects and programs designed to attract foreign direct investment and promote overseas sales by firms in the city and to otherwise encourage, stimulate and foster the well-being, development, growth, and expansion of international business, commerce, and trade in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3481" number="5271" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>to administer and promote the development of foreign trade zones within the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3482" number="5272" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>j.<TAB tab-count="1"/>to study conditions affecting business, industry and commerce in the city, and to collect and disseminate such information, make such studies and carry on such educational activities as may be necessary or useful in relation to the promotion and development of business, industry and commerce in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3483" number="5273" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>k.<TAB tab-count="1"/>to maintain a business information service in order to assist business and industry in the city, and to encourage business and industry outside of the city to patronize the business and industrial establishments of the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3484" number="5274" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>l.<TAB tab-count="1"/>to make, from time to time, recommendations to the mayor concerning steps deemed advisable for the promotion and advancement of business and industrial prosperity in the city and the elimination of restrictions, burdens and handicapping factors having an adverse effect on business, industry and commerce in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3485" number="5275" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>m.<TAB tab-count="1"/>to publicize the economic advantages and other factors which make the city a desirable location for business and industry; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3486" number="5276" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>n.<TAB tab-count="1"/>to collect information and compile and distribute literature and publicity material dealing with the facilities, advantages and attractions of the city and the historic and scenic points and places of interest therein; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3487" number="5277" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>o.<TAB tab-count="1"/>to plan and conduct publicity and information programs designed to attract tourists, vacationers, visitors and other interested persons to the city, and to encourage, coordinate and cooperate with the efforts of public and private agencies, organizations and groups to publicize the advantages and attractions of the city for such purposes; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3488" number="5278" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>p.<TAB tab-count="1"/>to encourage and cooperate with the efforts of public and private agencies, organizations and groups in publicizing the business, industrial and commercial advantages of the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3489" number="5279" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>q.<TAB tab-count="1"/>to cooperate with and assist any corporation, organization, agency or instrumentality, whether public or private, the objects of which include, or which is authorized to act for, the advancement of the business and industrial prosperity and economic welfare of the city, or the furnishing of assistance in the location of new business and industry therein, or the rehabilitation or expansion of existing business and industry therein, or the creation of job opportunities or additional employment therein, so as to provide support for any action, efforts or activities for the accomplishment of any such purposes in the city on the part of any such corporation, organization, agency or instrumentality; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3490" number="5280" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>r.<TAB tab-count="1"/>to issue permits for the taking of motion pictures, and for the taking of photographs and for the use or operation of television cameras and/or any other transmitting television equipment in or about city property, or in or about any street, park, marginal street, pier, wharf, dock, bridge or tunnel within the jurisdiction of any city department or agency or involving the use of any city owned or maintained facilities or equipment. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3491" number="5281" version="617">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The commissioner shall have the power and duty to exercise the functions of the city relating to the development, redevelopment, construction, reconstruction, operation, maintenance, management, administration and regulation of public markets, wharf property, water front property and airports within the city of New York including, without limitation, the following: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3492" number="5282" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>to have exclusive charge and control of the public markets of the city, to fix fees for services, licenses and privileges in connection therewith, to rent space therein and to enter into leases therefor, and to regulate all facilities in use as public markets for the public health, safety and welfare; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3493" number="5283" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>to have exclusive charge and control of the wharf property and water front owned by the city and of the building, rebuilding, repairing, altering, maintaining, strengthening, protecting, cleaning, dredging, and deepening of such wharf property and water front property; provided, that the commissioner may, subject to the approval of the mayor, designate parcels of wharf property and water front property to be managed pursuant to this paragraph and leased or permitted pursuant to paragraphs g and h of this subdivision by the commissioner of citywide administrative services. Any such designation shall be made in writing and may be withdrawn by the commissioner subject to the approval of the mayor; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3494" number="5284" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>to have the exclusive power to enforce with respect to public markets, water front property and any structures on water front property under its jurisdiction, the labor law and such other laws, rules and regulations as may govern the dredging, filling, removal, construction, alteration, maintenance, use, occupancy, safety, sanitary conditions, mechanical equipment and inspection of structures in the city, and the issuance of permits and certificates of completion in reference thereto, and to establish and amend fees to be charged for the issuance of such permits or certificates of completion, which fees shall be established by the rules of the commissioner; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3495" number="5285" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>to have exclusive power to regulate water front property and the following structures on any water front property: wharves, piers, docks, bulkheads, structures wholly or partly therein, and such other structures used in conjunction with and in furtherance of water front commerce and/or navigation; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3496" number="5286" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>to have exclusive power to regulate the use of marginal streets so that they may be used to the best advantage in connection with wharf property and to regulate by license or otherwise the transfer of goods and merchandise upon, over or under all such marginal streets; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3497" number="5287" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>to lease, subject to the approval of the council, any wharf property belonging to the city primarily for purposes of water front commerce or in furtherance of navigation. Such leases may be sold at public auction duly advertised in the City Record for at least ten days prior thereto, and if not so sold the terms of any lease must be approved by the council by a three-fourths vote after a public hearing, notice of which shall be published in the City Record for the six days of publication of the City Record immediately prior thereto. All such leases shall be for such terms and shall contain such conditions as may be provided by law. The council shall act within forty-five days of the filing of the proposed terms and conditions of any such lease with the council. Failure of the council to act on a lease within such forty-five day period shall be deemed an approval of such lease. All votes of the council pursuant to this subdivision shall be filed by the council with the mayor and shall be final unless disapproved by the mayor within five days of such filing except that there shall be no right of mayoral disapproval if a three-fourths vote of the council is required pursuant to this subdivision. Any such mayoral disapproval shall be filed by the mayor with the council and shall be subject to override by a two-thirds vote of the council within ten days of such filing; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3498" number="5288" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>to lease, pursuant to review and approval pursuant to sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="197-c" destination-id="0-0-0-279">one hundred ninety-seven-c</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="197-d" destination-id="0-0-0-281">one hundred ninety-seven-d</LINK>, any wharf property belonging to the city for purposes other than water front commerce or in furtherance of navigation, including, without limitation, commercial, industrial, residential or recreational purposes. All such leases shall be for such terms and shall contain such conditions as may be provided by law. No such lease may be authorized by the commissioner until a public hearing has been held with respect thereto after the publication of notice in the City Record at least thirty days in advance of such hearing;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3499" number="5289" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>to grant temporary permits terminable at will for a period not exceeding three years for the purposes of water front commerce or in furtherance of navigation and not exceeding one year for other purposes to use and occupy any wharf property belonging to the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3500" number="5290" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>to set aside by order any wharf property belonging to the city, which has not been leased, for general wharfage purposes or for the use of any special kind of commerce, or of any class of vessel, or of any agency, and to revoke or modify such order as to any such wharf property at any time; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3501" number="5291" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>j.<TAB tab-count="1"/>to regulate the charges for wharfage, cranage and dockage of all vessels or floating structures using any wharf property set aside under paragraph i of this subdivision, provided that the rates which it shall be lawful to charge for wharfage, cranage and dockage from any vessel or floating structure which makes use of any other wharf property within the port of New York shall be fixed by rules of the commissioner; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3502" number="5292" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>k.<TAB tab-count="1"/>to sell buildings, structures and other improvements on market property and wharf property to a person leasing such property pursuant to paragraphs a, f and g of this subdivision; provided, however, that any such sale of improvements shall be subject to the procedure for review and approval applicable to the lease related to the improvements; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3506" number="5293" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>l.<TAB tab-count="1"/>to manage and promote the economic development of all airports, airplane landing sites, seaplane bases, heliports and helistops owned by the city, and to lease such property, subject to review and approval pursuant to sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="197-c" destination-id="0-0-0-279">one hundred ninety-seven-c</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="197-d" destination-id="0-0-0-281">one hundred ninety-seven-d</LINK>. No such lease may be authorized by the commissioner until a public hearing has been held with respect thereto after the publication of notice in the City Record at least thirty days in advance of such hearing; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-070]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6272" number="5294" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>m.<TAB tab-count="1"/>except as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="487" destination-id="0-0-0-669">487</LINK>, to have charge and control of the regulation for the health and safety of the general public of all airports, airplane landing sites, seaplane bases, heliports, helistops, marginal streets and parking facilities appurtenant thereto owned by the city; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-070]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6271" number="5295" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>n.<TAB tab-count="1"/>except as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="487" destination-id="0-0-0-669">487</LINK>, to establish, amend and enforce rules for the proper care and use of all public markets, wharf property, water front property and all airports, airplane landing sites, seaplane bases, heliports and helistops owned by the city and placed in his or her charge or over which he or she shall have power of regulation, and to issue such orders as may be necessary for such enforcement. The violation of or the failure to comply with any such order or rule shall be triable in criminal court and punishable, upon conviction, by not more than thirty days imprisonment or by a fine of not less than one hundred dollars nor more than five thousand dollars, or both; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-070]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6270" number="5296" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>o.<TAB tab-count="1"/>except as provided in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="487" destination-id="0-0-0-669">487</LINK>, to have the exclusive power to regulate all privately owned airports, airplane landing sites, seaplane bases, heliports and helistops and the operation out of and into such bases as well as the control of ground effect craft and aircraft operations to or from other sites within the city not so designated as airports, heliports, helistops, airplane landing sites or seaplane bases; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-070]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3507" number="5297" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>p.<TAB tab-count="1"/>to promote and encourage the expansion and development of the city as a center for intrastate, interstate and international overland freight transportation; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3508" number="5298" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>q.<TAB tab-count="1"/>to administer and enforce the provisions of the zoning resolution of the city of New York in respect to the following structures on any water front property: wharves, piers, docks, bulkheads, structures wholly or partly thereon, and such other structures used in conjunction with and in furtherance of water front commerce and/or navigation in the same manner and in accordance with the same procedure as is prescribed therein. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3509" number="5299" version="617">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>With respect to energy matters, the commissioner shall have the power and duty: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3510" number="5300" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>to plan, formulate, coordinate and advance energy policy for the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3511" number="5301" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>to analyze the energy and fuel needs of the city with respect to all kinds of energy, to prepare intermediate and long-range plans, goals and programs designed to meet such needs, and to establish priorities among them; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3512" number="5302" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>to develop, implement and manage energy-related programs for economic development and other purposes, including, without limitation, the administration of the public utility service established by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="22-301" destination-id="0-0-0-0">22-301</LINK> of the administrative code, and to exercise all of the functions, powers and duties of such public utility service; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3513" number="5303" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>to perform such other responsibilities with respect to energy matters, including responsibilities delegated elsewhere by the charter, as the mayor shall direct. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3514" number="5304" version="617">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>For purposes of subdivision three of this section, &quot;energy&quot; shall include work or heat that is, or may be, produced from any fuel or source, including but not limited to electrical, fossil, geothermal, wind, hydro, solid waste, tidal, solar and nuclear. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3515" number="5305" version="617">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>The commissioner shall have the power and duty to: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3516" number="5306" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>advise and assist the mayor in developing policies designed to meet the job training and employment needs of the economically disadvantaged and unemployed residents of the city of New York, as well as the labor needs of private industry; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3517" number="5307" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>provide job training and employment services for economically disadvantaged and unemployed residents of the city of New York; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3518" number="5308" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>disburse available city, state and federal funds for job training and employment programs throughout the city, and, when practical, to coordinate such funds with available funding from the private sector; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3519" number="5309" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>maintain, operate and control such programs as may be necessary or required to achieve the objectives of the department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3520" number="5310" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>promote cooperation among business, labor and community organizations in response to labor market conditions; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3521" number="5311" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>promote public awareness of resources available for the economically disadvantaged and unemployed, and to refer the public to appropriate job training and employment services.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3522" number="5312" version="412">
+					<PARA>(Am. L.L. 2016/003, 1/5/2016, eff. 1/5/2016; Am. L.L. 2016/109, 9/28/2016, eff. 9/28/2016; Am. L.L. 2017/222, 12/1/2017, eff. 1/15/2018) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-021]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3523" number="5313" version="984">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1996/059" destination-id="0-0-0-0">L.L. 1996/059</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2003/052" destination-id="0-0-0-0">L.L. 2003/052</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2008/026" destination-id="0-0-0-0">L.L. 2008/026</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2013/102" destination-id="0-0-0-0">L.L. 2013/102</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2013/148" destination-id="0-0-0-0">L.L. 2013/148</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6534" number="5314" version="641">
+				<HEADING>Section 1302. Waterfront plans. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1227" name="1302"/>Section 1302. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Waterfront plans. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3524" number="5315" version="80">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>No marginal street, bulkhead line, pierhead line or other similar line demarcating the extent of waterfront development may be delineated, established or changed by the commissioner except in accordance with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="198" destination-id="0-0-0-283">one hundred ninety-eight</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="199" destination-id="0-0-0-285">one hundred ninety-nine</LINK> of this charter. Any existing waterfront plan containing such lines shall be continued in effect and may similarly be changed only in accordance with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="198" destination-id="0-0-0-283">one hundred ninety-eight</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="199" destination-id="0-0-0-285">one hundred ninety-nine</LINK>. The commissioner may apply to the city planning commission to incorporate such existing plans for the water front or any portion thereof into the city map pursuant to the procedure for review and approval of a change to the city map. Any plans for the water front or portions thereof so incorporated shall thereafter be discontinued as separate plans.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3525" number="5316" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>No wharf, pier, bulkhead, basin, dock, slip, marginal street or other structure shall be laid out, built, or rebuilt in the port of New York in the area subject to the jurisdiction of the commissioner except in accordance with such plans as changed from time to time, provided, that the commissioner, with the approval of the council, may from time to time change the width or location of any of the piers laid down on such plans and build or rebuild temporary wharf structures or license or permit the building or rebuilding thereof as may be provided by law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3526" number="5317" version="48">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner may widen, open, construct, abandon or close any marginal street or avenue included in such plans and shall maintain the widened portion of such street or avenue, or the new street or avenue as a marginal street, and such new street, or such a widened street to the extent of the portion so widened, shall not be a public street. Before acting under this subdivision, the commissioner shall make a report to the city planning commission including a map showing any proposed change and such other information as the chair of the city planning commission shall require. If the city planning commission makes a finding that the proposed change is in accordance with the water front plan or approves the change, the commissioner may proceed with it, but if the city planning commission makes a finding that it is not in accordance with such plan and disapproves the change, then the commissioner shall not proceed unless the council by a two-thirds vote authorizes the commissioner to proceed. The city planning commission shall act on such change within six weeks from the time when it is filed in the office of the commission and if it does not act within such six weeks period the commissioner may proceed with the change. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6537" number="5318" version="739">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6828" number="5319" version="739">
+				<HEADING>Section 1303. Waterfront management advisory board. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1229" name="1303"/>Section 1303. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Waterfront management advisory board. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3528" number="5320" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be a waterfront management advisory board, which shall consist of one member from within the office of the mayor as designated by the mayor; the commissioner of small business services; the chairperson of the city planning commission; the commissioner of environmental protection; the commissioner of parks and recreation; the commissioner of housing preservation and development; two city council members to be designated by the speaker of the city council; nine members to be appointed by the mayor and nine members to be appointed by the speaker, provided that the mayor and the speaker each appoint at least one member from each borough. Appointed members shall include representatives of various organizations, industries and advocates interested in the industrial, commercial, residential, recreational or other use or development of the waterfront. The mayor, after consultation with the speaker, shall designate from among the ex officio members a chairperson. The mayor may designate additional members of the mayor&apos;s office or any mayoral agency as non-voting members of the board. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-008]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3529" number="5321" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Appointed members of the board shall not hold any other public office or employment and shall be appointed for terms of three years without compensation, except that of the members first appointed, three mayoral and three speaker appointees shall be appointed for terms of one year, three mayoral and three speaker appointees shall be appointed for terms of two years and three mayoral and three speaker appointees shall be appointed for terms of three years. No appointed member may be removed other than for cause to be determined after a hearing before the office of administrative trials and hearings. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-008]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3530" number="5322" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>In the event of a vacancy on the board during the term of office of an appointed member, the officer that appointed such member shall appoint a successor to serve the balance of the unexpired term. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-008]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3531" number="5323" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The ex officio and council members of the board may designate a representative who shall be counted as a member for the purpose of determining the existence of a quorum and who may vote on behalf of such member. The designation of a representative shall be made by a written notice of the ex officio or council member served upon the chairperson prior to the designee participating in any meeting of the board, but such designation may be rescinded or revised by the member at any time. The commissioner of small business services may designate as his or her representative the president of the economic development corporation or the designee of the president. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-008]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3532" number="5324" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The board shall (i) hold at least one meeting every quarter; (ii) consult with and, upon request of the mayor or any city agency, advise the mayor or such agency on any matter relating to the industrial, commercial, residential, recreational or other use or development of wharves, waterfront property and waterfront infrastructure in the city, and on other matters as may be requested by the chairperson; (iii) create any committees or subcommittees consisting of at least one board member or their designated representative as the board deems appropriate to carry out the board&apos;s responsibilities, provided that there shall be a committee on recreational uses of the waterfront; (iv) invite, at the discretion of the chairperson, representatives of federal, state, or multi-state agencies, authorities or other instrumentalities to participate as non-voting members; (v) assist, upon request of the director of city planning, and provide advice in the drafting of the comprehensive waterfront plan pursuant to section 205 of the charter; (vi) prepare and submit reports to the mayor and speaker, when deemed appropriate by the chairperson, on any issue relating to the industrial, commercial, residential, recreational or other use or development of wharves, waterfront property and waterfront infrastructure in the city; and (vii) by January 31 of each year, issue a report to the mayor and speaker, and post on the website of the city, that describes each meeting held by the board and any other activities undertaken by the board for the immediately preceding year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-008]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3533" number="5325" version="3">
+					<PARA>(Am. L.L. 2016/096, 8/31/2016, eff. 12/29/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-008]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3534" number="5326" version="739">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2016/096" destination-id="0-0-0-0">L.L. 2016/096</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5723" number="5327" version="456">
+				<HEADING>Section 1304. Division of economic and financial opportunity.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1231" name="1304"/>Section 1304. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Division of economic and financial opportunity.</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6858" number="5328" version="787">
+					<PARA>There shall be a division of economic and financial opportunity within the department.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3536" number="5329" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The purpose of the division shall be to enhance the ability of minority and women owned business enterprises and emerging business enterprises to compete for city contracts, to enhance city agencies&apos; awareness of such business enterprises, and to ensure their meaningful participation in city procurement. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3537" number="5330" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner shall administer, coordinate, and enforce a citywide program established by local law for the identification, recruitment, certification and participation in city procurement of minority and women owned business enterprises and emerging business enterprises. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3538" number="5331" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner shall be authorized to promulgate rules necessary to implement the purposes of such local law. The commissioner shall consult with the procurement policy board in drafting and adopting such rules. Such rules shall define sanctions, consistent with local law, which are appropriate to remedy violations or penalize contractors for failure to comply with the provisions of local law or with any program or rule established pursuant to local law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3539" number="5332" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The commissioner shall monitor the implementation of all financial, technical, managerial, and bonding assistance programs operated by city agencies to enhance participation by minority and women owned business enterprises and emerging business enterprises in city procurement. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3540" number="5333" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The commissioner shall have the following powers and duties to implement the purposes of this section: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3541" number="5334" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>to direct and assist agencies in their efforts to increase participation by minority and women owned business enterprises and emerging business enterprises as contractors and subcontractors in city procurement; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3542" number="5335" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>to develop standardized forms and reporting documents; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3543" number="5336" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>to conduct, coordinate and facilitate technical assistance and educational programs; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3544" number="5337" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>to periodically review the compliance of city agencies with the provisions of local law for the identification, recruitment, certification and participation in city procurement of minority and women owned business enterprises and emerging business enterprises; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3545" number="5338" version="787">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>reserved; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3546" number="5339" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>a.<TAB tab-count="1"/>to establish and operate, on behalf of the city, a centralized program for the certification of minority owned business enterprises, women owned business enterprises and emerging business enterprises for the purposes of establishing the eligibility of such businesses for participation in the programs and processes established pursuant to local law to ensure their meaningful participation in city procurement. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3547" number="5340" version="376">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>For the purposes of such certification, &quot;minority owned business enterprise&quot; and &quot;women owned business enterprise&quot; shall mean business enterprises authorized to do business in this state, including sole proprietorships, partnerships and corporations, in which (i) at least fifty-one percent of the ownership interest is held by United States citizens or lawful permanent residents who are either minority group members or women; (ii) the ownership interest of such individuals is real, substantial and continuing; and (iii) such individuals have and exercise the authority to control independently the day to day business decisions of the enterprise; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-052]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3548" number="5341" version="376">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>For the purposes of such certification, &quot;emerging business enterprise&quot; shall mean a business enterprise authorized to do business in this state, including sole proprietorships, partnerships and corporations, in which (i) at least fifty-one percent of the ownership interest is held by United States citizens or lawful permanent resident; (ii) the ownership interest of such individuals is real, substantial and continuing; (iii) such individuals have and exercise the authority to control independently the day to day business decisions of the enterprise; and (iv) such individuals have demonstrated, in accordance with regulations promulgated by the commissioner, that they are socially and economically disadvantaged. An individual who is &quot;socially and economically disadvantaged&quot; shall mean an individual who has experienced social disadvantage in American society as a result of causes not common to individuals who are not socially disadvantaged, and whose ability to compete in the free enterprise system has been impaired due to diminished capital and credit opportunities as compared to others in the same business area who are not socially disadvantaged. An individual&apos;s race, national origin, or gender by itself, shall not qualify the individual as &quot;socially disadvantaged.&quot; In drafting such regulations, the commissioner shall consider criteria developed for federal programs established to promote opportunities for businesses owned by individuals who are socially and economically disadvantaged, including criteria for determining initial and continued eligibility in relation to the net worth of individuals claiming to be economically disadvantaged, provided that the net worth of an individual claiming disadvantage pursuant to this section must be less than one million dollars. In determining such net worth, the department shall exclude the ownership interest in the business enterprise and the equity in the primary personal residence. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-052]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3549" number="5342" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>To be eligible for certification, a business enterprise shall have a real and substantial business presence in the market for the city of New York, as defined by the commissioner pursuant to local law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3550" number="5343" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The commissioner of small business services may provide by rule criteria and procedures for firms certified as minority owned businesses and women owned businesses by other governmental entities to be recognized as certified business enterprises by the city of New York. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3551" number="5344" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>to conduct site visits at business enterprises seeking certification, the basis for which shall be provided by rule, to verify that such business enterprises are eligible for certification; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3552" number="5345" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>to audit such certified business enterprises and periodically review and in appropriate cases recertify their eligibility for participation in programs established pursuant to local law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3553" number="5346" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>to direct and assist city agencies in their efforts to increase participation by minority owned business enterprises, women owned business enterprises and emerging business enterprises in any city-operated financial, technical, and management assistance program; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3554" number="5347" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>to assist all business enterprises certified pursuant to this section in becoming prequalified for all categories of procurement for which they may be eligible and for which contracting agencies utilize prequalification in the procurement process; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3555" number="5348" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>11.<TAB tab-count="1"/>to prepare, periodically update, and post on the website of the division a directory of such city certified business enterprises for use by city agencies and contractors, which shall include information for each such business enterprise, as applicable, including but not limited to: (i) identification of the market sector in which the business enterprise operates; (ii) the bonding capacity of the business enterprise; (iii) the contract price and specific tasks performed by the business enterprise for its last three contracts; (iv) the union affiliation, if any, of the certified business enterprise; and (v) the renewal date for certification; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3556" number="5349" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>12.<TAB tab-count="1"/>to develop a clearinghouse of information on programs and services available to such business enterprises; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3557" number="5350" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>13.<TAB tab-count="1"/>to provide such assistance to business enterprises interested in being certified as is needed to ensure that such businesses benefit from city technical, managerial, and financial assistance, and other business development programs. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3558" number="5351" version="50">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Responsibilities of the city agencies.</CHARFORMAT> The head of each city agency shall: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3559" number="5352" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>establish and implement reasonable measures and procedures to secure the meaningful participation of city certified business enterprises in the agency&apos;s (1) procurement of goods, services and construction and (2) financial, technical and managerial assistance programs for such business enterprises; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3560" number="5353" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>monitor all city contracts under the agency&apos;s jurisdiction for compliance with programs and policies established pursuant to local law, and refer and recommend appropriate matters to the division of economic and financial opportunity and the law department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3561" number="5354" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>designate a deputy commissioner or other executive officer to advise the commissioner concerning the activities of the agency in carrying out its responsibilities pursuant to local law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3562" number="5355" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>cooperate with and furnish to the division such information and assistance as may be required in the performance of the division&apos;s functions under this section and local law and the rules promulgated thereunder; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3563" number="5356" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>make available to prospective bidders a current copy of the directory of city certified businesses; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3564" number="5357" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>periodically report to the division on activities undertaken to promote and increase participation by city-certified businesses in its procurement and any financial, technical, or management assistance program which it administers. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3565" number="5358" version="375">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Small and locally-based business enterprises.</CHARFORMAT> In addition to the purposes provided in this section, the division of economic and financial opportunity, or such other bureau or division of the department as the commissioner may designate, shall administer any programs for small or locally-based business enterprise programs as may be established by law. The division of economic and financial opportunity or such other bureau or division shall, pursuant to applicable local laws, certify such enterprises as are eligible to participate in such programs, periodically review and recertify their eligibility, audit business enterprises that participate in such programs, and publish a directory of participating enterprises.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6570" number="5359" version="787">
+					<PARA>(Am. L.L. 2020/058, 6/29/2020, eff. 8/28/2020; Am. L.L. 2023/069, 5/29/2023, eff. 6/28/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6875" number="5360" version="984">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK>, <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2005/129" destination-id="0-0-0-0">L.L. 2005/129</LINK>, and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2006/012" destination-id="0-0-0-0">L.L. 2006/012</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6571" number="5361" version="675">
+				<HEADING>Section 1305. Division of labor services.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1233" name="1305"/>Section 1305. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Division of labor services.</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-5670" number="5362" version="617">
+					<PARA>There shall be a division of labor services within the department.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3568" number="5363" version="376">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall administer the provisions of this section and enforce a citywide program to ensure that city contractors and subcontractors take appropriate action to ensure that women and minority group members are afforded equal employment opportunity, and that all persons are protected from discrimination prohibited under the provisions of federal, state and local laws and executive orders with regard to recruitment, employment, job assignment, promotion, upgrading, demotion, transfer, layoff, termination, rates of pay and other forms of compensation. The commissioner may request and shall receive from any contracting agency of the city such assistance as may be necessary to carry out the provisions of this section. &quot;Minority group member&quot; shall mean a United States citizen or lawful permanent resident who is a member of a racial or language minority group in New York city protected by the voting rights act of 1965, as amended, or such other groups as may be covered by rule of the agency. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-052]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3569" number="5364" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commissioner shall promulgate such rules as are necessary to implement the purposes of this section. The commissioner shall consult with the procurement policy board in drafting and adopting such rules. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3570" number="5365" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner shall have the following powers and duties: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3571" number="5366" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>to implement, monitor compliance with, and enforce this section and programs established pursuant to local, state and federal law and executive order requiring contractors to provide equal employment opportunity; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3572" number="5367" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>to implement, monitor compliance with, and enforce on-the-job training requirements on construction projects; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3573" number="5368" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>to monitor compliance by contractors with state and federal prevailing wage requirements; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3574" number="5369" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>to advise and assist contractors, subcontractors and labor unions with respect to their obligations to provide equal employment opportunity; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3575" number="5370" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>to establish appropriate advisory committees; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3576" number="5371" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>to serve as a city liaison to federal, state and local agencies responsible for contractors&apos; and subcontractors&apos; compliance with equal employment opportunity; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3577" number="5372" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>such other powers and duties as may be conferred on the division by law or executive order for the purpose of ensuring that persons or businesses which benefit from doing business with the city provide equal employment opportunity. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3578" number="5373" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The commissioner shall develop appropriate language for inclusion in city contracts regarding the subject matter of this section. Such contract language shall be reviewed by the corporation counsel. Such contract language shall require that a contractor: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3579" number="5374" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>shall not discriminate against any individual in violation of any federal, state or local law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3580" number="5375" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>shall inform any employee representatives authorized to bargain collectively for its employees of the contractor&apos;s obligations pursuant to this section, and negotiate with such representatives to obtain their cooperation in the implementation of such obligations; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3581" number="5376" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>shall require that any subcontractor it employs in the performance of the contract comply with the requirements of this section. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3582" number="5377" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>1.<TAB tab-count="1"/>The commissioner shall require employment reports to be submitted in such form and containing such information as the commissioner may prescribe, by contractors to whom agencies propose to award city contracts and their proposed subcontractors, when such contracts or subcontracts have a value above a monetary threshold that the commissioner shall by rule establish. The commissioner may by rule provide for appropriate exemptions from such requirements. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3583" number="5378" version="195">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>An employment report shall include, but not be limited to, employment practices, policies and procedures, including those related to preventing and addressing sexual harassment, statistics and collective bargaining agreements. The contracting agency shall transmit the employment report to the commissioner after the selection of a proposed contractor or subcontractor. The commissioner shall review all employment reports to determine whether such contractors and subcontractors are in compliance with the equal employment opportunity requirement of local, state and federal law and executive orders. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-027]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3584" number="5379" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Except as provided in paragraphs 4, 5 and 6 of this subdivision, a contracting agency may award the contract or approve a subcontractor upon receiving the approval of the division, or after a number of days to be specified by rule have passed since it submitted the employment report of the proposed contractor to the division, whichever is sooner. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3585" number="5380" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>If the commissioner notifies the contracting agency that a proposed contractor or subcontractor has failed to submit a complete employment report, the commissioner shall require the contracting agency not to award the contract or approve the subcontractor until after a complete employment report has been submitted to the division for its review. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3586" number="5381" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>If the commissioner notifies the contracting agency that the division has reason to believe that the contractor or subcontractor is not in substantial compliance with the requirements of this section, the commissioner may require the contracting agency not to award the contract or approve the subcontractor until the contractor has agreed to take appropriate action to come into compliance with such requirements. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3587" number="5382" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The commissioner may by rule provide for circumstances when a contract or subcontract may be awarded without the prior approval of the division, which shall include but not be limited to requirements contracts which may be awarded prior to the approval of an employment report, subject to the condition that a purchase shall not be made under the contract until the division has approved the employment report, emergency contracts, and contracts with contractors or subcontractors for which the division has previously approved an employment report. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3588" number="5383" version="88">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>The time schedules for actions required to be taken pursuant to this section shall be defined by rule of the procurement policy board in accordance with the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="311" destination-id="0-0-0-469">three hundred eleven</LINK>. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3589" number="5384" version="50">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Periodic review.</CHARFORMAT> The commissioner may require contractors or subcontractors to file periodic employment reports after the award of a contract in such form and with such frequency as the commissioner may direct by rule to determine whether such contractors or subcontractors are in compliance with applicable legal requirements and the provisions of this section. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3590" number="5385" version="50">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Responsibilities of city agencies.</CHARFORMAT> The head of each city, county, borough or other office, position, administration, board, department, division, commission, bureau, corporation, authority, or other agency of government, where the majority of board members are appointed directly or indirectly by the mayor or serve by virtue of being city officers, or the expenses of which are paid in whole or in part from the city treasury, including the board of education, city and community colleges, the financial services corporation, the health and hospitals corporation, the public development corporation, school boards, and the city housing authority, shall: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3591" number="5386" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>assist the division in monitoring compliance with the equal employment opportunity requirements of contracts under its jurisdiction and refer and recommend matters to the division with respect to non-compliance with the provisions of this section; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3592" number="5387" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>designate a deputy commissioner or other executive officer to advise the commissioner concerning the activities and progress of the agency in carrying out its responsibilities pursuant to this section; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3593" number="5388" version="87">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>in accordance with the provisions of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="335" destination-id="0-0-0-517">three hundred thirty-five</LINK>, impose remedies and sanctions for failure to comply with the requirements included in city contracts pursuant to this section. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3594" number="5389" version="50">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Enforcement, remedies and sanctions.</CHARFORMAT> Upon receiving a complaint or at its own instance, the commissioner may conduct such investigation as may be necessary to determine whether contractors and subcontractors are in compliance with the equal employment opportunity requirements of federal, state and local laws and executive orders. If the commissioner has reason to believe that a contractor or subcontractor is not in compliance with the provisions of this section, the commissioner shall seek the contractor&apos;s or subcontractor&apos;s agreement to adopt and adhere to an employment program designed to ensure equal employment opportunity, including but not limited to measures designed to remedy underutilization of minorities and women in the contractor&apos;s or subcontractor&apos;s workforce, and may, in addition, recommend to the contracting agency that payments to the contractor be suspended pending a determination of the contractor&apos;s or subcontractor&apos;s compliance with such requirements. If the contractor or subcontractor does not agree to adopt or does not adhere to such a program, the commissioner shall make a determination as to whether the contractor or subcontractor is in compliance with the provisions of this section, and shall notify the head of the contracting agency of such determination and any sanctions, including withholding of payment, imposition of an employment program, or other sanction or remedy provided by law or by contract, which the executive director believes should be imposed. The head of the contracting agency shall impose such sanction unless he or she notifies the commissioner in writing that the agency head does not agree with the recommendation, in which case the commissioner and the head of the contracting agency shall jointly determine any sanction to be imposed. If the agency head and the commissioner do not agree on the sanction to be imposed, the matter shall be referred to the mayor, who shall determine any sanction to be imposed. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3595" number="5390" version="50">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Confidentiality.</CHARFORMAT> To the extent permitted by law and consistent with the proper discharge of the division&apos;s responsibilities under this section all information provided by a contractor to the division shall be confidential. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3596" number="5391" version="3">
+					<PARA>
+						<TAB tab-count="1"/>j.<TAB tab-count="1"/>This section shall not apply: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3597" number="5392" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>to contracts for financial or other assistance between the city and a government or governmental agency; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3598" number="5393" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>to contracts, resolutions, indentures, declarations of trust, or other instruments authorizing or relating to the authorization, issuance, award, and sale of bonds, certificates of indebtedness, notes or other fiscal obligations of the city, or consisting thereof, except as otherwise provided by law or executive order; or </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3599" number="5394" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>to employment by the city of its officers and employees which is subject to equal employment opportunity requirements of applicable law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3600" number="5395" version="375">
+					<PARA>(Am. L.L. 2018/102, 5/9/2018, eff. 7/8/2018; Am. L.L. 2020/058, 6/29/2020, eff. 8/28/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-051]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5678" number="5396" version="739">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1991/061" destination-id="0-0-0-0">L.L. 1991/061</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6829" number="5397" version="739">
+				<HEADING>Section 1306. The New York city public utility service. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1235" name="1306"/>Section 1306. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">The New York city public utility service. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3601" number="5398" version="617">
+					<PARA>The commissioner or his or her designee shall serve as the director of the public utility service established by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="22-301" destination-id="0-0-0-0">22-301</LINK> of the administrative code.</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3602" number="5399" version="3">
+				<HEADING>Section 1307. Dedicated small business advocates.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1237" name="1307"/>Section 1307. Dedicated small business advocates.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3603" number="5400" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be in the department small business advocates dedicated to helping business owners obtain appropriate services from the department and other city, state and federal agencies. The duties of such dedicated small business advocates shall include, but need not be limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3604" number="5401" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>receiving requests for assistance from small businesses with respect to their interactions with the city, including, but not limited to, agency inspections, rules, adjudications of violations, technical assistance programs, workforce development programs, language access, and customer service; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3605" number="5402" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>taking appropriate action to resolve requests for assistance, including referring such requests to appropriate city, state and federal agencies; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3606" number="5403" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>identifying opportunities for policy and program development to assist the small business sector and improve interactions between small businesses and city agencies. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3607" number="5404" version="380">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall conduct outreach and education targeted to small business owners and the general public related to the duties of such dedicated small business advocates and their role as a central point of contact for businesses seeking assistance from city agencies. Information indicating how to contact the small business advocates established pursuant to subdivision a of this section shall be prominently posted on the websites of relevant agencies. For purposes of this subdivision, relevant agencies shall include the department of buildings, the department of consumer and worker protection, the department of health and mental hygiene, the department of environmental protection, the department of sanitation, the bureau of fire prevention of the fire department and the department of small business services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-052]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3608" number="5405" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department shall provide an initial written report to the council not later than April1, 2017, and a second report not later than April1, 2018, each documenting requests for assistance received by the small businesses advocates in the immediately preceding calendar year. Each report shall include, but need not be limited to: (i) the total number of requests for assistance received by the small business advocates during the reporting period; (ii) a general description of the type of each such request; and (iii) a general description of the actions taken by the small business advocates, if any, in response to each such request. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3609" number="5406" version="412">
+					<PARA>(L.L. 2015/066, 6/29/2015, eff. 9/27/2015; Am. L.L. 2020/080, 8/28/2020, eff. 8/28/2020) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-052]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4605" number="5407" version="409">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2020/080" destination-id="0-0-0-0">L.L. 2020/080</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-053]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5702" number="5408" version="386">
+				<HEADING>Section 1308. Youth workforce development.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1499" name="1308"/>Section 1308. Youth workforce development.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4608" number="5409" version="59">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>For the purposes of this section: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4609" number="5410" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Disconnected youth.</CHARFORMAT> The term &quot;disconnected youth&quot; means youth between the ages of 18 and 24 years, who are neither attending school nor employed. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4610" number="5411" version="59">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall administer a workforce development program for disconnected youth. The commissioner shall administer the provisions of this section to develop programs in consultation with the department of youth and community development to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4611" number="5412" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Identify obstacles impacting disconnected youth who seek the department&apos;s youth workforce development services, including but not limited to, issues related to transportation, child care, housing, health care and substance abuse, criminal justice, and language and cultural barriers; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4612" number="5413" version="59">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Ensure that disconnected youth are connected with city agencies or community based organizations that will enable them to address those obstacles; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4613" number="5414" version="59">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Develop and implement or connect disconnected youth with education programs that will encourage disconnected youth to explore opportunities to pursue a college degree or a technical or vocational career education; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4614" number="5415" version="59">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Develop and implement a job training program, based on career progression, that offers sector based training for high growth industries including, but not limited to, construction, transportation, technology, industrial/manufacturing, and health care; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4615" number="5416" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Connect disconnected youth with financial literacy education resources offered through the city&apos;s agencies and community based organizations; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4616" number="5417" version="59">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Provide entrepreneurial skills training; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4617" number="5418" version="59">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>Connect disconnected youth with on-going follow-up services, such as adult mentoring, work-related peer support groups, additional education or career pathway development training, for at least 12 months after they complete the job training program and/or are connected to employment opportunities; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4618" number="5419" version="59">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>Provide information regarding the complete array of services offered by the department; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4619" number="5420" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>Make available labor market and employment information about New York city&apos;s high demand industry sectors or occupations obtained from state or federal government agencies, as appropriate. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4620" number="5421" version="772">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The department, with the assistance of the department of youth and community development, shall coordinate with the appropriate agencies, including but not limited to, the human resources administration, the department of education, the mayor&apos;s office, and community based organizations, to implement the provisions of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4606" number="5422" version="816">
+					<PARA>(L.L. 2017/113, 7/22/2017, eff. 7/22/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-015]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6954" number="5423" version="816">
+				<HEADING>Section 1309. Mentoring program.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1787" name="1309"/>Section 1309. Mentoring program.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6983" number="5424" version="816">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>As used in this section, the following terms shall have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6996" number="5425" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The term &quot;mentoring program&quot; means a program established pursuant to this section: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6995" number="5426" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>to provide mentee businesses with the opportunity for up to four years, to compete for and, where awarded, to perform certain contracts designated for inclusion in the mentoring program, with the assistance of a competitively selected mentor firm that has extensive management and mentoring experience, with the mentor providing the mentee business with advice and assistance in competing for and managing contracts; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6994" number="5427" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>to provide to a mentee business that the mentoring program agency has determined has successfully completed the program under subparagraph (i) of this paragraph, for up to four additional years: (A) additional opportunities to compete with other designated mentee businesses in the program for certain contracts to be designated for inclusion under this subparagraph and, where awarded, to perform such contracts, with the further assistance of a competitively selected mentor firm that has extensive management and mentoring experience, with the mentor providing the mentee with advice and technical assistance in competing for and managing contracts; and (B) assistance, as determined by the mentoring program agency, for such a mentee business to obtain bonding for contracts that are competitively awarded pursuant to any other provision of law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6993" number="5428" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The term &quot;mentoring program agency&quot; means an agency that has established a mentoring program pursuant to this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6992" number="5429" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The term &quot;mentoring program contract&quot; means a contract designated by the mentoring program agency, in an estimated amount of not more than one million five hundred thousand dollars for contracts under subparagraph (i) of paragraph one of this subdivision and five million dollars for contracts under subparagraph (ii) of such paragraph, for which bids or proposals are to be invited and accepted only from businesses that are enrolled in a mentoring program and have been selected by the mentoring program to compete for the contract. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6991" number="5430" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The term &quot;small business&quot; means a business that: is independently owned and operated; and has annual revenues that do not exceed an average of five million dollars for the three preceding fiscal years, as calculated at the end of each fiscal year, or such lesser amount as established by the mentoring program agency pursuant to this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6990" number="5431" version="816">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any agency may establish a mentoring program for small businesses in the construction trades. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6989" number="5432" version="816">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Notwithstanding any other law, including section two thousand five hundred four of the insurance law, except as otherwise provided in subdivision g of this section, a mentoring program agency shall have the authority to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6988" number="5433" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Determine the criteria pursuant to which a small business shall be eligible for and selected as a mentee business participating in the components of its mentoring program, as set forth in subparagraphs (i) and (ii) of paragraph one of subdivision a of this section, the number of mentee businesses to participate in each such component of such a program, the criteria for the competitive selection of the firms that will provide mentoring services, and the assignment of a mentor to a specific mentee business; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6987" number="5434" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Designate which eligible contracts shall be mentoring program contracts; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6986" number="5435" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Establish standards for qualifying mentee businesses to compete for a mentoring program contract, consistent with subdivision d of this section; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6985" number="5436" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Determine when bids or proposals for a mentoring program contract should be restricted to mentee businesses that, prior to the receipt of bids or proposals, have been qualified for such competition; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6984" number="5437" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Competitively select, designate, and contract with one or more experienced firms that, under the general supervision of the mentoring program agency, will provide mentoring services to the mentee businesses, and assign such mentors to one or more designated mentee businesses; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6982" number="5438" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Assist mentee businesses that have been awarded mentoring program contracts to obtain any surety bond or contract of insurance required of them in connection with such contract only; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6981" number="5439" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>Provide mentee businesses technical assistance in obtaining bid, payment, and performance bonding for contracts that are not mentoring program contracts, for which such businesses are otherwise qualified. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6980" number="5440" version="816">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>If the total number of qualified mentee businesses that respond to a competition and are considered capable of meeting the specifications and terms of the invitation to compete is less than three, or if the mentoring program agency determines that acceptance of the best offer will result in the payment of an unreasonable price, the agency shall reject all offers and withdraw the designation of the contract as a mentoring program contract. If the agency withdraws the designation of such contract as a mentoring program contract, the mentee businesses, if any, that made offers shall be notified. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6979" number="5441" version="816">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>A mentor shall provide construction management services to a mentoring program agency in relation to a mentoring program contract and services and assistance to a mentee business, as designated by the mentoring program agency, including but not limited to the following: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6978" number="5442" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>providing business training in the skills necessary to operate a successful business and to compete for and perform a contract; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6977" number="5443" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>providing technical assistance to the mentee business to assess the outcome if the mentee business competes for but is not awarded a contract; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6976" number="5444" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>if the mentoring program contract is awarded to the mentee business, providing guidance, advice, and technical assistance to the mentee business in the performance of the contract; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6975" number="5445" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>providing other technical assistance to the mentee business to facilitate learning, training, and resolution of other issues that may arise. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6974" number="5446" version="816">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>Except as provided in subdivision g of this section, any mentoring program agency may promulgate rules implementing the provisions of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6973" number="5447" version="816">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>1.<TAB tab-count="1"/>Notwithstanding any other subdivision of this section, the mayor may authorize any office of the mayor or any department the head of which is appointed by the mayor to promulgate rules implementing the provisions of subparagraphs one, three, five, six and seven of paragraph one of subdivision c of this section; authorizing such office or department to exercise any power set forth under subparagraphs one, three, five, six and seven of paragraph one of subdivision c of this section; authorizing such office or department and the mentoring program agency to jointly manage the performance of any mentoring program contract, with the assistance of the mentor firm providing services pursuant to subdivision e of this section; or combining two or more mentoring programs, which may include the program established under section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1206" destination-id="0-0-0-1597">twelve hundred six</LINK> of this charter, into a single centralized mentoring program, provided that no provision of this subdivision shall limit the authority of a mentoring program agency to exercise the authority set forth in subparagraph two or four of paragraph one of subdivision c or subdivision d of this section or otherwise limit an agency&apos;s authority to establish the specifications for a contract or to award a contract, and provided further that if the program established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1206" destination-id="0-0-0-1597">twelve hundred six</LINK> of this charter is centralized pursuant to this subdivision, any such rules promulgated pursuant to this paragraph shall apply to such program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6972" number="5448" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>If the mayor authorizes an office or department to promulgate rules combining two or more mentoring programs into a single centralized mentoring program pursuant to paragraph one of this subdivision: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6971" number="5449" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>such office or department shall by rule establish a goal for the aggregate value of mentoring program contracts awarded by mentoring program agencies participating in such centralized program, which, to the extent consistent with the budget adopted pursuant to <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="Chapter 10" destination-id="0-0-0-341">chapter ten</LINK> of this charter, shall be calculated as follows: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6970" number="5450" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(A)<TAB tab-count="1"/>for the first full fiscal year following the establishment of such centralized program, fifteen million dollars in contract value; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6969" number="5451" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(B)<TAB tab-count="1"/>for each year of such centralized program following the first full fiscal year of the centralized program, a goal that is twenty-five percent greater than the goal established pursuant to this subparagraph for the preceding year, provided that such annual goal shall not exceed one hundred fifty million dollars in aggregate contract value; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6968" number="5452" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>all mentees participating in a mentoring program that is combined into such centralized program shall be deemed selected for participation in such centralized program; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6967" number="5453" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>all mentees participating in a mentoring program established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1206" destination-id="0-0-0-1597">twelve hundred six</LINK> of this charter that are small businesses shall be deemed selected for participation in such centralized program, provided that such program established pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1206" destination-id="0-0-0-1597">twelve hundred six</LINK> of this charter is designated as combined into the centralized mentoring program by a rule promulgated pursuant to paragraph one of this subdivision; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6966" number="5454" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>all mentoring program contracts and contracts let pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1206" destination-id="0-0-0-1597">twelve hundred six</LINK> of this charter for which an invitation to compete is released prior to the effective date of rules promulgated pursuant to paragraph one of this subdivision shall not be subject to such rules. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6965" number="5455" version="816">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>Commencing on October first, two thousand twenty-four, the department shall submit an annual report to the governor, the temporary president of the senate, and the speaker of the assembly that contains the following information for the preceding city fiscal year: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6964" number="5456" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>the total number and total dollar value of mentoring program contracts from each mentoring program established under this section; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6963" number="5457" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>a brief description of (i) each project, (ii) agency compliance with mentoring program contract designation procedures, (iii) the type of assistance provided to obtain any surety bond or contract of insurance, and (iv) the type of technical assistance provided in obtaining a bid, payment, or performance bonding for mentoring program contracts from each mentoring program established under this section; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6962" number="5458" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>mentoring program participation rates; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6961" number="5459" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>the participation rate of and total dollar value of monies paid to businesses certified as minority or women-owned business enterprises or emerging business enterprises pursuant to section thirteen hundred four of this chapter or those certified as disadvantaged business enterprises pursuant to part twenty-six of title forty-nine of the code of federal regulations or any successor provisions; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6960" number="5460" version="816">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>the degree to which a centralized mentoring program, established pursuant to subdivision g of this section, has achieved a goal established pursuant to such subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6956" number="5461" version="816">
+					<PARA>(2023 N.Y. Laws Ch. 604, 10/25/2023, eff. 2/22/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3610" number="5462" version="816">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> Pursuant to 2023 N.Y. Laws Ch. 604, § 7, this section expires on February 22, 2034. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-090]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6958" number="5463" version="1012">
+				<HEADING>Section 1309.1. Division of street vendor services.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1855" name="1309.1"/>Section 1309.1. Division of street vendor services.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7808" number="5464" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7807" number="5465" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term “department” means the department of small business services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7806" number="5466" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Food vendor.</CHARFORMAT> The term “food vendor” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="17-306" destination-id="0-0-0-0">17-306</LINK> of the administrative code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7805" number="5467" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General vendor.</CHARFORMAT> The term “general vendor” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="20-452" destination-id="0-0-0-0">20-452</LINK> of the administrative code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7804" number="5468" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Street vendor.</CHARFORMAT> The term “street vendor” means general vendor and food vendor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7803" number="5469" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Responsibilities of the division.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7802" number="5470" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>There shall be a division of street vendor services within the department. Such division shall: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7801" number="5471" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Serve as a clearinghouse for the provision of services and resources for entrepreneurs interested in street vending opportunities; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7800" number="5472" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Publish on the department’s website a list of such services and resources that street vendors may utilize; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7799" number="5473" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Connect street vendors to the department’s programs; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7798" number="5474" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Offer business education and conduct outreach in the designated citywide languages, as such term is defined in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="23-1101" destination-id="0-0-0-0">23-1101</LINK>, to street vendors on entrepreneurship and compliance with all applicable local laws, rules, and regulations, including but not limited to such laws, rules, and regulations concerning legal vending locations and time, place, and manner restrictions applicable to vending; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7797" number="5475" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Adjust department programs to facilitate access for street vendors. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7796" number="5476" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The education offered pursuant to subparagraph (d) of paragraph 1 of this subdivision shall be directed toward vendors in areas with a high density of street vendors and toward vendors in any areas identified by the office of street vendor enforcement as featuring a high level of complaints about street vendor activity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7795" number="5477" version="1012">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reportin</CHARFORMAT>g. No later than 180 days after the effective date of the local law that added this section and annually thereafter, the commissioner shall submit to the speaker of the council and to the mayor, and the commissioner shall publish on the department&apos;s website, a report on (i) the number of food vendors and general vendors to which the division of street vendor services provided assistance during the previous year, and (ii) the types of assistance provided to food vendors and general vendors by such division during the previous year, disaggregated by percentage. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7793" number="5478" version="1012">
+					<PARA>(L.L. 2026/053, 1/29/2026, eff. 7/28/2026) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-118]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

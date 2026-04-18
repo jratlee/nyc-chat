@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-326" number="282" version="3">
+			<HEADING>Chapter 11: Elevators, Escalators, Personnel Hoists and Moving Walks</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-548" name="T01C011"/>Chapter 11: Elevators, Escalators, Personnel Hoists and Moving Walks</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-327" number="283" version="262">
+								<HEADING>§ 11-01 Rules for the Certification and Qualification of Private Elevator Inspection Agencies and for the Performance of Inspections and Filing of Inspection Reports for Elevators and Escalators by such Agencies. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-550" name="T01C011_11-01"/>§ 11-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Rules for the Certification and Qualification of Private Elevator Inspection Agencies and for the Performance of Inspections and Filing of Inspection Reports for Elevators and Escalators by such Agencies. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-328" number="284" version="262">
+									<PARA>(Repealed City Record 4/25/2017, eff. 5/25/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-013]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-391" number="285" version="262">
+								<HEADING>§ 11-02 Elevator and Escalator Violations Constituting a Condition Dangerous to Human Life and Safety.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-552" name="T01C011_11-02"/>§ 11-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Elevator and Escalator Violations Constituting a Condition Dangerous to Human Life and Safety.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-392" number="286" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Dangerous conditions. </CHARFORMAT>Any of the following elevator and escalator violations constitute a condition dangerous to human life and safety.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-393" number="287" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Elevator out-of-service when there is only one elevator in the building or building section.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-394" number="288" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Fireman service not functioning in premises.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-395" number="289" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Badly worn, defective, or damaged hoist cables and/or governors cables.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-396" number="290" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Defective hoistway doors.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-397" number="291" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Defective hoistway door interlocks.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-398" number="292" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Defective car door/gate.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-399" number="293" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>Defective car door/gate switch.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-400" number="294" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Defective/missing vision panels.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-401" number="295" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(9)<TAB tab-count="1"/>Defective car safety devices.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-402" number="296" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(10)<TAB tab-count="1"/>Defective brake assembly.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-403" number="297" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(11)<TAB tab-count="1"/>Defective hoist machine.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-404" number="298" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(12)<TAB tab-count="1"/>Defective selector/assembly.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-405" number="299" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(13)<TAB tab-count="1"/>Missing top emergency covers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-406" number="300" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(14)<TAB tab-count="1"/>Defective escalator fire shutters.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-407" number="301" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(15)<TAB tab-count="1"/>Defective escalator comb plates.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-408" number="302" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(16)<TAB tab-count="1"/>Defective escalator stop switch.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-409" number="303" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(17)<TAB tab-count="1"/>Excessive escalator skirt panel clearances.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-410" number="304" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(18)<TAB tab-count="1"/>Defective or non-functional safety switches.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-411" number="305" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(19)<TAB tab-count="1"/>Badly worn, defective, or damaged relays or controllers and/or selector.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-412" number="306" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(20)<TAB tab-count="1"/>Defective, badly worn, or damaged car safety device parts.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-413" number="307" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(21)<TAB tab-count="1"/>Defective car and/or counterweight buffers.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-414" number="308" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(22)<TAB tab-count="1"/>Any damaged, badly worn or defective equipment, which could result in elevator breakdown.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-415" number="309" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Civil penalties. </CHARFORMAT>In the event any person fails to remove any of the violations listed in these rules, after having been served with a notice personally or by certified mail indicating that removal of such condition exists and requiring such removal or compliance unless the removal of such condition is prevented by a labor dispute or is the result of vandalism beyond the control of the owner, he shall be liable for civil penalty of not less than one hundred fifty dollars per day commencing on the date of the service of such notice and terminating on the date that such removal or compliance has been substantially completed in addition to other penalties set forth in law. When service of such notice is made by mail to the owner, civil penalties as herein provided shall commence five days from the date of such mailing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-416" number="310" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Discontinuance of action upon removal of violation. </CHARFORMAT>Where a notice requiring removal of a violation listed in these rules has been issued, liability shall cease and the corporation counsel, on request of the Commissioner, shall discontinue prosecution only if the removal or compliance so required has been completed or substantially completed within ten days after the service of such notice. The Commissioner shall, upon good cause shown, grant additional time for such removal or compliance. In addition, the civil penalties shall be tolled from the date the owner certifies under oath, a form prescribed by the Commissioner, that the removal of the violation has been substantially completed. If subsequent inspection by the department shows a failure to have removed the violation, the civil penalties shall be deemed to have accrued as of the first day notice of violation has been served.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-417" number="311" version="3">
+								<HEADING>§ 11-03 Cease Use Orders for Elevators, Personnel Hoists, Escalators and Moving Walks.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-554" name="T01C011_11-03"/>§ 11-03 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cease Use Orders for Elevators, Personnel Hoists, Escalators and Moving Walks.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-418" number="312" version="3">
+									<PARA>A cease use order should be issued for all elevators, personnel hoists, escalators, and moving walks pursuant to § 26-127 of the Administrative Code of the City of New York whenever an imminently hazardous condition exists. In addition, the device should be tagged as unsafe. This tag may not be removed without prior approval from the Department of Buildings. Such imminently hazardous conditions include but are not limited to:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-419" number="313" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Elevator running with an open hoistway door or car gate/door.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-420" number="314" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Elevator running with broken or non-functioning upper or lower final hoistway or machine limit switches.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-421" number="315" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Hoistway or car door vision glass and grille guard missing.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-422" number="316" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>Unravelling or broken hoist, counterweight, governor or compensation cables.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-423" number="317" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(e)<TAB tab-count="1"/>Missing hoistway door or car door gibs.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-424" number="318" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(f)<TAB tab-count="1"/>Inoperable governor.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-425" number="319" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(g)<TAB tab-count="1"/>Elevator running with non-functioning interlock.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-426" number="320" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(h)<TAB tab-count="1"/>Emergency top exit cover missing (passenger elevator).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-427" number="321" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Side emergency exit door open (passenger elevator).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-428" number="322" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(j)<TAB tab-count="1"/>Emergency stop switch not working (automatic elevator, escalator or moving walk).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-429" number="323" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(k)<TAB tab-count="1"/>Directional switch not working (escalator or moving walk).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-430" number="324" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(l)<TAB tab-count="1"/>Other imminently hazardous conditions as observed by the inspector.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-432" number="325" version="2050">
+								<HEADING>§ 11-04 Separability.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-17224" name="T01C011_11-04"/>§ 11-04 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Separability.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-433" number="326" version="3">
+									<PARA>If any of the provisions of these rules are found by a court of competent jurisdiction to be invalid or ineffective in whole or in part, the effect of such decision shall be limited to those provisions that are expressly stated in the decision to be invalid or ineffective, and all other provisions of these rules shall continue to be separately and fully effective.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-434" number="327" version="2326">
+								<HEADING>§ 11-05 Certification of Completion of Work After Issuance of Temporary Use Permit for an Elevator, Escalator, and Other Device, Except Amusement Devices, Listed in § 27-185(b) or § 27-982 of the Administrative Code. [Repealed]</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-558" name="T01C011_11-05"/>§ 11-05 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Certification of Completion of Work After Issuance of Temporary Use Permit for an Elevator, Escalator, and Other Device, Except Amusement Devices, Listed in § 27-185(b) or § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-982" destination-id="0-0-0-0">27-982</LINK> of the Administrative Code. [Repealed]</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-437" number="328" version="2326">
+									<PARA>(Repealed City Record 11/7/2022, eff. 12/7/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-080]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-135097" number="329" version="2326">
+								<HEADING>§ 11-06 Elevators, Escalators or Other Devices, Except Amusement Devices, Listed in § 27-185(b) or § 27-982 of the Administrative Code Renewal of Temporary Use Permits and Fees.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-560" name="T01C011_11-06"/>§ 11-06 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Elevators, Escalators or Other Devices, Except Amusement Devices, Listed in § 27-185(b) or § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-982" destination-id="0-0-0-0">27-982</LINK> of the Administrative Code Renewal of Temporary Use Permits and Fees.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-438" number="330" version="1764">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Renewal of a temporary use permit for an elevator, escalator, or other device, except amusement devices, listed in § 27-185(b) or § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-982" destination-id="0-0-0-0">27-982</LINK> of the Administrative Code.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-439" number="331" version="2293">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A temporary use permit issued pursuant to § 27-188 of the Administrative Code for an elevator, escalator or other device listed in § 27-185(b) or § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-982" destination-id="0-0-0-0">27-982</LINK> of the Administrative Code may be renewed subject to the following:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-440" number="332" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Each renewal application shall be submitted on forms furnished by the department not later than five business days prior to the expiration date of the temporary use permit;</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-441" number="333" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Such application shall state the reason for renewal and be accompanied by the required fee as set forth in subdivision (3) of this section; and</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-442" number="334" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>Such application shall be submitted on behalf of the owner and signed by the owner or its authorized representative.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-443" number="335" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The commissioner will automatically renew a temporary use permit every thirty days for up to 120 days unless informed otherwise by the applicant. After 120 days, a renewal application must be filed and accompanied by the required fee.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-444" number="336" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The department may require a department inspection prior to the issuance of a renewal.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-445" number="337" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Each application for renewal shall be accompanied by a fee of $100 per device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-446" number="338" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Failure to keep or be prepared for scheduled appointment.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-447" number="339" version="2293">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Scheduled appointments for the inspection or tests of an elevator, escalator or other device listed in § 27-185(b) and § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-982" destination-id="0-0-0-0">27-982</LINK> of the Administrative Code may be canceled provided that notice of cancellation is received by the department no later than 3 business days prior to the scheduled appointment.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-448" number="340" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Where a department inspector arrives at the site of a scheduled inspection or test and is unable to perform the scheduled inspection or witness the test because the owner or its authorized representative has failed to keep or is unprepared for the scheduled appointment, then the department shall impose a fee for the missed appointment in the amount of $200. The fee shall be due and payable within thirty days after the date of the missed appointment or prior to the scheduling of a new appointment, whichever is earlier.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-449" number="341" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Pre-inspection clearance.</CHARFORMAT>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-450" number="342" version="1764">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>An owner or its authorized representative may request the department to perform a pre-inspection clearance of an elevator, escalator, or other device listed in § 27-185(b) and § <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-31" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="27-982" destination-id="0-0-0-0">27-982</LINK> of the Administrative Code within five business days of the department&apos;s receipt of such request and payment of the required fees set forth in subdivision (2) of this section. The department reserves the right to schedule the requested pre-inspection clearance during non-regular or off-peak hours.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-451" number="343" version="3">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>A request for a pre-inspection clearance shall be accompanied by a non-refundable fee in the amount of $200 per device.</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-452" number="344" version="3">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>This section shall not apply to amusement devices.</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

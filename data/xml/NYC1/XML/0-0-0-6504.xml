@@ -1,0 +1,727 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-6504" number="4585" version="629">
+			<HEADING>Chapter 46-A: Voting by Lawful Permanent Residents and Persons Authorized to Work in the United States</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1689" name="Chapter 46-A"/>Chapter 46-A: Voting by Lawful Permanent Residents and Persons Authorized to Work in the United States</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6058" number="4586" version="528">
+				<HEADING>Section 1057-aa. Definitions and applicability of the election law.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1691" name="1057-aa"/>Section 1057-aa. Definitions and applicability of the election law.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6076" number="4587" version="528">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>For purposes of this chapter, the following terms have the following meanings:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6077" number="4588" version="528">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal election.</CHARFORMAT> The term &quot;municipal election&quot; means any general, primary, or run-off election for a municipal office, any special election for a municipal office including but not limited to any election in which all candidates are nominated by independent nominating petition pursuant to the charter, and any municipal referendum.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6078" number="4589" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal office.</CHARFORMAT> The term &quot;municipal office&quot; means the offices of mayor, public advocate, comptroller, borough president, and council member.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6079" number="4590" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal referendum.</CHARFORMAT> The term &quot;municipal referendum&quot; means an election for the approval of a local law, as defined in section 2 of the municipal home role law, submitted to the voters of the city of New York.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6080" number="4591" version="528">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal voter.</CHARFORMAT> The term &quot;municipal voter&quot; means a person who is not a United States citizen on the date of the election on which he or she is voting, who is either a lawful permanent resident or authorized to work in the United States, who is a resident of New York city and will have been such a resident for 30 consecutive days or longer by the date of such election, who meets all qualifications for registering or pre-registering to vote under the election law, except for possessing United States citizenship, and who has registered or pre-registered to vote with the board of elections in the city of New York under this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6081" number="4592" version="528">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal voter registration.</CHARFORMAT> The term &quot;municipal voter registration&quot; means the method by which the board of elections in the city of New York registers or pre-registers new municipal voters pursuant to the provisions of this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6082" number="4593" version="528">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Municipal voting.</CHARFORMAT> The term &quot;municipal voting&quot; means the processes required under this chapter that facilitate municipal voter registration and voting by municipal voters in municipal elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6083" number="4594" version="528">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">New York state board of elections voter registration application.</CHARFORMAT> The term &quot;New York state board of elections voter registration application&quot; means the application used by the New York state board of elections to register or pre-register voters under title two of article five of the New York state election law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6084" number="4595" version="528">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Resident of New York city.</CHARFORMAT> The term &quot;resident of New York city&quot; means a person who resides within the city of New York.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6085" number="4596" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">U.S. citizen voter.</CHARFORMAT> The term &quot;U.S. citizen voter&quot; means a person who meets all qualifications for registering or pre-registering to vote under the election law including possessing United States citizenship.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6086" number="4597" version="528">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Municipal voting, as set forth in this chapter, shall be governed by applicable provisions of the election law, except that the provisions of the election law set forth in this chapter, as amended from time to time, and any successor provisions, shall apply as modified herein. References to the sections modified in this chapter shall be deemed to refer to such sections as they are so modified when and to the extent that they apply to municipal voting. References to provisions of the election law in this chapter shall be deemed to refer to any successor provisions. Provisions of the election law not specified in this chapter shall apply to municipal voting, provided however that such provisions shall not be construed to prevent or impede the application of this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6087" number="4598" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6075" number="4599" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6193" number="4600" version="529">
+				<HEADING>Section 1057-bb. Municipal voter qualifications and registration.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1693" name="1057-bb"/>Section 1057-bb. Municipal voter qualifications and registration.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6088" number="4601" version="774">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Consistent with the provisions of this chapter, eligible municipal voters shall have the right to vote in municipal elections and shall be entitled to the same rights and privileges as U.S. citizen voters with regard to municipal elections. All registered municipal voters shall have their names entered in the registration records maintained by the board of elections in the city of New York under article 5 of the election law for the purposes of registering and voting in municipal elections and may thereafter vote in any such election. Registrations for municipal voters entered in such records shall not contain United States citizenship data as required under 5-500 of the election law and shall be designated with an &quot;M&quot;. Municipal voter registration records shall be filed with the state board of elections with such designation, to be included in any appropriate list or database in accordance with law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6089" number="4602" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Section 5-102 of the election law shall apply to municipal elections, except that the qualification of United States citizenship shall not apply to municipal voters registering to vote in municipal elections and the municipal voting processes implemented pursuant to this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6090" number="4603" version="529">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>References to voter qualification or voter eligibility in the election law shall be construed to include municipal voter qualifications with respect to the municipal voting processes implemented pursuant to this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6091" number="4604" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6074" number="4605" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6192" number="4606" version="529">
+				<HEADING>Section 1057-cc. The role of the board of elections in the city of New York.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1695" name="1057-cc"/>Section 1057-cc. The role of the board of elections in the city of New York.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6092" number="4607" version="528">
+					<PARA>The board of elections in the city of New York shall adopt all necessary rules and carry out all necessary staff training to carry out the provisions of this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6093" number="4608" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6073" number="4609" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6191" number="4610" version="529">
+				<HEADING>Section 1057-dd. Poll administration.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1697" name="1057-dd"/>Section 1057-dd. Poll administration.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6094" number="4611" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>For each municipal election, the board of elections in the city of New York shall produce a poll ledger or computer generated registration list that combines municipal voters and other U.S. citizen voters for each election district or poll site. Municipal voters shall not be required to form a separate line or vote in a separate location from U.S. citizen voters. The poll ledger or computer generated registration list entries for municipal voters shall be marked with an &quot;M&quot;.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6095" number="4612" version="774">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Whenever a municipal election occurs on the same date and in the same district as an election in which a municipal voter is not eligible to vote, the board of elections in the city of New York shall produce separate municipal ballots to be distributed only to municipal voters appearing to vote on such date and in such district. Such municipal ballots shall be, as nearly as practicable, in the same form as those to be voted in the district by U.S. citizen voters during early voting or on election day as provided in title 1 of article 7 of the election law, except that such ballots shall be limited to municipal elections. Such municipal ballot shall contain the words &quot;Municipal Ballot&quot;, endorsed thereon and any other markings or unique coloration the board of elections in the city of New York deems appropriate.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6096" number="4613" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6072" number="4614" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6190" number="4615" version="529">
+				<HEADING>Section 1057-ee. Municipal voter registration application form.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1699" name="1057-ee"/>Section 1057-ee. Municipal voter registration application form.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6097" number="4616" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The board of elections in the city of New York shall design and distribute a municipal voter registration application form that will allow municipal voters to apply for registration, pre-registration, and change of enrollment in the manner that U.S. citizen voters may so apply to such board. Such form shall include, but need not be limited to, the following:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6098" number="4617" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Notice that individuals registering or pre-registering using municipal voter forms will be registered or pre-registered to vote in municipal elections only, and expressly stating that municipal voters are not qualified to vote in state or federal elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6099" number="4618" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Information on the qualifications to vote at the state and federal levels according to the election law, and information on how individuals who meet such qualifications can register or pre-register.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6100" number="4619" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Notice that individuals who have been residents of New York city for less than 30 consecutive days by the time of the next election do not qualify to register to vote as municipal voters.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6101" number="4620" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>Notice that registration and enrollment is not complete until the municipal voter registration application form is received and accepted by the board of elections in the city of New York.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6102" number="4621" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>Notice that it is a crime, along with the attendant penalties and possible immigration consequences, to procure a false registration or to furnish false information to the board of elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6103" number="4622" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The following notice in conspicuous type that contrasts in typography, layout or color with all other words on such form: &quot;IMPORTANT NOTICE FOR NON-UNITED STATES CITIZENS. Any information you provide to the Board of Elections, including your name and address, may be obtained by Immigration and Customs Enforcement (ICE) and other agencies, organizations, and individuals. In addition, if you apply for naturalization, you will be asked whether you have ever registered or voted in a federal, state, or local election in the United States. You may wish to consult with an immigration attorney, an organization that protects immigrant rights, or other knowledgeable source before providing any personal information to the Board of Elections and before registering to vote in New York City. You can find a list of nonprofit organizations that specialize in protecting the rights of immigrants on the website of the New York City Campaign Finance Board. Individuals in New York City applying for United States citizenship through naturalization may request notice of their eligibility to register and to vote in New York City.&quot;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6104" number="4623" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>The following spaces to be filled in by the applicant:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6105" number="4624" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Space to indicate whether the applicant is a lawful permanent resident or is authorized to work in the United states and the statement &quot;If you checked &quot;no&quot; in response to this question, do not complete this form.&quot;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6106" number="4625" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>Space for the applicant to indicate whether or not he or she has ever voted or registered to vote as a municipal voter before and, if so, the approximate year in which such applicant last voted or registered as such and his or her name and address at the time.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6107" number="4626" version="774">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>Space for the applicant to execute the form on a line which is clearly labeled &quot;signature of applicant&quot; preceded by the following form of affirmation: &quot;AFFIDAVIT: I swear or affirm that I am a resident of New York City and will have been a resident of New York City for a minimum of 30 consecutive days by the time of the next election, am either a lawful permanent resident or authorized to work in the United States and will only vote at an election at which I maintain such status, and, to the best of my knowledge, I meet all of the requirements to register to vote in New York State except for United States citizenship. This is my signature or mark on the line below. All the information contained on this application is true. I understand that if it is not true I can be convicted and fined up to $5,000 and/or jailed for up to four years.&quot;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6108" number="4627" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Such form shall contain all information required to be included on the statewide application form for U.S. citizen voters under subdivision 5 of section 5-210 of the election law, except as modified in this section. Such form shall not contain the notice concerning citizenship required pursuant to paragraph (g) of such subdivision or the information required to be included under subparagraphs (i), (vi) and (xii) of paragraph (k) of such subdivision.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6109" number="4628" version="529">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Titles eight and nine of article five of the election law shall not apply to municipal voter registration.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6110" number="4629" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6071" number="4630" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6189" number="4631" version="529">
+				<HEADING>Section 1057-ff. Party affiliations.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1701" name="1057-ff"/>Section 1057-ff. Party affiliations.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6111" number="4632" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Individuals who enroll in a political party using a municipal voter registration form shall be considered qualified members of that party only for the purposes of municipal elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6112" number="4633" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>References to political party member qualifications in the election law shall be construed to include municipal voter qualifications with respect to voting in municipal elections as set forth in this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6113" number="4634" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6070" number="4635" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6188" number="4636" version="529">
+				<HEADING>Section 1057-gg. Availability and accessibility of municipal voter registration application forms.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1703" name="1057-gg"/>Section 1057-gg. Availability and accessibility of municipal voter registration application forms.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6114" number="4637" version="539">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The board of elections in the city of New York and the campaign finance board shall coordinate efforts to ensure that municipal voter registration application forms are available at every location where New York state board of elections voter registration application forms are made available pursuant to programs of city agencies, including but not limited to programs implemented pursuant to section 5-211 of the election law and section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1057-a" destination-id="0-0-0-1049">1057-a</LINK> of the charter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6115" number="4638" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The board of elections in the city of New York shall translate the municipal voter registration application form into languages served by such board pursuant to state and federal law in a manner that is consistent with translations of the statewide application form.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6116" number="4639" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6069" number="4640" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6187" number="4641" version="529">
+				<HEADING>Section 1057-hh. Absentee ballot procedures.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1705" name="1057-hh"/>Section 1057-hh. Absentee ballot procedures.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6117" number="4642" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The board of elections in the city of New York shall prescribe a standard municipal voter absentee ballot application form that will allow a registered municipal voter to cast an absentee ballot for municipal elections. The use of any application form which substantially complies with the provisions of this section shall be acceptable and any application filed on such a form shall be accepted for filing. Such application form shall contain all information required to be included on the absentee ballot application form for U.S. citizen voters under section 8-400 of the election law, except as modified herein. Such form shall contain the following modifications to section 8-400 of the election law with respect to municipal voting:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6118" number="4643" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Paragraph (b) of subdivision 3 of such section shall apply to municipal voting, except that the statement required in such paragraph shall be deemed to be a statement that the applicant is a qualified and registered municipal voter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6119" number="4644" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Paragraph (d) of subdivision 3 of such section shall apply to municipal voting, except that the application requirements in such paragraph shall be deemed to only permit application for an absentee ballot for municipal elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6120" number="4645" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Subdivision 4 of such section shall apply to municipal voting, except that the application requirements in such paragraph shall be deemed to only permit application for an absentee ballot for municipal elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6121" number="4646" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Upon receipt of a municipal voter absentee ballot application form, the board of elections shall forthwith determine upon such inquiry as it deems proper whether the applicant is qualified to vote and receive an absentee ballot under the election law as modified by this chapter, and if it finds the applicant is not so qualified it shall reject the application after investigation as provided in section 8-402 of the election law as further modified by this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6122" number="4647" version="529">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The board of elections in the city of New York shall translate the municipal voter absentee ballot application form into languages served by such board pursuant to state and federal law in a manner that is consistent with translations of municipal voter registration application form.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6123" number="4648" version="774">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Whenever a municipal election occurs on the same date and in the same district as an election in which a municipal voter is not eligible to vote, the board of elections in the city of New York shall produce separate municipal absentee ballots containing only municipal elections to be distributed only to municipal absentee voters on such date and in such district. Such municipal absentee ballots shall be, as nearly as practicable, in the same form as the municipal ballot to be voted in the district during early voting and election day as required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1057-dd" destination-id="0-0-0-1697">1057-dd</LINK>, except that such municipal absentee ballot need not have a stub, and shall have the words &quot;Municipal Absentee Ballot&quot;, endorsed thereon.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6124" number="4649" version="529">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>Section 7-122 of the election law shall apply to absentee ballots and municipal absentee ballots mailed to municipal voters, except that the affirmation of United States citizenship in subdivision six of such section shall not apply to an inner affirmation envelope included with an absentee ballot or municipal absentee ballot distributed to a municipal voter and shall be replaced with an affirmation stating that the undersigned is qualified to vote under this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6125" number="4650" version="529">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The board of elections in the city of New York may prescribe a separate absentee ballot for military voters who are municipal voters consistent with section 7-123 of the election law, but omitting the otherwise required affirmation of United States citizenship and replacing it with an affirmation that the military voter meets the qualifications of a municipal voter under this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6126" number="4651" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6068" number="4652" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6186" number="4653" version="529">
+				<HEADING>Section 1057-ii. Registration and enrollment.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1707" name="1057-ii"/>Section 1057-ii. Registration and enrollment.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6127" number="4654" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Registration and enrollment deadlines for municipal voters in each municipal election shall be the same as the deadlines in the election law for U.S. citizen voters in such elections.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6128" number="4655" version="774">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Section 5-214 of the election law shall apply to registered municipal voters, except that with respect to municipal voters, the registration card under such section shall be marked with an &quot;M&quot; and contain a statement that it is for municipal voting only.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6129" number="4656" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6067" number="4657" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6185" number="4658" version="529">
+				<HEADING>Section 1057-jj. Municipal voter notification.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1709" name="1057-jj"/>Section 1057-jj. Municipal voter notification.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6130" number="4659" version="529">
+					<PARA>The board of elections in the city of New York shall create and implement a notification system for municipal voters that is consistent with the requirements of section 5-210 of the election law and section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1057-d" destination-id="0-0-0-1055">1057-d</LINK> of the charter with respect to U.S. citizen voters.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6131" number="4660" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6066" number="4661" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6184" number="4662" version="529">
+				<HEADING>Section 1057-kk. Notification of ability to cancel registration.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1711" name="1057-kk"/>Section 1057-kk. Notification of ability to cancel registration.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6132" number="4663" version="529">
+					<PARA>The board of elections in the city of New York shall, simultaneously with providing written confirmation of registration to vote as part of the notification system created and implemented under section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1057-jj" destination-id="0-0-0-1709">1057-jj</LINK>, provide written notice of municipal voter qualifications and a form with the name and address of the registrant which may be returned to the board by the registrant to cancel the registration.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6133" number="4664" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6065" number="4665" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6183" number="4666" version="529">
+				<HEADING>Section 1057-ll. Notification for individuals applying for citizenship.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1713" name="1057-ll"/>Section 1057-ll. Notification for individuals applying for citizenship.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6134" number="4667" version="528">
+					<PARA>Any city agency that has entered into a contract with an organization that includes, as part of such contract, provision of assistance to individuals in New York city regarding applying for United States citizenship through naturalization, shall request any such organization to provide notice to such individuals of their eligibility register and to vote in New York city pursuant to this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6135" number="4668" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6064" number="4669" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6182" number="4670" version="529">
+				<HEADING>Section 1057-mm. Change of address procedures.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1715" name="1057-mm"/>Section 1057-mm. Change of address procedures.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6136" number="4671" version="528">
+					<PARA>The board of elections in the city of New York shall, consistent with section 5-208 of the election law as modified by this section, transfer the registration and enrollment of a municipal voter for whom it receives a notice of change of address to another address in New York city, or for any municipal voter who submits a municipal ballot in an affidavit ballot envelope which sets forth such a new address.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6137" number="4672" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6063" number="4673" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6181" number="4674" version="529">
+				<HEADING>Section 1057-nn. Confidentiality.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1717" name="1057-nn"/>Section 1057-nn. Confidentiality.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6138" number="4675" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>No inquiry shall be made as to the immigration status of a potential municipal voter or municipal voter, other than to verify the identity of the municipal voter and ascertain whether he or she is qualified to vote under the election law as modified by this chapter. If such information is volunteered to any city employee, it shall not be recorded or shared with any other federal, state, or local agency, or with the public, except as otherwise required by law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6139" number="4676" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>All federal, state, and local confidentiality laws and policies that pertain to U.S. citizen voters shall also apply to municipal voters.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6140" number="4677" version="529">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>No municipal voter shall be asked to produce photographic identification or proof of address as a prerequisite for voter registration, except as otherwise required by this chapter or state or federal law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6141" number="4678" version="529">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Lists of municipal voters shall not be published, distributed or otherwise provided to the public by the board of elections in the city of New York or any other governmental agency separately or distinctly from a complete voter registration list of voters qualified to vote in a municipal election in New York city or a political subdivision thereof.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6179" number="4679" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6062" number="4680" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6180" number="4681" version="529">
+				<HEADING>Section 1057-oo. Community participation.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1719" name="1057-oo"/>Section 1057-oo. Community participation.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6143" number="4682" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The board of elections in the city of New York and the campaign finance board shall consult regularly with appropriate organizations, including advocacy groups and community associations, in the implementation of this chapter. Such boards shall work with such organizations to carry out community education programs regarding requirements for eligibility to vote pursuant to this chapter, including such eligibility of individuals who have applied for United States citizenship.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6144" number="4683" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The campaign finance board shall maintain on its website a list of nonprofit organizations that specialize in protecting the rights of immigrants and are able to provide potential municipal voters with information about the immigration and other consequences of registering to vote as a municipal voter under this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6145" number="4684" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6061" number="4685" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6178" number="4686" version="529">
+				<HEADING>Section 1057-pp. Transitioning to citizenship.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1721" name="1057-pp"/>Section 1057-pp. Transitioning to citizenship.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6146" number="4687" version="528">
+					<PARA>Municipal voters who are registered to vote under this chapter and who subsequently become United States citizens shall remain qualified to vote under this provision until such time as they no longer meet the qualifications set forth in this chapter or until they register to vote on a New York state board of elections voter registration form. Upon filing of an individual&apos;s New York state voter registration form, such individual&apos;s existing municipal voter registration shall become invalid.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6147" number="4688" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6060" number="4689" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6177" number="4690" version="529">
+				<HEADING>Section 1057-qq. Challenges.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1723" name="1057-qq"/>Section 1057-qq. Challenges.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6148" number="4691" version="774">
+					<PARA>Any municipal voter&apos;s qualifications to register to vote under this chapter may be challenged according to the terms of the election law, except that &quot;The Qualification Oath&quot; in section 8-504 of the election law shall not be administered to municipal voters, and shall be replaced with the following &quot;Municipal Voter Qualification Oath&quot; to read: &quot;You do swear (or affirm) that you are eighteen years of age or older, that you are a lawful permanent resident or authorized to work in the United States, that you are a resident of New York city, that you still reside at the same address from which you have been duly registered in this election district, that you have not voted at this election, and that you do not know of any reason why you are not qualified to vote at this election. You do further declare that you are aware that it is a crime to make any false statement and that all the statements you have made to the board have been true and that you understand that a false statement is perjury and, if you make such a false statement, you will be guilty of a misdemeanor.&quot;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6149" number="4692" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6059" number="4693" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6176" number="4694" version="529">
+				<HEADING>Section 1057-rr. State and federal elections.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1725" name="1057-rr"/>Section 1057-rr. State and federal elections.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6150" number="4695" version="528">
+					<PARA>Nothing in this chapter shall be construed so as to confer upon municipal voters the right to vote for any state or federal office or political party position or on any state or federal ballot question.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6151" number="4696" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6057" number="4697" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6175" number="4698" version="529">
+				<HEADING>Section 1057-ss. Violations.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1727" name="1057-ss"/>Section 1057-ss. Violations.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6152" number="4699" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>Any person who knowingly and willfully violates any provision of this section of the charter which violation is not specifically covered by section 17-168 or any other provision of article seventeen of the election law is guilty of a misdemeanor.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6153" number="4700" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>A public officer or employee who knowingly and willfully omits, refuses or neglects to perform any act required of such public officer or employee by this chapter, who knowingly and willfully refuses to permit the doing of any act authorized by this chapter, or who knowingly and willfully hinders, or delays or attempts to hinder or delay the performance of such an act is, if not otherwise subject to section 17-128 of the election law or any other law, guilty of a misdemeanor.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6154" number="4701" version="529">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any person convicted of a misdemeanor under this section shall be punished by imprisonment for not more than one year, or by a fine of not less than one hundred dollars nor more than five hundred dollars, or by both such fine and imprisonment.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6155" number="4702" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6056" number="4703" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6174" number="4704" version="529">
+				<HEADING>Section 1057-tt. Advisory group.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1729" name="1057-tt"/>Section 1057-tt. Advisory group.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6156" number="4705" version="529">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be an advisory group to provide recommendations regarding any problems or potential improvements with respect to municipal voting.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6157" number="4706" version="529">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The advisory group shall consist of five members appointed for a term of two years as follows:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6158" number="4707" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The public advocate, who shall be the chairperson of the advisory group;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6159" number="4708" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Two members appointed by the mayor, chosen from among individuals representing community based organizations; and</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6160" number="4709" version="529">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>Two members appointed by the speaker of the council, chosen from among individuals representing community based organizations.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6161" number="4710" version="529">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Membership in the advisory group shall not constitute the holding of a public office, and members of the advisory group shall not be required to take or file oaths of office before serving on the advisory group. No person shall receive compensation for service on the advisory group, except that each member shall be allowed actual and necessary expenses to be audited in the same manner as other city charges.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6162" number="4711" version="529">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Members of the advisory group shall be appointed within 60 days after the effective date of this local law. No member shall be removed except for cause by the appointing authority. In the event of a vacancy during the term of an appointed member, a successor shall be selected in the same manner as the original appointment.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6163" number="4712" version="529">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The mayor may designate one or more agencies to provide staffing and other administrative support to the advisory group.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6164" number="4713" version="529">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The advisory group shall be required to meet no less than semiannually and shall create a dedicated website to enable ongoing solicitation of public feedback.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6165" number="4714" version="529">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>No later than December 1, 2023, and annually thereafter, the advisory group shall prepare a report of its findings and recommendations with respect to the voting process carried out under this chapter and submit such report to the mayor and speaker of the council.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6166" number="4715" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6055" number="4716" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6171" number="4717" version="529">
+				<HEADING>Section 1057-uu. Petitioning.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1731" name="1057-uu"/>Section 1057-uu. Petitioning.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6167" number="4718" version="528">
+					<PARA>Municipal voters shall be deemed qualified or registered voters, and enrolled voters where they have chosen to enroll in a political party, for purposes of signing and witnessing petitions in relation to designation and nomination for municipal offices and in relation to municipal referenda but shall not be otherwise be so deemed pursuant to applicable provisions of the election law or any other law.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6168" number="4719" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6172" number="4720" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6173" number="4721" version="529">
+				<HEADING>Section 1057-vv. Registration confirmation letters.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1733" name="1057-vv"/>Section 1057-vv. Registration confirmation letters.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6169" number="4722" version="528">
+					<PARA>The board of elections in the city of New York shall, upon request, provide any pre-registered municipal voter, registered municipal voter or formerly-registered municipal voter with a letter confirming the dates during which such individual was registered or pre-registered as a municipal voter, and explaining the rights and privileges afforded to municipal voters pursuant to this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6054" number="4723" version="528">
+					<PARA>(L.L. 2022/011, 1/9/2022, eff. 12/9/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5436" number="4724" version="528">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2022/011" destination-id="0-0-0-0">L.L. 2022/011</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

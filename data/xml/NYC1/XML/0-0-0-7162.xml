@@ -1,0 +1,689 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-7162" number="6923" version="835">
+			<HEADING>Chapter 79: Community Hiring and Workforce Development</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1791" name="Chapter 79"/>Chapter 79: Community Hiring and Workforce Development</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6998" number="6924" version="823">
+				<HEADING>Section 3501. Definitions.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1795" name="3501"/>Section 3501. Definitions.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7104" number="6925" version="823">
+					<PARA>As used in this chapter, the following terms shall have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7103" number="6926" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Absorption hire.</CHARFORMAT> The term &quot;absorption hire&quot; means an individual who fills a building service opportunity and who: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7102" number="6927" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>was employed to perform building service work within the preceding six months at the same facility to which such individual is assigned; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7101" number="6928" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>fills such building service opportunity as a result of a reassignment by a contractor or subcontractor, as applicable, due to a displacement caused by the closure of another facility, a staffing reduction at another facility, or any other similar event. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7100" number="6929" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Apprentice.</CHARFORMAT> The term &quot;apprentice&quot; means an individual who is receiving training and performing labor pursuant to an apprenticeship agreement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7099" number="6930" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Apprenticeship agreement.</CHARFORMAT> The term &quot;apprenticeship agreement&quot; means an agreement, as such term is defined by section eight hundred sixteen of the labor law, that has been registered with, and approved by, the commissioner of labor of the state of New York pursuant to article twenty-three of the labor law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7098" number="6931" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building service opportunity.</CHARFORMAT> The term &quot;building service opportunity&quot; means an employment opportunity to perform building service work. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7097" number="6932" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building service opportunity labor hour.</CHARFORMAT> The term &quot;building service opportunity labor hour&quot; means a labor hour performed by an individual employed to fill a building service opportunity. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7096" number="6933" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Building service work.</CHARFORMAT> The term &quot;building service work&quot; means the classifications of labor that the applicable fiscal officer has identified as consistent with section two hundred thirty of the labor law, regardless of whether such labor constitutes building service work for which workers are entitled to prevailing wage pursuant to article nine of the labor law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7095" number="6934" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City-affiliated not-for-profit corporation.</CHARFORMAT> The term &quot;city-affiliated not-for-profit corporation&quot; means a local development corporation or other not-for-profit corporation, a majority of whose members are appointed by the mayor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7094" number="6935" version="1009">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Construction work.</CHARFORMAT> The term &quot;construction work&quot; means: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7093" number="6936" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>any labor of a type that the applicable fiscal officer, as defined in paragraph e of subdivision five of section two hundred twenty of the labor law, has identified in a published schedule as a classification of work performed by laborers, workers or mechanics, regardless of whether such labor constitutes public work pursuant to such section; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7092" number="6937" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any additional types of labor identified by the director by rule, provided that such labor shall not include building service work. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7091" number="6938" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Contractor.</CHARFORMAT> The term &quot;contractor&quot; means an individual, company, corporation, partnership, or other entity that has entered into a transaction with the city, including but not limited to vendors providing human services, standard services, professional services, construction-related services, and construction, as such terms are defined by rules of the procurement policy board, to the city, except that the term &quot;contractor&quot; does not include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7090" number="6939" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>any governmental entity; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7089" number="6940" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any labor organization. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7088" number="6941" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Director.</CHARFORMAT> The term &quot;director&quot; means the director of the office of community hiring and workforce development or his or her designee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7087" number="6942" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Economically disadvantaged candidate.</CHARFORMAT> The term &quot;economically disadvantaged candidate&quot; means an individual: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7086" number="6943" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>whose income or household income falls below an applicable quantitative threshold determined by the director, provided that such income shall not include any types of public benefits provided by the federal government or a state or local government and identified by the director; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7085" number="6944" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>who is certified as meeting all applicable requirements. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7084" number="6945" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Economically disadvantaged region.</CHARFORMAT> The term &quot;economically disadvantaged region&quot; means an area, represented by its five-digit ZIP code, in which at least fifteen percent of residents have household incomes below the federal poverty threshold. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7083" number="6946" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Economically disadvantaged region candidate.</CHARFORMAT> The term &quot;economically disadvantaged region candidate&quot; means an individual who is certified as meeting all applicable requirements and who is a: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7082" number="6947" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>resident of an address within an economically disadvantaged region; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7081" number="6948" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>resident of a building that is: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7080" number="6949" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>owned or operated by the New York city housing authority; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7079" number="6950" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>subject to section nine of the United States Housing Act of nineteen hundred thirty-seven, as amended; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7078" number="6951" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>resident of a dwelling unit that is: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7077" number="6952" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>subject to a regulatory agreement with a federal, state or local government agency requiring that occupancy of such unit be restricted based on the income of the occupants; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7076" number="6953" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>located in a building that was previously operated by the New York city housing authority, was previously subject to section nine of the United States Housing Act of nineteen hundred thirty-seven, as amended, and is subject to section eight of such act. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7075" number="6954" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Employment opportunity.</CHARFORMAT> The term &quot;employment opportunity&quot; means a vacancy in a position to perform services under a transaction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7074" number="6955" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Exempt transaction.</CHARFORMAT> The term &quot;exempt transaction&quot; includes any: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7073" number="6956" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>contract procured pursuant to section one hundred sixty-two of the state finance law; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7072" number="6957" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>contract for the performance of services by a city-affiliated not-for-profit corporation; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7071" number="6958" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>contract the principal purpose of which is the supply of goods, except that the term &quot;exempt transaction&quot; shall not include any transaction the principal purpose of which is delivery services; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7070" number="6959" version="824">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(4)<TAB tab-count="1"/>contract in an amount below the small purchase threshold set pursuant to the authority and procedure set forth in subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="314" destination-id="0-0-0-475">three hundred fourteen</LINK> of this charter; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7069" number="6960" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(5)<TAB tab-count="1"/>contract for confidential or investigative services or any other type of contract excluded by a rule adopted by the director based on a determination that the application of goals under this program would substantially undermine the primary objective of that type of contract; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7068" number="6961" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(6)<TAB tab-count="1"/>contract subject to federal or state funding requirements that preclude or substantially conflict with the application of goals under this program; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7067" number="6962" version="824">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(7)<TAB tab-count="1"/>contract for emergency demolition services procured by the department of housing preservation and development pursuant to the procedure set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="315" destination-id="0-0-0-477">three hundred fifteen</LINK> of this charter; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7066" number="6963" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(8)<TAB tab-count="1"/>contract for which contractor selection is made by an elected official other than the mayor or an agency other than a mayoral agency, except as otherwise provided by rule by the director. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7065" number="6964" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Labor organization.</CHARFORMAT> The term &quot;labor organization&quot; has the meaning provided in section one hundred fifty-two of title twenty-nine of the United States code, or any successor provision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7064" number="6965" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Mayoral agency.</CHARFORMAT> The term &quot;mayoral agency&quot; includes: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7063" number="6966" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>any agency the head of which is appointed by the mayor; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7062" number="6967" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>any agency headed by a board, commission, or other multi-member body, the majority of the membership of which is appointed by the mayor; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7061" number="6968" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>the office of the mayor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7060" number="6969" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Project labor agreement.</CHARFORMAT> The term &quot;project labor agreement&quot; means a pre-hire collective bargaining agreement entered into between the city and a bona fide building and construction trade labor organization establishing the labor organization or its affiliates as the collective bargaining representative for all persons who will perform construction work on a transaction, provided such agreement: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7059" number="6970" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>provides that only contractors and subcontractors who sign a pre-negotiated agreement with the labor organization can perform such work on such transaction; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7058" number="6971" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>includes goals for the employment of qualified economically disadvantaged region candidates to perform such work. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7057" number="6972" version="824">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Referral source.</CHARFORMAT> The term &quot;referral source&quot; means an individual, company, corporation, partnership, agency, union referral system, or other entity selected pursuant to paragraph three of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="3502" destination-id="0-0-0-1793">thirty-five hundred two</LINK> of this chapter to make referrals of candidates to contractors, prospective contractors, subcontractors, and prospective subcontractors for the purposes of meeting the applicable employment goals set forth in such section; provided that any union referral system shall be deemed an approved referral source for the purposes of paragraph three of subdivision a of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="3502" destination-id="0-0-0-1793">thirty-five hundred two</LINK> of this chapter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7056" number="6973" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Subcontractor.</CHARFORMAT> The term &quot;subcontractor&quot; means an individual, company, corporation, partnership or other entity that has entered into an agreement with a contractor or another subcontractor in order to perform services or any other obligation under a transaction, provided that such agreement involves the performance of construction work of any value, or the total dollar value of such agreement exceeds twenty thousand dollars, and further provided that the term &quot;subcontractor&quot; does not include: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7055" number="6974" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>employees; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7054" number="6975" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>governmental entities; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7053" number="6976" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>labor organizations. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7052" number="6977" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transaction.</CHARFORMAT> The term &quot;transaction&quot; means a procurement contract, except that the term &quot;transaction&quot; shall not include any exempt transaction. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7051" number="6978" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Union referral system.</CHARFORMAT> The term &quot;union referral system&quot; means a labor organization that has an affiliated registered apprentice program with direct entry access from one or more pre-apprentice programs that are compliant with United States department of labor and New York state department of labor regulations, as well as any labor organization with an affiliated community recruitment program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7049" number="6979" version="823">
+					<PARA>(2023 N.Y. Laws Ch. 669, 11/17/2023, eff. 5/15/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-7050" number="6980" version="823">
+				<HEADING>Section 3502. Office of Community Hiring and Workforce Development.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1793" name="3502"/>Section 3502. Office of Community Hiring and Workforce Development.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7048" number="6981" version="823">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Office established.</CHARFORMAT> The mayor shall establish an office of community hiring and workforce development. Such office may be established as a separate office or within any department the head of which is appointed by the mayor. The office of community hiring and workforce development shall be headed by a director who shall be appointed by the mayor or head of such department. The director shall, as the director deems appropriate, adopt rules consistent with the purpose of this chapter relating to employment goals on transactions, including rules: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7047" number="6982" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>requiring contractors and subcontractors to agree to publicly disclose employment opportunities; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7046" number="6983" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>establishing a procedure for the certification of individuals as economically disadvantaged candidates, economically disadvantaged region candidates, or both, provided that such certification procedure shall, to the extent the director deems feasible, use data sources and administrative processes established or maintained by the city for other programs or operations in order to minimize administrative burdens on contractors, subcontractors, and individuals; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7045" number="6984" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>establishing a procedure by which the director shall identify and deem union referral systems as referral sources and may approve other referral sources for the purposes of this section, whereby the director shall: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7044" number="6985" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>publicly release a referral source solicitation that includes a description of functions of a referral source, the manner in which responses must be submitted, and the criteria by which responding entities will be approved, and authorize one or more entities, as appropriate, to function as referral sources, based on the criteria included in the solicitation; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7043" number="6986" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>authorize an agency in writing to function as a referral source; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7042" number="6987" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>authorize, in writing, an entity engaged pursuant to an agreement with an agency for employment recruitment services or other workforce development services to function as a referral source; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7041" number="6988" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(4)<TAB tab-count="1"/>establishing a procedure through which the director may provide information regarding referral sources to contractors, subcontractors, prospective contractors, and prospective subcontractors; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7040" number="6989" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(5)<TAB tab-count="1"/>establishing a procedure by which the director shall monitor and criteria by which the director shall evaluate the performance of each referral source on an annual basis, and where the director determines that a referral source has performed inadequately, terminate or suspend the referral source; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7039" number="6990" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(6)<TAB tab-count="1"/>requiring contractors to agree to make best efforts to employ qualified economically disadvantaged region candidates in order to meet employment goals relating to building service work based on: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7038" number="6991" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the percentage of building service opportunities filled by economically disadvantaged region candidates, provided that in calculating such goals, absorption hires shall not be considered; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7037" number="6992" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the percentage of building service opportunity labor hours performed by economically disadvantaged region candidates, provided that in calculating such goals, building service opportunity labor hours performed by absorption hires shall not be considered; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7036" number="6993" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(7)<TAB tab-count="1"/>requiring contractors and subcontractors to agree to make best efforts to employ qualified economically disadvantaged region candidates to perform no less than a percentage of the cumulative hours of construction work on transactions involving construction work, and additionally requiring, to the extent feasible consistent with the maximum ratios of apprentices to journey-level workers established by the New York state department of labor, that such contractors and subcontractors agree to make best efforts to employ apprentices who are qualified economically disadvantaged region candidates to perform no less than a percentage of such cumulative hours of construction work, provided that construction work performed by apprentices who are qualified economically disadvantaged region candidates shall be credited towards the achievement of both employment goals set forth in this paragraph. Where a transaction is not subject to a project labor agreement, such goals shall be established pursuant to paragraph twelve of this subdivision and where a transaction is subject to a project labor agreement, such goals shall be established pursuant to subdivision f of this section; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7035" number="6994" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(8)<TAB tab-count="1"/>requiring contractors to agree to make best efforts to employ qualified economically disadvantaged candidates in order to meet employment goals relating to work on transactions that neither involves construction work nor building service work, and establishing such goals based on: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7034" number="6995" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>the percentage of the cumulative hours of labor performed by such candidates; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7033" number="6996" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the percentage of employment opportunities filled by such candidates; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7032" number="6997" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>the total value of the transaction; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7031" number="6998" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(9)<TAB tab-count="1"/>requiring subcontractors to agree to make best efforts to extend offers of employment to qualified candidates in order to meet any employment goals described in paragraph six or eight of this subdivision and established pursuant to rules adopted by the director; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7030" number="6999" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(10)<TAB tab-count="1"/>establishing a schedule of civil penalties, based on factors including but not limited to a contractor&apos;s industry or any relevant occupations employed by a contractor or subcontractor, that the director or an applicable agency may impose on a contractor due to the contractor&apos;s or subcontractor&apos;s non-compliance with an obligation created pursuant to this section and a procedure for the imposition of such penalties, which will not exclude other remedies established in this charter or any other law, provided that any civil penalties imposed pursuant to this paragraph shall not exceed two thousand five hundred dollars for each non-compliance with such an obligation or each failure to correct such non-compliance; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7029" number="7000" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(11)<TAB tab-count="1"/>designating paper or electronic formats for the submission of documents related to the selection and operation of referral sources and contractors and subcontractors subject to goals pursuant to paragraphs six through nine of this subdivision, as applicable, including but not limited to, documents containing information required pursuant to para graphs one and three of this subdivision, subdivision c and subparagraphs (v) and (vi) of paragraph one of subdivision d of this section; solicitation documents and responses, including bids and proposals; and data related to labor performed pursuant to transactions, including payroll reports, as applicable; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7028" number="7001" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(12)<TAB tab-count="1"/>(i)<TAB tab-count="1"/>authorizing the director, in consultation with the city chief procurement officer, as such term is defined in rules promulgated by the procurement policy board, to establish factors by which goals described in paragraphs six, seven, eight, and nine of this subdivision, other than for goals established pursuant to such paragraph seven in connection with transactions subject to a project labor agreement, will be established for individual transactions, including: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7027" number="7002" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(A)<TAB tab-count="1"/>the scope of the transaction; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7026" number="7003" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(B)<TAB tab-count="1"/>the availability of qualified economically disadvantaged candidates and economically disadvantaged region candidates and apprentices; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7025" number="7004" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(C)<TAB tab-count="1"/>the nature of any employment opportunities that the director expects will result from the transaction; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7024" number="7005" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(D)<TAB tab-count="1"/>any other similar factors. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7023" number="7006" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>prior to setting a goal pursuant to this subdivision for an individual transaction, the agency entering into the transaction shall consider the goals set for previous, similar transactions and whether such goals were appropriate for such transactions. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7022" number="7007" version="823">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Lists of economically disadvantaged regions.</CHARFORMAT> No later than ninety days after the effective date of this section, and at least once during each twelve-month period thereafter, the director shall publish a report including an updated list of all economically disadvantaged regions within a radius of one hundred miles of the city or all such economically disadvantaged regions within the metropolitan area. Nothing shall preclude an individual whose residence is within an economically disadvantaged region that is not included in such list from qualifying as an economically disadvantaged region candidate for the purposes of goals set forth under this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7021" number="7008" version="823">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting.</CHARFORMAT> No later than one hundred eighty days after the effective date of this section and each quarter thereafter, the office of community hiring and workforce development shall publish a report on a website maintained or controlled by the city, pursuant to rules adopted by the director, that shall include, for each transaction subject to a goal established pursuant to paragraph six, seven, or eight of subdivision a of this section, information demonstrating the corresponding contractor&apos;s progress towards meeting such goal and, if applicable, any subcontractor&apos;s progress towards meeting any goal established pursuant to paragraph seven or nine of subdivision a of this section, and aggregate information regarding the overall progress towards meeting such goals as well as the demographics and compensation of economically disadvantaged region candidates, economically disadvantaged candidates, and apprentices who are economically disadvantaged region candidates, as applicable, relative to all individuals employed by such contractor and, if applicable, subcontractors on such transaction. Such report shall also include aggregate information regarding the total number of economically disadvantaged candidates and economically disadvantaged region candidates hired, including the number of such candidates hired by contract type and the resulting financial benefits of the program. In compiling this report, the director shall, to the extent he or she deems feasible, use data sources established or maintained by the city for other programs or operations in order to minimize administrative burdens on contractors and subcontractors, provided that where the director determines that such data sources cannot be used to complete such report, the director may adopt rules requiring contractors and subcontractors to provide such additional data necessary to complete this report, and to certify the accuracy of such additional information. Nothing in this subdivision shall be interpreted to authorize the director to promulgate rules requiring labor organizations to provide information on a regular basis to complete such reports. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7020" number="7009" version="823">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Best efforts.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7019" number="7010" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>In determining whether a contractor or subcontractor has exercised best efforts to meet the employment goals established pursuant to subdivision a of this section, the director shall consider the degree to which the contractor or subcontractor has endeavored: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7018" number="7011" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>to review economically disadvantaged region candidates&apos; and economically disadvantaged candidates&apos; qualifications, as applicable, in good faith; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7017" number="7012" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>to advertise employment opportunities, as applicable, in a manner reasonably intended to attract qualified economically disadvantaged candidates or economically disadvantaged region candidates, except that contractors and subcontractors performing construction work pursuant to a project labor agreement shall not be required to advertise employment opportunities for construction work; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7016" number="7013" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>to coordinate with referral sources or apprenticeship programs, as applicable, in order to employ such candidates identified by such referral sources or apprenticeship programs, provided that for contractors and subcontractors performing construction work pursuant to a project labor agreement, the director shall only consider the degree to which the contractor or subcontractor has endeavored to meet such goals by complying with the referral provisions of such project labor agreement; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7015" number="7014" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>to review and organize the work under the transaction in order to eliminate obstacles to meeting such employment goals; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7014" number="7015" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(v)<TAB tab-count="1"/>to monitor and to document the contractor&apos;s or subcontractor&apos;s efforts to meet the employment goals; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7013" number="7016" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(vi)<TAB tab-count="1"/>to contact the office of community hiring and workforce development at routine intervals, or as otherwise required by rule, to inform the director of the contractor&apos;s or subcontractor&apos;s efforts to meet the employment goals; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7012" number="7017" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(vii)<TAB tab-count="1"/>to take all other commercially reasonable actions to meet the employment goals. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7011" number="7018" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>In order to exercise best efforts, neither contractors nor subcontractors are required: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7010" number="7019" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>to undertake an undue financial burden; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7009" number="7020" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>to terminate or reduce the work levels of any of a contractor&apos;s or subcontractor&apos;s existing employees; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7008" number="7021" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>to extend an offer of employment to an individual whose labor would not be commercially useful; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7007" number="7022" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>to forgo filling building service opportunities with absorption hires; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7006" number="7023" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(v)<TAB tab-count="1"/>to forgo requesting, employing, or hiring any individuals or assigning individuals to perform construction work in accordance with the terms of: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7005" number="7024" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(A)<TAB tab-count="1"/>an agreement with a union referral system to which a contractor or subcontractor is a signatory; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7004" number="7025" version="823">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(B)<TAB tab-count="1"/>an agreement with a referral source for the sourcing of labor to which a contractor or subcontractor is a signatory, provided that such contractor or subcontractor demonstrates to the satisfaction of the director that such agreement was entered into in furtherance of a bona fide interest in sourcing labor. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7003" number="7026" version="823">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Discretionary application of goals.</CHARFORMAT> Notwithstanding any other provision of this section, employment goals authorized under paragraphs six, seven, eight and nine of subdivision a of this section may, but are not required to be, established for transactions that are emergency procurement contracts procured pursuant to the procedure set forth in section three hundred fifteen of this charter. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7002" number="7027" version="823">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Adjustment of construction goals for project labor agreements.</CHARFORMAT> Where the city has entered or enters into a project labor agreement and such project labor agreement includes numerical goals regarding the sourcing of economically disadvantaged region candidates and apprentices, such numerical goals set forth in such project labor agreement shall apply to transactions subject to such project labor agreement. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7001" number="7028" version="823">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Wage payment assurances.</CHARFORMAT> The director may promulgate rules setting forth standards and a procedure by which contractors and subcontractors that the director has determined have a record of failing to pay wages, including but not limited to prevailing wages and benefits required pursuant to article eight of the labor law, to individuals performing construction work under a transaction shall be required to provide additional assurances acceptable to the director in order to receive credit towards the achievement of employment goals set forth in paragraph seven of subdivision a of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6997" number="7029" version="823">
+					<PARA>(2023 N.Y. Laws Ch. 669, 11/17/2023, eff. 5/15/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-091]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6999" number="7030" version="823">
+					<PARA>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

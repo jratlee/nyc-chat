@@ -1,0 +1,734 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-7272" number="6039" version="862">
+			<HEADING>Chapter 67: Department of Cultural Affairs</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1369" name="Chapter 67"/>Chapter 67: Department of Cultural Affairs</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3974" number="6040" version="3">
+				<HEADING>Section 2501. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1371" name="2501"/>Section 2501. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3975" number="6041" version="618">
+					<PARA>There shall be a department of cultural affairs, the head of which shall be the commissioner of cultural affairs. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3976" number="6042" version="3">
+				<HEADING>Section 2502. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1373" name="2502"/>Section 2502. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3977" number="6043" version="618">
+					<PARA>The commissioner may appoint a deputy. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3978" number="6044" version="3">
+				<HEADING>Section 2503. Powers and duties of commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1375" name="2503"/>Section 2503. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties of commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3979" number="6045" version="618">
+					<PARA>Except as otherwise provided by law, the commissioner shall have the power and duty:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3980" number="6046" version="618">
+					<PARA>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>to plan, acquire, design, construct, improve and manage facilities for the conduct of cultural activities by the city and, to the extent possible, to use the resources of other agencies to perform design and planning functions subject to the approval of such agencies; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3981" number="6047" version="618">
+					<PARA>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>to plan, develop, conduct and supervise such cultural activities; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3982" number="6048" version="618">
+					<PARA>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>to foster coordination among city, state and federal agencies, other organizations and institutions with respect to cultural activities in the city. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3983" number="6049" version="3">
+				<HEADING>Section 2504. Budget estimates of cultural institutions. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1377" name="2504"/>Section 2504. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Budget estimates of cultural institutions. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3984" number="6050" version="618">
+					<PARA>The capital and expense budget estimates, to the extent involving expenditures to be paid from the city treasury, of all institutions or other organizations engaging in cultural activities in the city, shall be submitted to the commissioner, who shall submit such expense budget estimates to the director of management and budget and such capital budget estimates to the mayor, the borough presidents, the council, and the city planning commission in accordance with law, together with the commissioner&apos;s recommendations. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3985" number="6051" version="3">
+				<HEADING>Section 2505. Cultural affairs advisory commission. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1379" name="2505"/>Section 2505. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cultural affairs advisory commission. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3986" number="6052" version="3">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>There shall be in the department a cultural affairs advisory commission consisting of not fewer than fifteen nor more than twenty-one members, exclusive of a deputy mayor, the commissioner of cultural affairs, and the commissioner of parks and recreation, who shall serve as ex-officio members. The members of the advisory commission shall serve without compensation.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3987" number="6053" version="3">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>a.<TAB tab-count="1"/>Members other than ex-officio members shall be appointed by the mayor for a term of three years and provided that of those members first taking office one-third shall serve for one year, one-third shall serve for two years and the remainder shall serve for three years. Notwithstanding the date of appointment, the terms of members first taking office shall be deemed to commence on the effective date of this chapter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3988" number="6054" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The mayor shall designate one of the members of the commission to be chairman and one to be vice-chairman. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3989" number="6055" version="3">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The commission shall advise the commissioner and the mayor with respect to cultural activities in the city and in furtherance of this function shall: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3990" number="6056" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>formulate and recommend goals with regard to cultural activities and policy; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3991" number="6057" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>foster coordination among city, state and federal agencies and other organizations and institutions with respect to cultural activities; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3992" number="6058" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>compile data and reports and submit its findings to the commissioner and the mayor; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3993" number="6059" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>perform such other related functions and duties which may, from time to time, be deemed appropriate by the mayor. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3994" number="6060" version="48">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>All city agencies are directed to cooperate with the commission, consistent with the law, in order to coordinate and promote cultural activities in this city. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-3995" number="6061" version="3">
+				<HEADING>Section 2506. Cultural plan. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1381" name="2506"/>Section 2506. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cultural plan. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3996" number="6062" version="3">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>On or before July 1, 2017, the commissioner shall submit to the mayor and speaker of the council and post on the department&apos;s website a comprehensive cultural plan. The department shall be the primary agency responsible for developing, implementing, and overseeing the cultural plan.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3997" number="6063" version="88">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The cultural affairs advisory commission shall advise the department with respect to the cultural plan in accordance with section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2505" destination-id="0-0-0-1379">twenty-five hundred five</LINK> of this charter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3998" number="6064" version="3">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The department shall establish a citizens&apos; advisory committee to advise the department with respect to the development of the cultural plan, gathering community input for such plan, and how to implement such plan. The commissioner shall determine the size and composition of such committee consistent with the provisions set forth in paragraph a of this subdivision. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3999" number="6065" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The citizens&apos; advisory committee shall consist of a minimum of twelve members. Each borough president shall appoint one member, the speaker of the council shall appoint at least three members, and the mayor shall appoint at least three members, provided that the speaker and mayor shall have an equal number of appointments, exclusive of the chair of such committee who shall be appointed by the commissioner. Such committee shall consist of members whose backgrounds and experiences are relevant to the plan and who collectively represent a variety of interests relevant to the plan. The members appointed by the speaker of the council shall include at least one representative of a cultural institution that is a member of the Cultural Institutions Group and at least two members meeting the following description: a representative of a community-based organization whose principal purpose is the promotion or support of cultural activities; an individual with background and experience in business; an individual with background and experience in real estate; a representative of a charitable organization; an individual with background and experience in public housing; or a representative of a borough arts council. All committee members shall serve without compensation. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4000" number="6066" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Appointments to the citizens&apos; advisory committee shall occur not more than ninety days after the effective date of this section. Any vacancy in membership shall be filled in the same manner as the original appointment. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4001" number="6067" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Prior to the submission of the cultural plan, the citizens&apos; advisory committee shall meet as often as needed, as determined by the committee in consultation with the department, but not less than quarterly. Following the submission of the cultural plan, and subject to the provisions of paragraph d of this subdivision, the citizens&apos; advisory committee shall meet as needed, but not more than semiannually, to review the biannual reports required pursuant to subdivision nine of this section. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4002" number="6068" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The citizens&apos; advisory committee shall cease to exist following its submission to the commissioner of any recommendations it may make following its review of the second biannual report required pursuant to subdivision nine of this section, or five years following the submission of the cultural plan, whichever is shorter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4003" number="6069" version="3">
+					<PARA>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>The cultural plan shall address, but not be limited to: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4004" number="6070" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>the availability and distribution of cultural activities throughout the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4005" number="6071" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>the relationship between cultural activities and social and economic health and welfare in the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4006" number="6072" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>the role of the community outreach process in the development of the plan; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4007" number="6073" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>feedback from a robust community outreach process; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4008" number="6074" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>the needs of artists with respect to affordable housing and affordable long-term and temporary studio, office, and rehearsal space; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4009" number="6075" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>increasing arts education and cultural activities in the schools of the city school district; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4010" number="6076" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>how cultural activities can be incorporated into community development, economic development and land use planning processes and policies; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4011" number="6077" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>the needs of artists and communities with respect to the creation of public art in public settings; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4012" number="6078" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>a plan of how city agencies will coordinate with respect to cultural activities, as consistent with the law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4013" number="6079" version="3">
+					<PARA>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>The cultural plan may refer to data sets relevant to the plan. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4014" number="6080" version="3">
+					<PARA>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>The cultural plan shall, where feasible, utilize technology to enhance outreach and communication of the planning process. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4015" number="6081" version="3">
+					<PARA>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>All recommendations, initiatives, and priorities included in the cultural plan shall be designated, if known, as short-, medium-, or long-term. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4016" number="6082" version="3">
+					<PARA>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>The department and other relevant agencies shall consider the conclusions and recommendations in the cultural plan and may act upon such recommendations as appropriate. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4017" number="6083" version="3">
+					<PARA>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>Beginning two years following the submission of the cultural plan and every two years thereafter, the department shall submit to the mayor and the speaker a report detailing progress made on the recommendations, initiatives and priorities that result from such plan. The cultural affairs advisory commission and the citizens&apos; advisory committee, during such committee&apos;s existence, shall review such biannual report and may make recommendations to the commissioner. The commissioner shall consider any recommendations received from the cultural affairs advisory commission and the citizens&apos; advisory committee. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4018" number="6084" version="3">
+					<PARA>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>The cultural plan may be revised as appropriate every ten years.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4019" number="6085" version="423">
+					<PARA>(L.L. 2015/046, 5/18/2015, eff. 5/18/2015)</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5728" number="6086" version="422">
+				<HEADING>Section 2507. Data on cultural institutions group.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1383" name="2507"/>Section 2507. Data on cultural institutions group.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-4020" number="6087" version="3">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>For purposes of this section: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4021" number="6088" version="50">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cultural institutions group.</CHARFORMAT> The term &quot;cultural institutions group&quot; means the group of cultural institutions that operate on city-owned property and are recognized by the department as members of such group. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4022" number="6089" version="50">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Public school student.</CHARFORMAT> The term &quot;public school student&quot; means any pupil under the age of 21 who does not have a high school diploma and who is enrolled in a school of the city school district of the city of New York or a charter school that is located within the city of New York, not including pre-kindergarten students. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4023" number="6090" version="50">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Non-public school student.</CHARFORMAT> The term &quot;non-public school student&quot; means any pupil under the age of 21 who does not meet the definition of public school student in this paragraph, who does not have a high school diploma, and who is enrolled in a school serving students in the elementary, middle or high school grades, or any combination thereof, that is located within the city of New York, not including pre-kindergarten students. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4024" number="6091" version="3">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>No later than September 17, 2017, and annually no later than September 17 of each year, the department shall send to the council, or shall include in the mayor&apos;s management report prepared pursuant to section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="12" destination-id="0-0-0-65">12</LINK> of the charter, data in the aggregate regarding the cultural institutions group to the extent such data is made available to the department, including at a minimum: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4025" number="6092" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>total visitor attendance; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4026" number="6093" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>number of free or reduced-price visits; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4027" number="6094" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>total attendance by public school students through school-organized visits; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4028" number="6095" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>total attendance by non-public school students through school-organized visits; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4029" number="6096" version="48">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>number of partnerships with public schools; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4030" number="6097" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>total number of free admission hours; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4031" number="6098" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>number of programs, such as performances, exhibitions, and lectures, related to the cultural institution&apos;s mission or discipline and targeted to a general audience; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4032" number="6099" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>number of programs that are targeted to or designed to reach specific groups of people including, but not limited to, seniors or youth. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-4033" number="6100" version="412">
+					<PARA>(L.L. 2017/009, 2/15/2017, eff. 2/15/2017) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-010]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-4034" number="6101" version="521">
+				<HEADING>Section 2508. City canvas program.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1685" name="2508"/>Section 2508. City canvas program.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6016" number="6102" version="519">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The department shall implement a program to approve, subject to appropriations, from qualified not-for-profit organizations, including borough arts councils, the submission of works of art for display on temporary protective structures. Any such works of art approved pursuant to this section must be consistent with the Zoning Resolution and comply with the rules of the department. The department, in consultation with the department of buildings, shall, to the extent received, biennially approve at least 40 such works of art for such display. The not-for-profit organization that proposed a work of art for display shall secure the prior consent of the owner of the protective structure to display such proposed work. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6015" number="6103" version="519">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall annually disseminate information about the program established by this chapter, including language soliciting submissions of works of art for display on temporary protective structures, to city agencies and entities, including the following, which may share such information with members of the public served by such agencies or entities: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6014" number="6104" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>the city university of New York; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6013" number="6105" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>the commission on human rights; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6012" number="6106" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>the department for the aging; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6011" number="6107" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>the department of consumer and worker protection; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6010" number="6108" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>the department of correction; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6009" number="6109" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>the department of education; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6008" number="6110" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>the department of health and mental hygiene; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6007" number="6111" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>the department of homeless services; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6006" number="6112" version="772">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>the department of veterans&apos; services; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6005" number="6113" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>the department of youth and community development; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6004" number="6114" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>11.<TAB tab-count="1"/>the New York city health and hospitals corporation; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6003" number="6115" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>12.<TAB tab-count="1"/>the New York public library; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6002" number="6116" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>13.<TAB tab-count="1"/>the Brooklyn public library; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6001" number="6117" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>14.<TAB tab-count="1"/>the Queens public library; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6000" number="6118" version="519">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>15.<TAB tab-count="1"/>residents of the New York city housing authority <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5999" number="6119" version="519">
+					<PARA>
+						<TAB tab-count="1"/>From among the works of art received in response to such solicitation, the department, in consultation with the department of buildings, shall biennially approve no less than 10 such works of art for such display purposes. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5998" number="6120" version="772">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>No later than September 1, 2025, and annually thereafter, the commissioner shall post information about works of art approved pursuant to subdivision a, subdivision b, and section 3307.11.2.1 of the New York city building code on the department&apos;s website. Such information shall include an artist credit for each work of art, and may also include information about any entity that has agreed to defray the costs of developing and posting such artwork, including a developer, builder or an outside organization. Such website shall also include information about artists available to participate in the program, as well as information for property owners seeking to commission artwork pursuant to section 3307.11.2.1 of the New York city building code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5996" number="6121" version="519">
+					<PARA>(L.L. 2021/163, 12/24/2021, eff. 9/1/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-068]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5995" number="6122" version="791">
+				<HEADING>Section 2509. Open culture program.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1781" name="2509"/>Section 2509. Open culture program.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6923" number="6123" version="791">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6922" number="6124" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Artistic or cultural event.</CHARFORMAT> The term “artistic or cultural event” means an event or programming sponsored by an eligible institution, including, but not limited to, cultural performances, rehearsals, and classes, that is open to the public and offers services or information to the community. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6921" number="6125" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">City artist corps.</CHARFORMAT> The term “city artist corps” means the initiative established by the department in May 2021 to provide funding to the arts community during the COVID-19 pandemic. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6920" number="6126" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cultural institutions group.</CHARFORMAT> The term “cultural institutions group” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2507" destination-id="0-0-0-1383">2507</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6919" number="6127" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Eligible institution.</CHARFORMAT> The term “eligible institution” means a person or entity that: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6918" number="6128" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(i)<TAB tab-count="1"/>is an art or cultural group, organization, or institution within the city that is a member of the cultural institutions group or that is eligible to apply for a grant through the cultural development fund administered by the department; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6917" number="6129" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>provides documentation of funding from a borough arts council or the city artist corps, or that would have been eligible to apply for funding from such sources within the 2 years prior to the date on which such person or entity submits an application to the office for participation in the program; or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6916" number="6130" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>has fiscal sponsorship from a person or entity that meets the definition set forth in (i) or (ii) of this definition. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6915" number="6131" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Office.</CHARFORMAT> The term “office” means the mayor’s office of citywide event coordination and management established pursuant to executive order number 105, dated September 17, 2007, or another agency designated by the mayor to perform the functions set forth in this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6914" number="6132" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program.</CHARFORMAT> The term “program” means the open culture program established pursuant to subdivision b of this section. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6913" number="6133" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Roadway.</CHARFORMAT> The term “roadway” means that portion of a street designed, improved or ordinarily used for vehicular travel, exclusive of the shoulder and slope. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6912" number="6134" version="791">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Open culture program.</CHARFORMAT> By August 1, 2023, the office, in consultation with the department of transportation, the department of cultural affairs, and any other agency designated by the mayor, shall establish an open culture program for the purpose of authorizing an eligible institution to conduct an artistic or cultural event in a roadway. The office shall establish eligibility and use guidelines and policies for such program in consultation with such agencies, and promulgate any necessary rules. Such program shall include the following elements: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6911" number="6135" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>There shall be no fee for participation by an eligible institution in such program, except as provided for in subdivision c of this section; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6910" number="6136" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>An eligible institution utilizing a roadway for an artistic or cultural event pursuant to such program shall conduct such event at no charge to an audience. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6909" number="6137" version="791">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Allowable fees.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6924" number="6138" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>An application fee of $25 may be imposed for the processing of each application to participate in the program. An applicant who requires a permit to use or operate a sound device or apparatus shall pay any applicable fee in accordance with subdivision h of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="10-108" destination-id="0-0-0-0">10-108</LINK> of the administrative code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6908" number="6139" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Nothing in this section shall preclude the imposition of any civil penalty or fine authorized for violation of any applicable rule or law. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6907" number="6140" version="791">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Reporting.</CHARFORMAT> By November 1, 2023, and annually thereafter, the office shall submit to the mayor and the speaker of the council and post on the office’s website a report on the activities of the program in the prior fiscal year. Such annual report shall include, but not be limited to: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6906" number="6141" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The number of artistic or cultural events hosted through the program in the prior fiscal year, disaggregated by borough and council district; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6905" number="6142" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>An overview of any outreach conducted by the office or other agencies related to the program; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6904" number="6143" version="791">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The total number of eligible institutions that applied to the program, disaggregated by the number of such applicants whose request to use a roadway was granted or not granted. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6902" number="6144" version="791">
+					<PARA>(L.L. 2023/080, 6/25/2023, eff. 6/25/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6901" number="6145" version="837">
+				<HEADING>Section 2510. Funding for arts and cultural organizations and institutions.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1805" name="2510"/>Section 2510. Funding for arts and cultural organizations and institutions.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7219" number="6146" version="837">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For purposes of this section, the following terms have the following meanings: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7218" number="6147" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Capacity-building funding.</CHARFORMAT> The term “capacity-building funding” means funding to help small, community-based organizations serving low-to-moderate income populations provide arts or cultural programming to members of the public. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7217" number="6148" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Capital funding.</CHARFORMAT> The term “capital funding” means funding to support design and construction projects or to purchase or lease major equipment or machinery, such as vehicles or computers. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7216" number="6149" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Commissioner.</CHARFORMAT> The term “commissioner” means the commissioner of cultural affairs. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7215" number="6150" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cultural institution funding.</CHARFORMAT> The term “cultural institution funding” means funding provided to a cultural institution in the cultural institutions group. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7214" number="6151" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Cultural institutions group.</CHARFORMAT> The term “cultural institutions group” has the same meaning as set forth in section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="2507" destination-id="0-0-0-1383">2507</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7213" number="6152" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department.</CHARFORMAT> The term “department” means the department of cultural affairs. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7212" number="6153" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Program funding.</CHARFORMAT> The term “program funding” means grant funding for a nonprofit organization to provide arts or cultural programming to members of the public. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7211" number="6154" version="837">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>No later than September 30, 2024, and no later than September 30 of each year thereafter, the commissioner shall submit to the mayor and the speaker of the council, and post on the department’s website, a report on funding provided by the department to arts and cultural organizations and institutions during the prior fiscal year. Such report shall include, but need not be limited to, the following information: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7210" number="6155" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The name of each organization or institution that received funds from the department during the prior fiscal year, and for each such organization or institution: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7209" number="6156" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>The zip code, borough, community board, and council district in which such organization or institution’s offices are located; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7208" number="6157" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>The amount of funds the department provided to such organization or institution during such fiscal year, and for each such amount, the type of funds provided, including but not limited to program funding, cultural institution funding, capital funding, and capacity-building funding; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7207" number="6158" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>If provided to the department, the percentage of individuals served by such organization or institution that identify as (i) Black, indigenous, or people of color, including individuals who identify as Native American, Native Hawaiian, Alaskan Native, Desi, Asian, Pacific Islander, Chicanx, or Latinx, (ii) immigrants, (iii) people with disabilities, (iv) seniors, or (v) lesbian, gay, bisexual, transgender, queer, intersex, or asexual; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7206" number="6159" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(d)<TAB tab-count="1"/>The name of the leader of such organization or institution and the demographic information of such leader, if such information is disclosed to the department for purposes of the report required by this subdivision; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7205" number="6160" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The total amount of funds used for staff and operating costs of the department during the prior fiscal year; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7204" number="6161" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>A summary description of any trends or significant changes to funding provided by the department to arts and cultural organizations and institutions; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7203" number="6162" version="837">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>A description of any challenges to obtaining data needed to produce the report required by this subdivision. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7201" number="6163" version="837">
+					<PARA>(L.L. 2024/015, 1/6/2024, eff. 1/6/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-093]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

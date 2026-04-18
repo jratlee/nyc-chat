@@ -1,3 +1,8 @@
+import os
+import re
+import xml.etree.ElementTree as ET
+from neo4j import GraphDatabase
+import ollama
 from dotenv import load_dotenv
 
 # Load environment variables
@@ -107,21 +112,24 @@ class LegalGraphExtractor:
         
         # Process NYC1 (Charter)
         print("Processing Charter...")
-        for f in os.listdir("/home/lab/NYC1/XML")[:20]: # Sample 20 for speed in demo
+        charter_path = os.path.join(os.path.dirname(__file__), "data/xml/NYC1/XML")
+        for f in os.listdir(charter_path)[:20]: # Sample 20 for speed in demo
             if f.endswith('.xml'):
-                self.extract_hierarchy(os.path.join("/home/lab/NYC1/XML", f), "CHARTER")
+                self.extract_hierarchy(os.path.join(charter_path, f), "CHARTER")
         
         # Process NYC2 (Admin Code)
         print("Processing Admin Code...")
-        for f in os.listdir("/home/lab/NYC2/XML")[:20]:
+        admin_code_path = os.path.join(os.path.dirname(__file__), "data/xml/NYC2/XML")
+        for f in os.listdir(admin_code_path)[:20]:
             if f.endswith('.xml'):
-                self.extract_hierarchy(os.path.join("/home/lab/NYC2/XML", f), "ADMIN_CODE")
+                self.extract_hierarchy(os.path.join(admin_code_path, f), "ADMIN_CODE")
                 
         # Process NYC3 (Rules)
         print("Processing Rules...")
-        for f in os.listdir("/home/lab/NYC3/XML")[:20]:
+        rules_path = os.path.join(os.path.dirname(__file__), "data/xml/NYC3/XML")
+        for f in os.listdir(rules_path)[:20]:
             if f.endswith('.xml'):
-               self.extract_hierarchy(os.path.join("/home/lab/NYC3/XML", f), "RULES")
+               self.extract_hierarchy(os.path.join(rules_path, f), "RULES")
 
         # Explicitly link Hierarchy: Charter -> Admin Code -> Rules
         # (This usually requires domain knowledge or explicit mapping, but for now we tag them)

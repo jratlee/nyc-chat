@@ -1,0 +1,335 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-532" number="1328" version="3">
+			<HEADING>Chapter 5: Comptroller.</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-181" name="Chapter 5"/>Chapter 5: Comptroller.</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-533" number="1329" version="3">
+				<HEADING>Section 91. Election; term; salary. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-183" name="91"/>Section 91. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Election; term; salary. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-534" number="1330" version="616">
+					<PARA>The comptroller shall be elected by the electors of the city at the same time and for the same terms as in this charter prescribed for the mayor. A comptroller who resigns or is removed from office prior to completion of a full term shall be deemed to have served a full term for purposes of section 1138 of the charter. The salary of the comptroller shall be two hundred nine thousand fifty dollars a year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-535" number="1331" version="3">
+					<PARA>(Am. L.L. 2016/019, 2/19/2016, retro. eff. 1/1/2016) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-001]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-536" number="1332" version="689">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2002/027" destination-id="0-0-0-0">L.L. 2002/027</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2006/051" destination-id="0-0-0-0">L.L. 2006/051</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6566" number="1333" version="672">
+				<HEADING>Section 92. Removal from office. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-185" name="92"/>Section 92. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Removal from office. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-537" number="1334" version="616">
+					<PARA>The comptroller may be removed or suspended in the same manner as provided in this charter with respect to the mayor. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-538" number="1335" version="3">
+				<HEADING>Section 93. Powers and duties. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-187" name="93"/>Section 93. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-7325" number="1336" version="877">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The comptroller from time to time in his or her discretion may, and whenever required by law or requested by the mayor or the council, shall advise the mayor and the council on the financial condition of the city or any phase thereof and make such recommendations, comments and criticisms in regard to the operations, fiscal policies and financial transactions of the city as he or she may deem advisable in the public interest.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-540" number="1337" version="451">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The comptroller shall have power to audit and investigate all matters relating to or affecting the finances of the city, including without limitation the performance of contracts and the receipt and expenditure of city funds, and for such purpose shall have power to require the attendance and examine and take the testimony under oath of such persons as the comptroller may deem necessary. The comptroller shall conduct all audits of entities under contract with the city as expeditiously as possible and in no case shall initiate an audit later than two years after the expiration of a contract term unless the comptroller determines in writing that: (1) such audit is initiated in connection with litigation brought by or against the city, (2) it was not practicable to initiate an audit within such two year period, or (3) the initiation of the audit after the two year period is appropriate in light of information discovered in an audit of another contract of the same contractor. Such written determination shall be filed with the mayor, council and public advocate. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-058]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-541" number="1338" version="877">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The comptroller shall have power to audit all agencies, as defined in subdivision two of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1150" destination-id="0-0-0-1179">eleven hundred fifty</LINK>, and all agencies, the majority of whose members are appointed by city officials. The comptroller shall be entitled to obtain access to agency records required by law to be kept confidential, other than records which are protected by the privileges for attorney-client communications, attorney work products, or material prepared for litigation, upon a representation by the comptroller that necessary and appropriate steps will be taken to protect the confidentiality of such records. The comptroller shall establish a regular auditing cycle to ensure that one or more of the programs or activities of each city agency, or one or more aspects of each agency&apos;s operations, is audited at least once every four years, except that for purposes of such regular auditing cycle, the comptroller may treat all community boards as a single combined agency, and all public administrators’ offices as a single combined agency, so that one or more of the programs or activities, or aspects of operations in each such combined agency is audited at least once every four years. The audits conducted by the comptroller shall comply with generally accepted government auditing standards. In accordance with such standards, and before any draft or final audit or audit report, or portion thereof, may be made public, the comptroller shall send a copy of the draft audit or audit report to the head of the audited agency and provide the agency, in writing, with a reasonable deadline for its review and response. Where the comptroller treats multiple community boards or public administrators as a single combined agency as authorized by this subdivision, the comptroller shall send a copy of the draft audit or audit report to each community board or public administrator that is the subject of the audit and provide each such board or public administrator, in writing, with a reasonable deadline for its review and response. The comptroller shall include copies of any agency response in any draft or final audit or audit report, or portion thereof, which is made public. The comptroller shall send copies of all final audits and audit reports to the council, the mayor, and the audit committee. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-101]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-542" number="1339" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The comptroller shall (1) audit financial transactions of the city, including vouchers, warrants, and payrolls; (2) audit all official accounts and the accrual and collection annually of all revenues and receipts; and (3) audit the expenditure of city funds by any public or private agency that receives such funds from the city. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-543" number="1340" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The comptroller shall audit the operations and programs of city agencies to determine whether funds are being expended or utilized efficiently and economically and whether the desired goals, results or benefits of agency programs are being achieved. The comptroller shall investigate the processing of vouchers and the payment of bills by city agencies and shall audit agency compliance with applicable procedures in procuring goods, services and construction. The comptroller shall also undertake studies, including cost benefit analyses, of: (i) purchases of goods, services, and construction by agencies of government that use city funds for such purposes and (ii) the adoption and use of new technology by city agencies to promote their economy and efficiency, and periodically report the findings and recommendations of such studies to the mayor, the council and the public. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-544" number="1341" version="3">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>Not later than the first day of March of each year, the comptroller shall deliver to the mayor and council a report describing all major audits of city agencies conducted by the comptroller during the previous fiscal year; the corrective actions recommended in such audits; the corrective actions which have been implemented to the extent such information is known to the comptroller on the basis of agency reports, comptroller audits, or otherwise; and the comptroller&apos;s recommendations, if any, for additional corrective actions. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-545" number="1342" version="3">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The comptroller shall have the power and duty to audit all vouchers before payment for availability of funds and prepare warrants. No warrant shall be prepared by the comptroller unless sufficient appropriations are available to cover the payments involved. No agency shall expend or commit any funds otherwise than for the program and purposes for which the funds have been appropriated and the comptroller shall conduct audits and take such other action as is required to assure compliance with this provision.&#160;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-546" number="1343" version="3">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>Except as provided in subdivision g, the agencies shall prepare and audit vouchers before payment, prepare and audit payrolls, receive and inspect goods and forward vouchers to the comptroller for payment. The comptroller shall prescribe methods, with which all agencies shall comply, for preparing and auditing vouchers before payment, preparing payrolls, and recording, reporting and accounting in the several agencies and shall conduct reviews to assure compliance. The comptroller may suspend or withdraw the authority delegated to an agency pursuant to this subdivision (1) upon a finding of abuse of such authority or on a determination that the agency lacks adequate internal controls to exercise such authority properly and (2) upon the approval of the audit committee after the agency has had an opportunity to be heard on this matter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-547" number="1344" version="3">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>The comptroller shall have the power to settle and adjust all claims in favor of or against the city in such manner as shall be prescribed by law and for that purpose may administer oaths, except that, with regard to excise and non-property taxes, such power shall be vested in the commissioner of finance. The comptroller shall not revise the terms of a contract or agreement with the city after its execution. The city may include in construction contracts or agreements for capital projects provisions that authorize the comptroller to submit disputes arising under any such contract or agreement to impartial arbitration. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-548" number="1345" version="88">
+					<PARA>
+						<TAB tab-count="1"/>j.<TAB tab-count="1"/>The comptroller shall administer and manage the several sinking funds of the city and all other trust funds held by the city, and provide for the receipt and safekeeping of all moneys in such funds, except as provided in paragraph b of subdivision three of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1504" destination-id="0-0-0-1257">fifteen hundred four</LINK> of this charter, and in such administration the comptroller shall be deemed to be acting in a fiduciary capacity. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-549" number="1346" version="3">
+					<PARA>
+						<TAB tab-count="1"/>k.<TAB tab-count="1"/>The comptroller shall keep the accounts of the city and shall at least once in each month render to each agency a summary statement of so much thereof as relates to such agency. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-550" number="1347" version="3">
+					<PARA>
+						<TAB tab-count="1"/>l.<TAB tab-count="1"/>Within four months after the close of each fiscal year, the comptroller shall publish a statement for such year, including a full and detailed statement of the revenues and expenditures of the city and the surplus at the end of the fiscal year, including the average daily collected deposits in bank accounts of the city, the investment performance of city pension and other investment funds, an itemized statement of all taxes due and uncollected at the close of the fiscal year, the reserve for estimated uncollectible taxes, and the uncollected parking violation fines receivable, an itemized statement of the condition of the sinking funds, and any other assessable improvement funds, and of the tax appropriation and general fund stabilization reserve fund as at the close of the fiscal year, the different sources of city revenue, including itemization of receivables due from state or federal sources by program and fiscal year, and the amount received from each, the several appropriations made for the fiscal year, the objects for which they were made and the amount of expenditures made under each, the money borrowed on the credit of the city, the amount of each loan, the authority under which it was made and the terms on which it was obtained, and such other information in regard to such fiscal year as may be determined by the comptroller or by law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-551" number="1348" version="3">
+					<PARA>
+						<TAB tab-count="1"/>m.<TAB tab-count="1"/>The comptroller shall establish for his or her office and for all city agencies a uniform system of accounting and reporting based on generally accepted accounting principles. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-552" number="1349" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Such uniform system of accounts shall provide: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-553" number="1350" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>control accounts in the office of the comptroller that are consistent with budgeted units of appropriation and that are adequate to record and control spending by the agencies and to prevent agencies from exceeding appropriations; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-554" number="1351" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>detailed accounts in the agencies for the purposes of cost accounting, rate of expenditure information and other management information data; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-555" number="1352" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>geographic accounts for the reporting of expenditures for local service districts of agencies within community districts and boroughs. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-556" number="1353" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The comptroller shall prescribe procedures for accounting and reporting for all agencies, and review agency accounts and systems to assure compliance with this chapter and with the methods, standards and procedures prescribed by the comptroller for the agencies. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-557" number="1354" version="3">
+					<PARA>
+						<TAB tab-count="1"/>n.<TAB tab-count="1"/>The comptroller shall prescribe systems of accounting for city agencies whose revenues arising out of the use of the facilities and services supplied by such agencies constitute fifty per centum or more of the appropriations provided for the operation of such agencies, which systems of accounting shall conform so far as practicable to standard public utility accounting practices. The comptroller shall publish in the comptroller&apos;s annual report the financial statements for such city agencies. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-558" number="1355" version="3">
+					<PARA>
+						<TAB tab-count="1"/>o.<TAB tab-count="1"/>Notwithstanding the provisions of any general, special or local law or this charter or any contract heretofore or hereafter made or awarded by the city of New York or by any agency, department or authority acting on its behalf, the comptroller may, at his or her discretion, turn over the physical custody and safekeeping of bonds, notes, obligations or other evidences of indebtedness which have been or will be deposited with the comptroller as collateral security as required by law or contract to a custodian who may be (a) any bank or trust company incorporated in the state, or (b) any national bank located in the state, or (c) any private banker duly authorized by the superintendent of banks of this state to engage in business here. The comptroller may enter into a contract with such custodian under terms and conditions which the comptroller may require. Each depositor of collateral security shall bear a proportionate share of the cost of such custodial safekeeping which shall be paid to the city of New York.&#160;</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-559" number="1356" version="80">
+					<PARA>
+						<TAB tab-count="1"/>p.<TAB tab-count="1"/>No contract or agreement executed pursuant to this charter or other law shall be implemented until (1) a copy has been filed with the comptroller and (2) the comptroller has registered it in accordance with sections <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="328" destination-id="0-0-0-503">three hundred twenty-eight</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="375" destination-id="0-0-0-541">three hundred seventy-five</LINK> of the charter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-560" number="1357" version="3">
+					<PARA>
+						<TAB tab-count="1"/>q.<TAB tab-count="1"/>The council shall periodically review the requirements contained in the charter for studies and reports by the comptroller and may by local law revise such requirements as it deems appropriate. At such times as the mayor or the council shall request, the comptroller shall submit to them such information as they may request. The comptroller, upon request, shall assist the council in the conduct of any of its investigations or studies of the fiscal or economic affairs of the city or of any agency. The comptroller shall provide reports to the council upon request and shall testify before the council or a committee thereof. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-561" number="1358" version="877">
+					<PARA>
+						<TAB tab-count="1"/>r.<TAB tab-count="1"/>The comptroller shall make a complete transcript of each public hearing conducted by the office available for public inspection free of charge within sixty days after such hearing. The comptroller shall also provide a copy of any requested pages of such transcript at a reasonable fee to cover copying and, if relevant, mailing costs.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-7327" number="1359" version="877">
+					<PARA>(Am. L.L. 2024/080, 7/20/2024, eff. 9/3/2024) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-101]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-562" number="1360" version="3">
+				<HEADING>Section 94. Deputy comptrollers and other appointees. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-189" name="94"/>Section 94. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputy comptrollers and other appointees. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-563" number="1361" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The comptroller shall appoint and at pleasure remove a first, and second deputy comptroller. The comptroller may appoint and at pleasure remove a third deputy comptroller who shall be a person qualified to advise and assist the comptroller in all matters relating to borrowings and the investment of funds. Except as provided in subdivision b of this section, each of the deputies and any officer or employee appointed by the comptroller shall have such powers and duties as may be assigned such person by the comptroller by instrument in writing filed with the city clerk. Provided however that no more than five such additionally appointed officers or employees shall serve simultaneously. The city clerk shall notify the council of the filing or revocation of each such appointment.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-564" number="1362" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Any deputy comptroller or any officer or employee appointed by the comptroller may act in place of the comptroller on any board, body or committee of which the comptroller is a member whenever the comptroller shall so authorize in writing and such authorization is filed with such board, body or committee and with the city clerk. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-565" number="1363" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Any vacancy in the office of comptroller shall be filled by popular election, in the manner set forth in this subdivision. In the event of a vacancy in the office of comptroller until an interim or permanent successor is first elected, or whenever by reason of sickness, absence from the city or suspension from office, the comptroller shall be prevented from attending to the duties of the office, or while the comptroller is acting as mayor, the first deputy comptroller or in the case of his illness or absence the second deputy comptroller or in the case of his or her illness or absence the third deputy comptroller shall act as comptroller. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-566" number="1364" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Within three days of the occurrence of a vacancy in the office of the comptroller, the mayor shall proclaim the date for the election or elections required by this subdivision, provide notice of such proclamation to the city clerk and the board of elections and publish notice thereof in the City Record. After the proclamation of the date for an election to be held pursuant to paragraphs four or five of this subdivision, the city clerk shall publish notice thereof not less than twice in each week preceding the date of such election in newspapers distributed within the city, and the board of elections shall mail notice of such election to all registered voters within the city. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-567" number="1365" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>If a vacancy occurs during the first three years of the term, a general election to fill the vacancy for the remainder of the unexpired term shall be held in the year in which the vacancy occurs, unless the vacancy occurs after the last day on which an occurring vacancy may be filled at the general election in that same year with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law. If such a vacancy occurs in any year after such last day, it shall be filled for the remainder of the unexpired term at the general election in the following year provided, however, that no general election to fill a vacancy shall be held in the last year of the term, except as provided in paragraph nine of this subdivision. Party nominations of candidates for a general election to fill a vacancy for the remainder of the unexpired term shall be made at a primary election, except as provided in paragraph five of this subdivision. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-568" number="1366" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>If a special or general election to fill the vacancy on an interim basis has not been previously held pursuant to paragraphs four, six, seven and eight of this subdivision, the person elected to fill the vacancy for the remainder of the unexpired term at a general election shall take office immediately upon qualification and shall serve until the term expires. If a special or general election to fill the vacancy on an interim basis has been previously held, the person elected to fill the vacancy for the remainder of the unexpired term at a general election shall take office on January first of the year following such general election and shall serve until the term expires. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-569" number="1367" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>If a vacancy occurs during the first three years of the term and on or before the last day in the third year of the term on which an occurring vacancy may be filled for the remainder of the unexpired term at a general election with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law, a special or general election to fill the vacancy on an interim basis shall be held, unless the vacancy occurs less than ninety days before the next primary election at which party nominations for a general election to fill the vacancy may be made and on or before the last day on which an occurring vacancy may be filled for the remainder of the unexpired term at the general election in the same year in which the vacancy occurs with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-570" number="1368" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>If a vacancy occurs after the last day in the third year of the term on which an occurring vacancy may be filled for the remainder of the unexpired term at a general election in each year with party nominations of candidates for such election being made at a primary election, as provided in section 6-116 of the election law, but not less than ninety days before the date of the primary election in the fourth year of such term, a special or general election to fill such vacancy for the remainder of the unexpired term shall be held. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-574" number="1369" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>Elections held pursuant to paragraph four or five of this subdivision shall be scheduled in the following manner: A special election to fill the vacancy shall be held on the first Tuesday at least eighty days after the occurrence of the vacancy, provided that the mayor, in the proclamation required by paragraph one of this subdivision, may schedule such election for another day no more than ten days after such Tuesday and not less than seventy-five days after such proclamation if the mayor determines that such rescheduling is necessary to facilitate maximum voter participation; except that <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5435" number="1370" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(a)<TAB tab-count="1"/>if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is less than ninety days before a regularly scheduled general election, the vacancy shall be filled at such general election; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5434" number="1371" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(b)<TAB tab-count="1"/>if the vacancy occurs before August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after a regularly scheduled general election, the vacancy shall be filled at such general election; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5433" number="1372" version="327">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(c)<TAB tab-count="1"/>if the vacancy occurs on or after August seventeenth in any year and the first Tuesday at least eighty days after the occurrence of the vacancy is after, but less than thirty days after, a regularly scheduled general election, the vacancy shall be filled at a special election to be held on the first Tuesday in December in such year. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-575" number="1373" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>All nominations for elections to fill vacancies held pursuant to paragraphs four and five of this subdivision shall be by independent nominating petition. A signature on an independent nominating petition made earlier than the date of the proclamation required by paragraph one of this subdivision shall not be counted. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-576" number="1374" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>A person elected to fill a vacancy in the office of the comptroller at an election held pursuant to paragraph four of this subdivision shall take office immediately upon qualification and serve until December thirty-first of the year in which the vacancy is filled for the remainder of the unexpired term pursuant to paragraph two of this subdivision. A person elected to fill a vacancy in the office of the comptroller at an election held pursuant to paragraph five of this subdivision shall take office immediately upon qualification and serve until the term expires. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-577" number="1375" version="48">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>If a vacancy occurs less than ninety days before the date of the primary election in the last year of the term, the person elected at the general election in such year for the next succeeding term shall take office immediately upon qualification and fill the vacancy for the remainder of the unexpired term. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-578" number="1376" version="412">
+					<PARA>(Am. L.L. 2019/215, 12/11/2019, eff. 12/11/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-044]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-5432" number="1377" version="327">
+				<HEADING>Section 95. Annual audit. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-191" name="95"/>Section 95. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Annual audit. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-579" number="1378" version="79">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The city, in accordance with subdivision b of this section and section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="97" destination-id="0-0-0-195">ninety-seven</LINK> of this chapter, shall take such action as may be necessary to enable an independent certified public accounting firm or consortium of such firms to perform an annual audit in accordance with generally accepted auditing standards and to furnish to the city, in accordance with subdivision b of this section, the report on such audit prepared by such firm or consortium of firms, which report shall include an opinion as to whether the city&apos;s financial statements have been prepared in accordance with generally accepted accounting principles and shall state whether the audit of such financial statements was made in accordance with generally accepted auditing standards. The city shall make available for inspection and copying all books, records, work papers and other data and material as required by such auditors, and officers and employees of the city shall be made available to, and shall cooperate with, such auditors so as to permit such annual audit to be completed and the report issued within four months after the close of the city&apos;s fiscal year.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-580" number="1379" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The annual audit described in subdivision a of this section shall be made by a firm or firms of certified public accountants, as set forth in such subdivision, selected by the audit committee. Copies of the annual audit shall be submitted to the mayor, the comptroller, the council and the state comptroller and shall be published in the City Record. No audit engagement contract pursuant to this section shall exceed four years. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-581" number="1380" version="3">
+				<HEADING>Section 96. Actuarial audit. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-193" name="96"/>Section 96. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Actuarial audit. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-582" number="1381" version="616">
+					<PARA>The comptroller, with the approval of the audit committee, biennially shall select an independent actuary to review and comment upon the financial soundness and probity of the actuarial assumptions employed by the city to calculate contributions to the city pension funds. The report of the actuary shall be published in the City Record. No actuary may be selected more than twice consecutively. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-583" number="1382" version="456">
+				<HEADING>Section 97. Audit committee. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-195" name="97"/>Section 97. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Audit committee. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-584" number="1383" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>There shall be an audit committee which shall consist of the mayor, the comptroller, the public advocate and four private members appointed by the mayor, two of whom shall be appointed upon the recommendation of the comptroller. The members of the committee shall elect a private member as chair for an annual term commencing on the first day of March.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-585" number="1384" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The private members of the audit committee shall include (i) two persons with expertise in finance, and (ii) two persons with expertise in accounting. Two private members, one of whom shall have been recommended by the comptroller, shall serve for two-year terms commencing on the first day of March, nineteen hundred ninety; and two private members, one of whom shall have been recommended by the comptroller, shall serve for two-year terms commencing on the first day of March, nineteen hundred ninety-one. Private members shall continue in office until their successors have been appointed and qualified. Private members shall serve without salary but shall be reimbursed for expenses actually and necessarily incurred in the performance of official duties and shall also receive a per diem allowance when rendering services to the committee. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-586" number="1385" version="3">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The audit committee shall: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-587" number="1386" version="79">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>approve or disapprove the comptroller&apos;s suspension or withdrawal of authority delegated to an agency pursuant to subdivision h of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="93" destination-id="0-0-0-187">ninety-three</LINK>; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-588" number="1387" version="79">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>select a firm or firms of certified public accountants to perform the annual audit of the city&apos;s accounts required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="95" destination-id="0-0-0-191">ninety-five</LINK>; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-589" number="1388" version="79">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(3)<TAB tab-count="1"/>assist in the determination of areas of inquiry for, review the progress of, and evaluate the results of, the annual audit required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="95" destination-id="0-0-0-191">ninety-five</LINK>; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-590" number="1389" version="79">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(4)<TAB tab-count="1"/>approve the selection of the independent actuary to perform the actuarial audit required by section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="96" destination-id="0-0-0-193">ninety-six</LINK>; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-591" number="1390" version="80">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(5)<TAB tab-count="1"/>perform such other functions as are agreed to by all of the members.</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

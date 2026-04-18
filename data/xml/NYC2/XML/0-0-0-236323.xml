@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Admin" content-collection-id="NYCadmin" source-infobase-title="New York City Administrative Code" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\QYOUGRVBABWOEQAB\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\QYOUGRVBABWOEQAB\NYCadmin.mak" css-stylesheet-href="#!-- #ID=NYCadmin_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCadmin\output\QYOUGRVBABWOEQAB\XML\" css-stylesheet-name="NYCadmin_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-685" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-236323" number="1881" version="2307">
+			<HEADING>Chapter 6: Advisory Commission for the Review of Compensation Levels of Elected Officials</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1099" name="T03C006"/>Chapter 6: Advisory Commission for the Review of Compensation Levels of Elected Officials</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-1213" number="1882" version="1735">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1986/077" destination-id="0-0-0-27220">L.L. 1986/077</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-688" level-depth="3" toc-section="false">
+			<LEVEL style-name="Appendix" style-name-escaped="Appendix" style-id="0-0-0-691" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-694" level-depth="5" toc-section="false">
+					<LEVEL style-name="Article" style-name-escaped="Article" style-id="0-0-0-697" level-depth="6" toc-section="false">
+						<LEVEL style-name="Subarticle" style-name-escaped="Subarticle" style-id="0-0-0-700" level-depth="7" toc-section="false">
+							<LEVEL style-name="Subarticle - Part" style-name-escaped="Subarticle---Part" style-id="0-0-0-29474" level-depth="8" toc-section="false">
+								<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-703" level-depth="9" toc-section="true">
+									<RECORD id="0-0-0-222983" number="1883" version="1735">
+										<HEADING>§ 3-601 Quadrennial advisory commission for the review of compensation levels of elected officials. </HEADING>
+										<PARA>
+											<DESTINATION id="0-0-0-1101" name="3-601"/>§ 3-601 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Quadrennial advisory commission for the review of compensation levels of elected officials. </CHARFORMAT>
+										</PARA>
+									</RECORD>
+									<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+										<RECORD id="0-0-0-1214" number="1884" version="3">
+											<PARA>
+												<TAB tab-count="1"/>a.<TAB tab-count="1"/>Between the first and fifteenth day of January, 2020, and during the same period every fourth year thereafter, the mayor shall appoint three persons for the review of compensation levels of elected officials. The members of the commission shall be private citizens generally recognized for their knowledge and experience in management and compensation matters. The mayor shall appoint one of the members to be chairperson of the commission. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1215" number="1885" version="3">
+											<PARA>
+												<TAB tab-count="1"/>b.<TAB tab-count="1"/>The commission shall study the compensation levels for the mayor, the public advocate, the comptroller, the borough presidents, the council members and the district attorneys of the five counties within the city and shall recommend changes in those compensation levels, if warranted. In making its recommendations the commission shall take into consideration the duties and responsibilities of each position, the current salary of the position and the length of time since the last change, any change in the cost of living, compression of salary levels for other officers and employees of the city, and salaries and salary trends for positions with analogous duties and responsibilities both within government and in the private sector.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1216" number="1886" version="3">
+											<PARA>
+												<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commission shall submit a report to the mayor not later than one hundred twenty days following its appointment containing its recommendations for changes in compensation levels for any elected position set forth in subdivision b or its recommendation that no changes are warranted. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1217" number="1887" version="3">
+											<PARA>
+												<TAB tab-count="1"/>d.<TAB tab-count="1"/>The mayor shall submit the report of the commission along with his or her recommendation for approval, disapproval or modification to the council not later than thirty days after receipt of the report of the commission.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1218" number="1888" version="3">
+											<PARA>
+												<TAB tab-count="1"/>e.<TAB tab-count="1"/>The council in its discretion shall consider the recommendations of the commission and of the mayor for changes in the compensation levels of any such elected position, if any, and approve a local law changing the compensation of the mayor, the public advocate, the comptroller, the borough presidents, the council members, and the district attorneys of the five counties within the city.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1219" number="1889" version="3">
+											<PARA>
+												<TAB tab-count="1"/>f.<TAB tab-count="1"/>The members of the commission shall serve without compensation except that each member shall be allowed his or her actual and necessary expenses, to be audited in the same manner as other city charges.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1220" number="1890" version="3">
+											<PARA>
+												<TAB tab-count="1"/>g.<TAB tab-count="1"/>The commission may hire or contract for necessary staff and technical assistance and may require city agencies to provide such assistance.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1221" number="1891" version="3">
+											<PARA>
+												<TAB tab-count="1"/>h.<TAB tab-count="1"/>The commission shall have a budget as provided for by the mayor.</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1222" number="1892" version="3">
+											<PARA>
+												<TAB tab-count="1"/>i.<TAB tab-count="1"/>The commission may hold public hearings and may consult with compensation experts from the public and private sectors. </PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1223" number="1893" version="701">
+											<PARA>(Am. L.L. 2016/022, 2/19/2016, eff. 2/19/2016) <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-001]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+										<RECORD id="0-0-0-1224" number="1894" version="1735">
+											<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-18">
+												<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 1986/077" destination-id="0-0-0-27220">L.L. 1986/077</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-23" type="Jump" destination-name="L.L. 2016/022" destination-id="0-0-0-20523">L.L. 2016/022</LINK>. <HIGHLIGHTER style="ALP" style-name-escaped="ALP" name="ALP" id="0-0-0-25">[ALP S-085]</HIGHLIGHTER>
+											</PARA>
+										</RECORD>
+									</LEVEL>
+								</LEVEL>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

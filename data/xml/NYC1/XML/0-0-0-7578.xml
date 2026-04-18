@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-7578" number="4791" version="983">
+			<HEADING>Chapter 48: Department of Information Technology and Telecommunications</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-1085" name="Chapter 48"/>Chapter 48: Department of Information Technology and Telecommunications</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-3133" number="4792" version="744">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1990/071" destination-id="0-0-0-0">L.L. 1990/071</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1994/024" destination-id="0-0-0-0">L.L. 1994/024</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6801" number="4793" version="723">
+				<HEADING>Section 1070. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1087" name="1070"/>Section 1070. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3134" number="4794" version="617">
+					<PARA>There shall be a department of information technology and telecommunications the head of which shall be the commissioner of information technology and telecommunications and the chief information officer of the city. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6802" number="4795" version="744">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1990/071" destination-id="0-0-0-0">L.L. 1990/071</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1994/024" destination-id="0-0-0-0">L.L. 1994/024</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6843" number="4796" version="744">
+				<HEADING>Section 1071. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1089" name="1071"/>Section 1071. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3136" number="4797" version="617">
+					<PARA>The commissioner may appoint four deputies, one of whom may be designated the first deputy commissioner. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3137" number="4798" version="723">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1994/024" destination-id="0-0-0-0">L.L. 1994/024</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6803" number="4799" version="723">
+				<HEADING>Section 1072. Powers and duties of the department. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1091" name="1072"/>Section 1072. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties of the department. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6260" number="4800" version="617">
+					<PARA>Except as otherwise provided by law, the department shall have the following powers and duties:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3139" number="4801" version="617">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>to plan, formulate, coordinate and advance information technology and telecommunications policies for the city; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3140" number="4802" version="617">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>to develop, maintain and implement a long range telecommunications strategy; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3141" number="4803" version="617">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>to administer all franchises and revocable consents relating to telecommunications pursuant to the provisions of <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="Chapter 14" destination-id="0-0-0-523">chapter fourteen</LINK>, including, without limitation, proposing authorizing resolutions for telecommunications franchises, developing and issuing requests for proposals or other solicitations of proposals for telecommunications franchises, selecting telecommunications franchisees, reviewing and approving petitions for revocable consents relating to telecommunications, negotiating the terms of contracts or other agreements relating to telecommunications franchises and revocable consents, and enforcing the terms and conditions of such agreements; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3142" number="4804" version="617">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>to develop municipal uses of cable television and coordinate interagency uses of cable television and other telecommunications; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3143" number="4805" version="617">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>to ensure that priority is given on at least one municipal channel to the cable casting of the public proceedings of the council and its committees, the city planning commission and other state and city agencies; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3144" number="4806" version="617">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>to provide to city agencies such land-based and wireless voice, data, video or other communications facilities, and technical assistance or other assistance with respect to such facilities, as they may require for the effective discharge of their responsibilities; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3146" number="4807" version="617">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>to participate in developing, maintaining and implementing a long-range computer systems strategy, data communications strategy, spatial data interoperability strategy for the city of New York and plan for the use of geospatial information systems by city agencies; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-072]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6280" number="4808" version="617">
+					<PARA>
+						<TAB tab-count="1"/>h.<TAB tab-count="1"/>to assist in providing interagency coordination on matters related to data communications activities and interfacing of computers, including convening, under the direction of the chief geospatial information officer, annual interagency meetings of agency personnel responsible for supervising the collection, management or use of geospatial data and, when appropriate, other geospatial experts, to enable citywide coordination and collaboration in areas including application development, data sharing and data interoperability; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-072]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3147" number="4809" version="617">
+					<PARA>
+						<TAB tab-count="1"/>i.<TAB tab-count="1"/>to provide appropriate, reliable, cost-effective and responsive computer and data communications services to agencies that require such services by purchasing and maintaining hardware, software and such other goods and services as may be necessary to effectively discharge the powers and duties of the department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3148" number="4810" version="617">
+					<PARA>
+						<TAB tab-count="1"/>j.<TAB tab-count="1"/>to provide assistance to agencies in meeting their data processing and data communications objectives; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3149" number="4811" version="617">
+					<PARA>
+						<TAB tab-count="1"/>k.<TAB tab-count="1"/>to provide agencies using or proposing to use the services of this department with technical assistance in determining feasibility and resource requirements; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3150" number="4812" version="617">
+					<PARA>
+						<TAB tab-count="1"/>l.<TAB tab-count="1"/>to simplify access to shared information, reduce communication costs and provide access to multiple computer systems by connecting computers and terminals of various city agencies, and of other public entities requesting such connection where such provision to such other entities would in the judgment of the commissioner be in the city&apos;s interests; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3151" number="4813" version="617">
+					<PARA>
+						<TAB tab-count="1"/>m.<TAB tab-count="1"/>to plan and provide telecommunications coordination in support of disaster recovery; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3152" number="4814" version="617">
+					<PARA>
+						<TAB tab-count="1"/>n.<TAB tab-count="1"/>to ensure security for data and other information handled by this department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3153" number="4815" version="617">
+					<PARA>
+						<TAB tab-count="1"/>o.<TAB tab-count="1"/>to institute procedures to assure restrictions of access to information to the appropriate individuals, where such restrictions is required by law; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3154" number="4816" version="617">
+					<PARA>
+						<TAB tab-count="1"/>p.<TAB tab-count="1"/>to perform such other responsibilities with respect to information technology and telecommunications matters, including responsibilities delegated elsewhere by the charter, as the mayor shall direct; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3155" number="4817" version="617">
+					<PARA>
+						<TAB tab-count="1"/>q.<TAB tab-count="1"/>to provide to the public at no charge on the city&apos;s website an interactive map, updated as often as practicable and necessary but not less than once per week, displaying the following: </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3156" number="4818" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>Permitted and approved street closures that do not allow for the passage of vehicular traffic on that street, including but not limited to closures for special events, crane operations and other construction work, film shoots and paving operations; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3157" number="4819" version="617">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>Parking regulations. The information related to paragraph (1) of this subdivision shall be searchable and sortable by time, date and borough, except that street closures for crane operations, construction work and paving operations shall have the notation &quot;subject to closure&quot; during times where closure has been permitted and approved but where such closure may or may not occur on a particular day. All information required by this subdivision shall be available on the city&apos;s website as soon as practicable but in no case less than one week prior to any such closure or change, except closures which were applied for or planned less than one week prior to any such closure or change, which shall be available on such interactive map within seventy-two hours of the permit and approval of such closure. Where a permitted and approved street closure is due to a special event, the sponsor of the event with appropriate contact information shall be provided as part of such interactive map. For the purposes of this subdivision, special event shall mean any street fair, block party or festival on a public street(s) where such activity may interfere with or obstruct the normal use by vehicular traffic of such street(s); and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3158" number="4820" version="617">
+					<PARA>
+						<TAB tab-count="1"/>r.<TAB tab-count="1"/>to provide to the public, at no charge on the city&apos;s website, an interactive crime map that, for each segment of a street bounded by one or more intersections and/or a terminus, shall visually display the aggregate monthly, yearly and year-to-date totals for the current and the most recent prior calendar years for each class of crime that is reported to the New York city police department, or for which an arrest was made, including crimes that occurred in parks and subway stations. Such map shall be searchable by address, zip code, and patrol precinct. All information required by this subdivision shall be available on the city&apos;s website as soon as practicable but in no case more than one month after a crime complaint has been filed. The mayor shall ensure that all agencies provide the department with such assistance and information as the department requires to compile and update the interactive crime map.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6279" number="4821" version="564">
+					<PARA>(Am. L.L. 2022/042, 1/15/2022, eff. 4/15/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-072]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3159" number="4822" version="723">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1994/024" destination-id="0-0-0-0">L.L. 1994/024</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6804" number="4823" version="723">
+				<HEADING>Section 1073. [Emergency communications systems of other agencies.] </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1093" name="1073"/>Section 1073. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">[Emergency communications systems of other agencies.] </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3160" number="4824" version="617">
+					<PARA>With respect to emergency communications systems and emergency communications facilities administered by another agency, the department shall exercise its powers and duties only as the mayor shall direct pursuant to subdivision p of section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1072" destination-id="0-0-0-1091">1072</LINK> of this chapter, or at the request of such agency. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3161" number="4825" version="723">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1994/024" destination-id="0-0-0-0">L.L. 1994/024</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6806" number="4826" version="723">
+				<HEADING>Section 1074. Telecommunications. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1095" name="1074"/>Section 1074. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Telecommunications. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-3162" number="4827" version="617">
+					<PARA>&quot;Telecommunications&quot; shall mean the transmission of writings, signals, pictures, numbers and sounds or intelligence of all kinds by aid of wire, cable, optical fiber, radio, satellite, electromagnetic wave, microwave or other like connection between points of origin and reception of such transmission, including all instrumentalities, facilities, apparatus and services incidental to such transmission. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6805" number="4828" version="744">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1990/071" destination-id="0-0-0-0">L.L. 1990/071</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1994/024" destination-id="0-0-0-0">L.L. 1994/024</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6844" number="4829" version="744">
+				<HEADING>Section 1075. 311 citizen service center reports.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1097" name="1075"/>Section 1075. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">311 citizen service center reports.</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6857" number="4830" version="787">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>
+						<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Definitions.</CHARFORMAT> For the purposes of this section, the term &quot;department&quot; shall mean the department of information technology and telecommunications. The term &quot;directory assistance call&quot; shall mean any call received by the 311 citizen service center that is entered into the 311 computer system in the directory assistance category. The term &quot;request for service&quot; shall mean any call received by the 311 citizen service center that is entered into the 311 computer system in the request for service category.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3165" number="4831" version="787">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Reserved. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3166" number="4832" version="787">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>Reserved. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3167" number="4833" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>Within seven business days from the end of each month, the department shall submit in electronic format to each community board a list setting forth all requests for service that were identified to have occurred in the respective community district received by the 311 citizen service center during the immediately preceding month, as well as all unresolved requests for service from prior months. Such report shall include, but not be limited to, the following information for each request for service: (1) the request for service category; (2) the agency or agencies to which the request for service was directed; and, (3) the current status of the request for service, where such information can be directly accessed by the 311 citizen service system. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-3168" number="4834" version="543">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The department shall convene a quarterly meeting of representatives from each of the community boards within the city to discuss the content and format of the reports required to be prepared pursuant to this chapter.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6261" number="4835" version="787">
+					<PARA>(Am. L.L. 2023/069, 5/29/2023, eff. 6/28/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6873" number="4836" version="787">
+				<HEADING>Section 1076. Chief geospatial information officer.</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-1741" name="1076"/>Section 1076. Chief geospatial information officer.</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-6263" number="4837" version="543">
+					<PARA>The commissioner shall designate an employee to serve as the chief geospatial information officer. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6262" number="4838" version="543">
+					<PARA>(L.L. 2022/042, 1/15/2022, eff. 4/15/2022) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-069]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-2150" number="3241" version="499">
+			<HEADING>Chapter 24-A: Department of Homeless Services</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-803" name="Chapter 24-a"/>Chapter 24-A: Department of Homeless Services</PARA>
+		</RECORD>
+		<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+			<RECORD id="0-0-0-2151" number="3242" version="731">
+				<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+					<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/051" destination-id="0-0-0-0">L.L. 1993/051</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1995/075" destination-id="0-0-0-0">L.L. 1995/075</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+				</PARA>
+			</RECORD>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6777" number="3243" version="715">
+				<HEADING>Section 610. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-805" name="610"/>Section 610. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2152" number="3244" version="617">
+					<PARA>There shall be a department of homeless services, the head of which shall be the commissioner of homeless services. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6778" number="3245" version="731">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/051" destination-id="0-0-0-0">L.L. 1993/051</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1995/075" destination-id="0-0-0-0">L.L. 1995/075</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6811" number="3246" version="731">
+				<HEADING>Section 611. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-807" name="611"/>Section 611. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2154" number="3247" version="617">
+					<PARA>The commissioner shall appoint at least one deputy. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6779" number="3248" version="731">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/051" destination-id="0-0-0-0">L.L. 1993/051</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1995/075" destination-id="0-0-0-0">L.L. 1995/075</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6812" number="3249" version="731">
+				<HEADING>Section 612. Powers and duties. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-809" name="612"/>Section 612. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers and duties. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2156" number="3250" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall have the powers and perform the duties of a commissioner of social services under the social services law for the purpose of fulfilling his or her responsibilities under this chapter. In the performance of his or her functions, the commissioner shall:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2157" number="3251" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>be responsible for transitional housing and services provided by the city for eligible homeless families and individuals. The commissioner shall encourage the participation of and receive proposals from the public and private sectors for the development of transitional housing and services for homeless families and individuals. In performing such duties, the commissioner may develop and issue requests for proposals and evaluate responses thereto, negotiate, award, enter into and administer contracts, loans or other agreements, award and administer grants and obtain all necessary approvals. For-profit and not-for-profit entities shall be eligible to submit proposals, bid on contracts and other agreements, and apply for grants and loans; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2158" number="3252" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>develop, maintain and, where necessary, strengthen the system for the provision of transitional housing and services for homeless families and individuals; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2159" number="3253" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>in consultation with other appropriate governmental agencies, plan housing for homeless families and individuals; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2160" number="3254" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>4.<TAB tab-count="1"/>maintain, repair and rehabilitate transitional housing owned, operated or managed by the department; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2161" number="3255" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>5.<TAB tab-count="1"/>establish performance criteria, goals and objectives with respect to contract providers and monitor and evaluate such performance; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2162" number="3256" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>6.<TAB tab-count="1"/>participate in the development of prevention programs to assist families and individuals who are in imminent danger of becoming homeless; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2163" number="3257" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>7.<TAB tab-count="1"/>in consultation with other appropriate governmental agencies, develop and operate outreach programs to identify and assist families and individuals who are homeless and living in public spaces. Notwithstanding any outreach programs developed or operated by other city agencies, and outreach programs developed or operated by any entity pursuant to a contract with the department, the commissioner shall retain a substantial outreach workforce within the department&apos;s full-time staff. Beginning on the first day of September, 1998 and on the first day of each succeeding calendar quarter thereafter, the commissioner shall report to the speaker of the council in writing on the outreach programs operated by the department, by other city agencies or by entities contracting with the department. Such report shall include, but not be limited to, the number of contacts during the reporting period, the number of placements in transitional housing resulting from such contacts during the reporting period and the number of referrals of persons so contacted to programs or services during the reporting period; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2164" number="3258" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>8.<TAB tab-count="1"/>direct and supervise the management, operations, budget and funding of services for homeless individuals and families; </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2165" number="3259" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>9.<TAB tab-count="1"/>work directly with the mayor&apos;s office of management and budget with regard to the funding and administration of the city&apos;s budget for services to homeless families and individuals; and </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2166" number="3260" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>10.<TAB tab-count="1"/>advise and assist the mayor with respect to matters pertaining to homeless families and individuals. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2167" number="3261" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>In addition to the duties set forth in subdivision a of this section, the commissioner is authorized, in consultation with appropriate agencies, to provide any other services he or she deems necessary to implement and effectuate the provisions of this chapter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6780" number="3262" version="731">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1993/051" destination-id="0-0-0-0">L.L. 1993/051</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1995/075" destination-id="0-0-0-0">L.L. 1995/075</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6813" number="3263" version="787">
+				<HEADING>Section 613. Transitional housing inventory. [Repealed]</HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-811" name="613"/>Section 613. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Transitional housing inventory. [Repealed]</CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2170" number="3264" version="787">
+					<PARA>(Repealed L.L. 2023/069, 5/29/2023, eff. 6/28/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-086]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-6871" number="3265" version="787">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1995/075" destination-id="0-0-0-0">L.L. 1995/075</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6781" number="3266" version="715">
+				<HEADING>Section 614. Permanent housing needs, annual report. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-813" name="614"/>Section 614. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Permanent housing needs, annual report. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-2171" number="3267" version="617">
+					<PARA>Beginning on May 1, 1999 and on May first of each succeeding year thereafter, the commissioner shall report to the speaker of the council in writing on the permanent housing and the transitional housing and services, respectively, projected to be needed to house homeless families and individuals expected to be housed within the system during the fiscal year to begin on each July first thereafter. Such annual report shall include, but not be limited to, the sources, including, but not being limited to, the department of housing preservation and development and the New York city housing authority, from which the commissioner of homeless services projects to meet the permanent housing identified in such report as needed during such fiscal year and the number of permanent housing to be provided by each source. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-2172" number="3268" version="715">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 1995/075" destination-id="0-0-0-0">L.L. 1995/075</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-085]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

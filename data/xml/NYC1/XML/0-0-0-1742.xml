@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Charter" content-collection-id="NYCcharter" source-infobase-title="New York City Charter" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\NYCcharter.mak" css-stylesheet-href="#!-- #ID=NYCcharter_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCcharter\output\XIIBFNTGOGPHNCEJ\XML\" css-stylesheet-name="NYCcharter_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-35" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-1742" number="2764" version="3">
+			<HEADING>Chapter 19: Fire Department</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-655" name="Chapter 19"/>Chapter 19: Fire Department</PARA>
+		</RECORD>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1743" number="2765" version="3">
+				<HEADING>Section 481. Department; commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-657" name="481"/>Section 481. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Department; commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1744" number="2766" version="617">
+					<PARA>There shall be a fire department the head of which shall be the commissioner. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1745" number="2767" version="3">
+				<HEADING>Section 482. Chief may be designated as commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-659" name="482"/>Section 482. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Chief may be designated as commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1746" number="2768" version="617">
+					<PARA>The mayor may designate the chief of the fire department to serve as commissioner, and in such case he shall exercise the powers and duties of commissioner and shall continue to exercise his powers and duties as chief and shall receive the salary of the commissioner. While serving as commissioner the chief shall forfeit none of his pension rights and privileges as chief or his civil service status, and such service and the time during which he so serves shall be part of his time and service as chief. Such designation as commissioner shall be in writing filed in the office of the department and in the office of the mayor. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1747" number="2769" version="3">
+				<HEADING>Section 483. Deputies. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-661" name="483"/>Section 483. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Deputies. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1748" number="2770" version="617">
+					<PARA>The commissioner may appoint three deputies, one of whom may perform all the duties and exercise all of the powers of the commissioner except appointment or promotion, detail or dismissal of any member of the uniformed force when thereunto authorized by instrument in writing to be filed in the offices of the mayor and the comptroller. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1749" number="2771" version="3">
+				<HEADING>Section 484. Designation of officers to act. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-663" name="484"/>Section 484. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Designation of officers to act. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1750" number="2772" version="617">
+					<PARA>The commissioner may designate a clerk or chief of a bureau, who shall have power, when thereunto authorized by the commissioner by instrument in writing to be filed in the offices of the mayor and comptroller, to sign warrants and perform such other duties incidental thereto as may be required during the absence of the commissioner, and for a period of time to be designated in the instrument. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1751" number="2773" version="3">
+				<HEADING>Section 485. Seal. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-665" name="485"/>Section 485. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Seal. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1752" number="2774" version="617">
+					<PARA>The commissioner may adopt a seal for the department and direct its use. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1753" number="2775" version="3">
+				<HEADING>Section 486. Treasurer. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-667" name="486"/>Section 486. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Treasurer. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1754" number="2776" version="617">
+					<PARA>The commissioner shall be the treasurer of the department and shall file in the office of the comptroller a bond for the faithful performance of his duties as such treasurer. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1755" number="2777" version="3">
+				<HEADING>Section 487. Powers. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-669" name="487"/>Section 487. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1756" number="2778" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall have sole and exclusive power and perform all duties for the government, discipline, management, maintenance and direction of the fire department and the premises and property in the custody thereof, however, the commissioner shall provide written notice with supporting documentation at least forty-five days prior to the permanent closing of any firehouse or the permanent removal or relocation of any fire fighting unit to the council members, community boards and borough presidents whose districts are served by such facility or unit and the chairperson of the council&apos;s public safety committee. For purposes of this section, the term &quot;permanent&quot; shall mean a time period in excess of six months. In the event that the permanent closing of any firehouse or the permanent removal or relocation of any firefighting unit does not occur within four months of the date of the written notice, the commissioner shall issue another written notice with supporting documentation prior to such permanent removal or relocation. The four months during which the written notice is effective shall be tolled for any period in which a restraining order or injunction prohibiting the closing of such noticed facility or unit shall be in effect.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1757" number="2779" version="3">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>The department shall have sole and exclusive power and authority to extinguish fires at any place within the jurisdiction of the city and shall have power and authority to extinguish fires upon any vessel in the port of New York or upon any dock, wharf, pier, warehouse or other structure bordering upon or adjacent to such port. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1758" number="2780" version="769">
+					<PARA>
+						<TAB tab-count="1"/>c.<TAB tab-count="1"/>The commissioner shall have power to cause any vessel moored to or anchored near any dock or pier in the city to be removed to and secured at such place in the harbor as shall be designated by the commissioner, provided that such vessel shall be on fire or in danger of catching fire or may be, by reason of its condition or the nature of its cargo, a fire menace to shipping, to property or to the water front of the city. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1759" number="2781" version="3">
+					<PARA>
+						<TAB tab-count="1"/>d.<TAB tab-count="1"/>The commissioner shall have sole and exclusive jurisdiction over the approval of the installation of all containers for combustibles, chemicals, explosives, inflammables or other dangerous substances, articles, compounds or mixtures, except storage tanks and auxiliary storage tanks for oil-burning equipment and except where the location of the container may affect the structural condition of the building, in which case the commissioner shall not give his approval without the approval of the commissioner of buildings. The commissioner shall certify his approval of all installations of containers in buildings except storage tanks and auxiliary storage tanks for oil-burning equipment to the commissioner of buildings. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1760" number="2782" version="3">
+					<PARA>
+						<TAB tab-count="1"/>e.<TAB tab-count="1"/>The commissioner shall have the sole and exclusive power from time to time to designate and fix the location of all fire alarm telegraph, signal and alarm stations in the city, and shall have access to and control of the same for the purpose of the department. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1761" number="2783" version="3">
+					<PARA>
+						<TAB tab-count="1"/>f.<TAB tab-count="1"/>The department shall have the power and authority to provide general ambulance services, emergency medical services and other response services necessary to preserve public health, safety and welfare, and to perform any functions relating to the provision of such services. This subdivision shall not be construed to limit or impair the powers of any other agency established pursuant to this charter. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1762" number="2784" version="551">
+					<PARA>
+						<TAB tab-count="1"/>g.<TAB tab-count="1"/>The department shall have the power and authority to regulate helicopter landings and takeoffs at or from locations other than airports, heliports, helistops, seaplane bases or other facilities approved by the commissioner of small business services, helicopter external load lift operations, and hot air balloon operations. This subdivision shall not be construed to limit or impair the powers of any other agency established pursuant to this charter, except to the extent that the aforementioned powers granted to the department were previously exercised by the commissioner of small business services. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-070]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1763" number="2785" version="667">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> For related unconsolidated provisions, see Administrative Code Appendix A at <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2008/026" destination-id="0-0-0-0">L.L. 2008/026</LINK> and <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Inter Infobase Jump" destination-infobase-id="671734137-329684122-0-0" destination-infobase-uil="L:\NY\New York City\Folio\Working\Admin.nfo" destination-infobase-name="" destination-infobase-title="" destination-name="L.L. 2013/148" destination-id="0-0-0-0">L.L. 2013/148</LINK>. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-24">[ALP S-084]</HIGHLIGHTER>
+					</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-6535" number="2786" version="641">
+				<HEADING>Section 488. Enforcement of fire laws. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-671" name="488"/>Section 488. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Enforcement of fire laws. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1764" number="2787" version="617">
+					<PARA>The commissioner shall have the power and it shall be his duty to enforce all laws and the rules and regulations of the board of standards and appeals in respect to:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1765" number="2788" version="617">
+					<PARA>
+						<TAB tab-count="1"/>1.<TAB tab-count="1"/>The manufacture, storage, sale, transportation or use of combustibles, chemicals, explosives, inflammable or other dangerous substances, articles, compounds or mixtures. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1766" number="2789" version="617">
+					<PARA>
+						<TAB tab-count="1"/>2.<TAB tab-count="1"/>The investigation of the cause, circumstances and origin of fires and the suppression of arson. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1767" number="2790" version="617">
+					<PARA>
+						<TAB tab-count="1"/>3.<TAB tab-count="1"/>The prevention of fires or danger to life or property therefrom, excluding provisions relating to structural conditions and excluding provisions relating to the installation of oil-burning equipment and all appurtenances thereof.</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-5725" number="2791" version="617">
+					<PARA>The powers conferred by this section shall not extend to the enforcement of any provision of the health code or the regulations of the board of health, or of any provision of the building code relating to the construction or alteration of buildings or the installation of service equipment, except as otherwise provided therein, or interfere in any manner with the powers and duties of the board of health or the chairman of the board of health or of the department of buildings or of the commissioner of buildings. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1768" number="2792" version="3">
+				<HEADING>Section 489. Regulation of combustibles, etc. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-673" name="489"/>Section 489. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Regulation of combustibles, etc. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1769" number="2793" version="617">
+					<PARA>The commissioner may make and enforce rules and regulations for the manufacture, storage, sale, transportation or use of combustibles, chemicals, explosives, inflammables or other dangerous substances, articles, compounds or mixtures. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1770" number="2794" version="3">
+				<HEADING>Section 490. Powers of inspection of the commissioner. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-675" name="490"/>Section 490. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Powers of inspection of the commissioner. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1771" number="2795" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner is empowered to:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1772" number="2796" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Cause any building, structure, tunnel, enclosure, vessel, place or premises to be inspected for fire hazards by any officer or employee of the department designated for such purpose. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1773" number="2797" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Inspect and test any automatic or other fire alarm system or fire extinguishing equipment. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1774" number="2798" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Whenever in any investigation or inspection carried on by the department a condition is found which in the opinion of the commissioner should be referred to any other department, he shall promptly make such reference in writing. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1775" number="2799" version="3">
+				<HEADING>Section 491. Orders of the commissioner; enforcement. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-677" name="491"/>Section 491. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Orders of the commissioner; enforcement. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1776" number="2800" version="3">
+					<PARA>
+						<TAB tab-count="1"/>a.<TAB tab-count="1"/>The commissioner shall have the power and it shall be his duty:</PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1777" number="2801" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(1)<TAB tab-count="1"/>To order in writing the remedying of any condition in violation of any rule or regulation or any provision of law which he is empowered to enforce. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1778" number="2802" version="3">
+					<PARA>
+						<TAB tab-count="1"/>
+						<TAB tab-count="1"/>(2)<TAB tab-count="1"/>To cause any order of the commissioner which is not complied with within the time fixed in the order for such compliance to be enforced and to take proceedings for the enforcement thereof as may be provided by law. </PARA>
+				</RECORD>
+				<RECORD id="0-0-0-1779" number="2803" version="48">
+					<PARA>
+						<TAB tab-count="1"/>b.<TAB tab-count="1"/>Every order, requirement, decision or determination of the commissioner shall be in writing. The commissioner shall not vary from or take any proceeding or issue any order contrary to the Labor Law, the Multiple Dwelling Law, the building code or any other provision of law or any rule or decision of the board of standards and appeals. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1780" number="2804" version="3">
+				<HEADING>Section 492. Right of entry of officers of the department. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-679" name="492"/>Section 492. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Right of entry of officers of the department. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1781" number="2805" version="617">
+					<PARA>The commissioner and his deputies and such other officers or employees of the department as are authorized by the commissioner may without fee or hindrance enter and inspect all vessels, premises, grounds, structures, buildings and every part thereof and all underground passages of every sort in the city or in the port of New York for compliance with the provisions of law or rules and regulations enforced by the department. Any refusal to permit such entry or inspection shall be triable by a judge of the New York city criminal court and punishable by not more than thirty days&apos; imprisonment, or by a fine of not more than fifty dollars, or both. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1782" number="2806" version="3">
+				<HEADING>Section 493. Member of department; no other office. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-681" name="493"/>Section 493. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Member of department; no other office. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1783" number="2807" version="46">
+					<PARA style-name="EdNoteSm" style-name-escaped="EdNoteSm" style-id="0-0-0-19">
+						<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Editor&apos;s note:</CHARFORMAT> Became Section <LINK style-name="Jump" style-name-escaped="Jump" style-id="0-0-0-21" type="Jump" destination-name="1130" destination-id="0-0-0-683">1130</LINK>.</PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+		<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-38" level-depth="3" toc-section="true">
+			<RECORD id="0-0-0-1784" number="2808" version="3">
+				<HEADING>Section 494. Duties of chief; restriction. </HEADING>
+				<PARA>
+					<DESTINATION id="0-0-0-685" name="494"/>Section 494. <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Duties of chief; restriction. </CHARFORMAT>
+				</PARA>
+			</RECORD>
+			<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+				<RECORD id="0-0-0-1785" number="2809" version="617">
+					<PARA>Notwithstanding any inconsistent provision of any general, special or local law, or rule or regulation, a chief of the fire department shall not serve in any other capacity to the department during his term of office of chief. Any person violating the provisions of this section shall be deemed to have vacated the office of chief so held. </PARA>
+				</RECORD>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>

@@ -16,7 +16,12 @@ To run the platform locally with full features (including Ollama local fallback)
    ```bash
    docker-compose up -d
    ```
-2. **Environment**: Create a `.env` file in the root with your credentials:
+2. **Data Onboarding (Local)**: The repository now includes the core XML data sources in `data/xml/`. To populate your local instance, run:
+   ```bash
+   python3 extract_legal_graph.py
+   python3 embed_graph.py
+   ```
+3. **Environment**: Create a `.env` file in the root with your credentials:
    ```text
    OPENAI_API_KEY=sk-...
    NEO4J_URI=bolt://localhost:7687

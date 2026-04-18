@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="#!-- #STYLESHEETS:ALP.xsl --#"?>
+
+<DOCUMENT source-infobase-name="Rules" content-collection-id="NYCrules" source-infobase-title="The Rules of the City of New York" base-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\" default-split-level="Chapter" makefile-filename="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\NYCrules.mak" css-stylesheet-href="#!-- #ID=NYCrules_css_id --#" xml-output-dir="D:\process\NFOProcess\codes\ny\newyorkcity\NYCrules\output\HUCCVLERTKEUARDR\XML\" css-stylesheet-name="NYCrules_css" makefile-document-depth="2">
+	<LEVEL style-name="Chapter" style-name-escaped="Chapter" style-id="0-0-0-477" level-depth="2" toc-section="false">
+		<RECORD id="0-0-0-90725" number="108449" version="3">
+			<HEADING>Chapter 5: Historic Preservation Grant Program</HEADING>
+			<PARA>
+				<DESTINATION id="0-0-0-12687" name="T63C005"/>Chapter 5: Historic Preservation Grant Program</PARA>
+		</RECORD>
+		<LEVEL style-name="Subchapter" style-name-escaped="Subchapter" style-id="0-0-0-480" level-depth="3" toc-section="false">
+			<LEVEL style-name="Subtitle" style-name-escaped="Subtitle" style-id="0-0-0-15301" level-depth="4" toc-section="false">
+				<LEVEL style-name="Part" style-name-escaped="Part" style-id="0-0-0-483" level-depth="5" toc-section="false">
+					<LEVEL style-name="Subpart" style-name-escaped="Subpart" style-id="0-0-0-15960" level-depth="6" toc-section="false">
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-90726" number="108450" version="3">
+								<HEADING>§ 5-01 Introduction.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12689" name="T63C005_5-01"/>§ 5-01 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">Introduction.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90727" number="108451" version="1356">
+									<PARA>The Historic Preservation Grant Program provides grants to eligible nonprofit organizations and homeowners for the preservation of designated landmark properties through restoration, repair and rehabilitation work. All grants must meet the guidelines laid out for historic preservation activities under the federal Community Block Grant program regulations. 24 C.F.R. § 570.202(d).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113690" number="108452" version="2497">
+									<PARA>Application forms and fact sheets for the Historic Preservation Grant Program may be obtained from the Commission&apos;s website or by contacting the Commission&apos;s Director of the Historic Preservation Grant Program. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113692" number="108453" version="1356">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-90728" number="108454" version="1356">
+								<HEADING>§ 5-02 General Eligibility Requirements.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12691" name="T63C005_5-02"/>§ 5-02 <CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">General Eligibility Requirements.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-113709" number="108455" version="1356">
+									<PARA>In addition to any applicable federal regulations regarding the Community Block Grant Program, grant applicants must also meet the following criteria: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113710" number="108456" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Eligible Structures.</CHARFORMAT> Structures which are designated or calendared individual landmarks, are located in designated historic districts, or contain Interior Landmarks. Eligible structures may also include those improvements located in New York City that are listed or eligible for listing on the National Register. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113708" number="108457" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Eligible Repairs.</CHARFORMAT> Grants may be made for the following work: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113707" number="108458" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>To repair and restore exterior features of an eligible structure; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113706" number="108459" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>To address structural damage or severe deterioration that threatens to undermine the integrity of an eligible structure; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113705" number="108460" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>To repair and restore eligible interiors; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113704" number="108461" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>To make alterations which will protect the landmark from physical damage, including the installation of appropriate flood barriers; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113703" number="108462" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>To make alterations that will make the landmark more energy efficient. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113702" number="108463" version="2544">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Ownership / Occupancy.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113711" number="108464" version="2544">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Homeowners.</CHARFORMAT> Owners of eligible residential properties are eligible to receive grant funds:</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-139655" number="108465" version="2544">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>if the owner and/or occupants meet § 8 income limits as they appear in the Federal Community Block Grant Program regulations as defined in 24 C.F.R. § 570.208(a)(2)(i)(B) and (C); or <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-088]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113701" number="108466" version="2734">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>the work is eligible historic preservation or building rehabilitation work as defined in 24 C.F.R. § 570.208(b)(2).</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-139656" number="108467" version="2544">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Nonprofit organizations.</CHARFORMAT>&#160;<HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113700" number="108468" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>Nonprofit organizations applying for grant funds must either own or hold a long term lease on the property for which funds are sought. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113699" number="108469" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>To be eligible for consideration as a non-profit organization, the applicant must be a charitable, cultural, educational, scientific, literary, or other entity organized under § 501(c)(3) of the Internal Revenue Code. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113698" number="108470" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(d)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Grant Beneficiaries.</CHARFORMAT> All grant-funded work must (1) principally benefit low and moderate income persons or (2) address slum and blight conditions as set forth in and defined under the federal Community Block Grant Program regulations. 24 C.F.R. § 570.208. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113693" number="108471" version="2544">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019; amended City Record 7/20/2023, eff. 8/19/2023) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-088]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-90741" number="108472" version="1356">
+								<HEADING>§ 5-03 Selection Board and Criteria.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-12693" name="T63C005_5-03"/>§ 5-03 Selection Board and Criteria<CHARFORMAT bold="1" italic="0" underline="0" strike-out="0" hidden="0">.</CHARFORMAT>
+								</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-90748" number="108473" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>Grant applications will be evaluated and funds will be awarded by a board composed of the director of the Historic Preservation Grant Program and other staff members of the Landmarks Preservation Commission as the Chair shall in his or her discretion appoint. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113721" number="108474" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>In awarding grants, the Historic Preservation Grant Program board will give preference to properties designated or calendared by the Landmarks Preservation Commission and will consider the following factors, among others: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113720" number="108475" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The architectural and historical importance of the building; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113719" number="108476" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>The condition of the building and the degree to which the proposed work will materially address the building&apos;s condition; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113718" number="108477" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>The applicant&apos;s financial resources; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113717" number="108478" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Whether the applicant is proposing to use other funds along with the grant to pay for the proposed work; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113716" number="108479" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>The effect the grant will have on improving the building and/or the district. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113715" number="108480" version="1356">
+									<PARA>(Amended City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+						<LEVEL style-name="Section" style-name-escaped="Section" style-id="0-0-0-486" level-depth="7" toc-section="true">
+							<RECORD id="0-0-0-113713" number="108481" version="1356">
+								<HEADING>§ 5-04 Application Materials.</HEADING>
+								<PARA>
+									<DESTINATION id="0-0-0-15747" name="T63C005_5-04"/>§ 5-04 Application Materials.</PARA>
+							</RECORD>
+							<LEVEL style-name="Normal Level" style-name-escaped="Normal-Level" style-id="0-0-0-0" level-depth="0" toc-section="false">
+								<RECORD id="0-0-0-113714" number="108482" version="1356">
+									<PARA>In addition to any other material required by LPC Staff, the following documents, as applicable, must be submitted in support of an application for a grant: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113749" number="108483" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(a)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Individuals.</CHARFORMAT> An applicant who is an individual, or is comprised of multiple individuals, must submit for each individual, as applicable, the following documents: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113748" number="108484" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>Signed current federal tax forms, or, if no tax return was required to be filed, a signed statement with an explanation. If income has changed substantially, the applicant must submit relevant tax forms for the last three (3) years; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113747" number="108485" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>W-2 Forms and Schedules A, B, C, D, and E filed with each 1040 Tax Form; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113746" number="108486" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>A signed list of all properties owned and related rent receipts in lieu of Schedule E; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113745" number="108487" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Pension receipts; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113744" number="108488" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Notification of Social Security, disability or other benefits; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113743" number="108489" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Records of all other income or distributions; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113742" number="108490" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>List of sources of funding for restoration project; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113741" number="108491" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>The property deed in the name(s) of the applicant(s). <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113740" number="108492" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(b)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Non-Profit Entity.</CHARFORMAT> An applicant that is a nonprofit organization must submit the following documentation: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113739" number="108493" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>A copy of the articles of incorporation and confirmation from the Internal Revenue Service of its non-profit status; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113738" number="108494" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>the property deed or long-term lease in the name of the applicant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113737" number="108495" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>(c)<TAB tab-count="1"/>
+										<CHARFORMAT bold="0" italic="1" underline="0" strike-out="0" hidden="0">Conditions.</CHARFORMAT> In addition to any other condition required or imposed by law or rule, the following conditions apply to every grant: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113736" number="108496" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(1)<TAB tab-count="1"/>The grant pays for specific work items; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113735" number="108497" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(2)<TAB tab-count="1"/>Work cannot begin until: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113734" number="108498" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>LPC Staff and the grant recipient sign a contract; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113733" number="108499" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>Re-sale and insurance clauses of the contract have been satisfied; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113732" number="108500" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iii)<TAB tab-count="1"/>LPC issues approval(s) for the work; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113731" number="108501" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(iv)<TAB tab-count="1"/>LPC Staff notifies the contractor that work can begin; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113730" number="108502" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(3)<TAB tab-count="1"/>Except under unusual circumstances, at least three (3) competitive bids must be obtained for proposed work; bids will be solicited by the LPC Staff and work must be approved by the Commission before funds are disbursed to the contractor; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113729" number="108503" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(4)<TAB tab-count="1"/>Depending on the scope of work, the property may be inspected for the presence of lead-based paint. If lead-based paint hazards are found, the grant recipient will be responsible for the remediation of those hazards pursuant to City and/or Federal law; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113728" number="108504" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(5)<TAB tab-count="1"/>Preference is given to extremely low-, low-, and moderate-income owners that use other funds along with the grant to restore the facade of their building; <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113727" number="108505" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(6)<TAB tab-count="1"/>Grantees cannot have unpaid real estate taxes or water or sewer charges; and <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113726" number="108506" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(7)<TAB tab-count="1"/>If there are Landmarks Preservation Commission or Department of Buildings violations on an otherwise eligible property, the presence of such violations, the nature of the violations and any plans to address the violations, will be considered. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113725" number="108507" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(8)<TAB tab-count="1"/>Occupancy requirement/resale restriction: <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113724" number="108508" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(i)<TAB tab-count="1"/>The grant recipient must continuously occupy at least one Unit on the property that is the subject of the grant as his or her primary residence, for a period of five (5) years from the date of final payment to the contractor for the work performed pursuant to the grant. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113723" number="108509" version="1356">
+									<PARA>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>
+										<TAB tab-count="1"/>(ii)<TAB tab-count="1"/>If the grant recipient transfers the property within such five-year period, the grant recipient must return to the Landmarks Preservation Commission the grant on a pro-rated basis as follows: one hundred (100) percent of the grant if the property is transferred during the first year after final payment; eighty (80) percent if transferred during the second year; sixty (60) percent if transferred during the third year; forty (40) percent if transferred during the fourth year; and twenty (20) percent if transferred during the fifth year after the final payment. <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+								<RECORD id="0-0-0-113695" number="108510" version="1356">
+									<PARA>(Added City Record 12/20/2018, eff. 1/19/2019) <HIGHLIGHTER style="highlighter-ALP" original-style-name="ALP" style-name-escaped="highlighter-ALP" name="ALP" id="0-0-0-33">[ALP S-033]</HIGHLIGHTER>
+									</PARA>
+								</RECORD>
+							</LEVEL>
+						</LEVEL>
+					</LEVEL>
+				</LEVEL>
+			</LEVEL>
+		</LEVEL>
+	</LEVEL>
+</DOCUMENT>
