@@ -98,20 +98,26 @@ class LegalGraphClient:
             except Exception as e:
                 return []
 
-    def get_db_stats(self):
-        """Returns the total number of nodes in the graph."""
-        res = self.query("MATCH (n) RETURN count(n) AS total")
-        return res[0]['total'] if res else 0
-
 @st.cache_resource
 def get_db():
     return LegalGraphClient()
 
 db = get_db()
-stats_count = db.get_db_stats()
 
+# --- DATABASE DIAGNOSTICS ---
 with st.sidebar:
-    st.metric(label="Nodes in Legal Graph", value=f"{stats_count:,}")
+    st.header("📊 Database Diagnostics")
+    if db and db.driver:
+        try:
+            # Use the existing db.query method instead of a custom function
+            stats_res = db.query("MATCH (n) RETURN count(n) AS total_nodes")
+            total_nodes = stats_res[0]['total_nodes'] if stats_res else 0
+            st.metric(label="Nodes in Legal Graph", value=f"{total_nodes:,}")
+        except Exception as e:
+            st.error(f"Could not fetch stats: {e}")
+    else:
+        st.warning("Database not connected.")
+    
     st.info("System Status: Operational\n\nDatabase: Local Docker / Remote AuraDB\n\nIntelligence: Hybrid Graph + OpenAI 4o / Ollama")
 
 st.title("🏙️ NYC Regulatory Assistant")
