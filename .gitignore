@@ -5,3 +5,4 @@ database/logs/
 database/plugins/*.jar
 **/__pycache__/
 .DS_Store
+*:Zone.Identifier
