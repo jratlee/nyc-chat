@@ -1,0 +1,5 @@
+- [x] Phase 9: Critical Architectural Fixes
+  - [x] Fix FastAPI CORS `allow_origins` conflict
+  - [x] Resolve hardcoded absolute path for `query_cache.json`
+  - [x] Sanitize malformed `OPENAI_API_KEY` in `.env`
+  - [x] Implement robust buffering for SSE frontend stream
