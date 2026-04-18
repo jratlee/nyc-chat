@@ -5,18 +5,36 @@ import json
 import time
 from neo4j import GraphDatabase
 from openai import OpenAI
-import ollama
 from duckduckgo_search import DDGS
 from dotenv import load_dotenv
+
+# Safe Ollama Import
+try:
+    import ollama
+    OLLAMA_AVAILABLE = True
+except ImportError:
+    OLLAMA_AVAILABLE = False
 
 # Load local .env if it exists
 load_dotenv()
 
-# --- CONFIGURATION ---
-OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
-NEO4J_URI = st.secrets.get("NEO4J_URI") or os.getenv("NEO4J_URI", "bolt://localhost:7687")
-NEO4J_USER = st.secrets.get("NEO4J_USER") or os.getenv("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = st.secrets.get("NEO4J_PASSWORD") or os.getenv("NEO4J_PASSWORD", "password123")
+# --- ROBUST CONFIGURATION ---
+def get_secret_or_env(key, default=None):
+    """
+    Safely check Streamlit secrets, then environment variables, then default.
+    """
+    try:
+        # st.secrets behaves like a dict or can raise an error if not in Streamlit context
+        val = st.secrets.get(key)
+        if val: return val
+    except Exception:
+        pass
+    return os.getenv(key) or default
+
+OPENAI_API_KEY = get_secret_or_env("OPENAI_API_KEY")
+NEO4J_URI = get_secret_or_env("NEO4J_URI", "bolt://localhost:7687")
+NEO4J_USER = get_secret_or_env("NEO4J_USER", "neo4j")
+NEO4J_PASSWORD = get_secret_or_env("NEO4J_PASSWORD", "password123")
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5")
 
 # --- UI SETUP ---
@@ -49,21 +67,32 @@ class LegalGraphClient:
             except Exception as e:
                 return []
 
-db = LegalGraphClient()
+@st.cache_resource
+def get_db():
+    return LegalGraphClient()
+
+db = get_db()
 
 def generate_embedding(text):
+    """
+    Prioritize OpenAI embedding, fallback to local Ollama if available.
+    """
     if OPENAI_API_KEY and "sk-" in OPENAI_API_KEY:
         try:
             client = OpenAI(api_key=OPENAI_API_KEY)
             res = client.embeddings.create(input=text, model="text-embedding-3-small")
             return res.data[0].embedding
-        except:
-             pass
-    try:
-        res = ollama.embeddings(model=OLLAMA_MODEL, prompt=text)
-        return res['embedding']
-    except:
-        return None
+        except Exception as e:
+            st.warning(f"OpenAI Embedding failed: {e}. Checking for Ollama fallback...")
+    
+    if OLLAMA_AVAILABLE:
+        try:
+            res = ollama.embeddings(model=OLLAMA_MODEL, prompt=text)
+            return res['embedding']
+        except Exception as e:
+            st.error(f"Ollama Embedding failed: {e}")
+    
+    return None
 
 def perform_web_search(query):
     try:
@@ -114,11 +143,11 @@ if prompt := st.chat_input("Ask about NYC Charter, Code, or Rules..."):
         CONTEXT (Graph): {json.dumps(context_nodes[:5])}
         CONTEXT (Web): {web_context}
         
-        Answer the question accurately. Cite citation IDs where available.
+        Answer the question accurately. Cite citation IDs (e.g., 28-320) where available.
         """
         
-        try:
-            if OPENAI_API_KEY:
+        if OPENAI_API_KEY:
+            try:
                 client = OpenAI(api_key=OPENAI_API_KEY)
                 stream = client.chat.completions.create(
                     model="gpt-4o",
@@ -129,13 +158,19 @@ if prompt := st.chat_input("Ask about NYC Charter, Code, or Rules..."):
                     if chunk.choices[0].delta.content:
                         full_response += chunk.choices[0].delta.content
                         response_placeholder.markdown(full_response + "▌")
-            else:
+            except Exception as e:
+                st.error(f"OpenAI Synthesis Error: {e}")
+        elif OLLAMA_AVAILABLE:
+            try:
                 stream = ollama.chat(model=OLLAMA_MODEL, messages=[{'role': 'user', 'content': system_prompt + "\n\nUser: " + prompt}], stream=True)
                 for chunk in stream:
                     full_response += chunk['message']['content']
                     response_placeholder.markdown(full_response + "▌")
-        except Exception as e:
-            full_response = f"Error: {e}"
+            except Exception as e:
+                st.error(f"Ollama Synthesis Error: {e}")
+        else:
+            st.error("No LLM Provider Available. Please configure an OpenAI API Key in Streamlit Secrets for cloud deployment, or install and run Ollama for local execution.")
+            full_response = "Platform Error: No LLM configuration found."
             
         response_placeholder.markdown(full_response)
         st.session_state.messages.append({"role": "assistant", "content": full_response})
