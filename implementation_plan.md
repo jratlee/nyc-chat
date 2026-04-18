@@ -10,11 +10,23 @@ This phase integrates semantic retrieval and real-time grounding into the core q
 
 ---
 
-### Phase 8: Verification
+### Phase 9: Critical Architectural & Safety Fixes
 
-- Verify that questions with semantic nuance (e.g., "Tell me about building emission rules") return relevant provisions via Vector Search even if the exact Cypher match is narrow.
-- Verify that "Search" toggle results include live titles and URLs from DuckDuckGo.
-- Confirm persistent SSE streaming and BackgroundTask caching.
+This phase addresses critical vulnerabilities and stability issues identified during the review.
+
+#### [MODIFY] [legal_api_server.py](file:///home/lab/backend/legal_api_server.py)
+- **CORS Fix**: Explicitly allow `http://localhost:3005` to permit credentialed requests.
+- **Portability**: Change `CACHE_FILE` to `./database/query_cache.json`.
+
+#### [MODIFY] [.env](file:///home/lab/config/.env)
+- **Sanitization**: Remove bad prefixes from `OPENAI_API_KEY`.
+
+#### [MODIFY] [Chat.jsx](file:///home/lab/talk-to-nyc/src/components/Chat.jsx)
+- **Robust SSE**: Implement buffer-based chunk parsing to prevent token dropping.
+
+---
+
+### Phase 10: Final Verification
 
 ## Verification Plan
 

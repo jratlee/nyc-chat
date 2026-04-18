@@ -1,5 +1,5 @@
-- [x] Phase 9: Critical Architectural Fixes
-  - [x] Fix FastAPI CORS `allow_origins` conflict
-  - [x] Resolve hardcoded absolute path for `query_cache.json`
-  - [x] Sanitize malformed `OPENAI_API_KEY` in `.env`
-  - [x] Implement robust buffering for SSE frontend stream
+- [x] Phase 10: GitHub Sync & Cleanup
+  - [x] Isolate app into dedicated directory (`nyc-regulatory-intelligence`)
+  - [x] Set up GitHub remote (`jratlee/nyc-chat`)
+  - [x] Sanitize repo (remove secrets, add `.env.example`)
+  - [x] Restore services and verify `nyc.localhost`
