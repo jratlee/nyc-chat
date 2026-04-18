@@ -169,9 +169,10 @@ if prompt:
                 )
             
             # 2. Cypher Fallback/Search (Refined Keyword Matching)
-            # Grab the longest word from the prompt to use as a fuzzy keyword fallback
-            words = sorted(prompt.split(), key=len, reverse=True)
-            search_term = words[0] if words else prompt
+            # Strip punctuation and find the longest word for a fuzzy keyword fallback
+            clean_prompt = re.sub(r'[^\w\s]', '', prompt)
+            words = sorted(clean_prompt.split(), key=len, reverse=True)
+            search_term = words[0] if words else clean_prompt
             
             cypher = """
             MATCH (n) 
@@ -240,11 +241,15 @@ if prompt:
         # 3. Citation Expander
         with st.expander("📚 View References & Citations"):
             for n in context_nodes:
-                # Safely handle missing IDs or descriptions
-                node_id = n.get('id') or "Unknown Citation"
-                node_desc = n.get('desc') or "No summary available in the legal graph."
+                # Ensure n is a dictionary
+                if not isinstance(n, dict):
+                    n = {}
+                    
+                # Safely grab and strictly cast to string
+                node_id = str(n.get('id') or "Unknown Citation")
+                node_desc = str(n.get('desc') or "No summary available in the legal graph.")
                 
-                # Safely slice the description string
+                # Safely slice string
                 short_desc = node_desc[:250] + "..." if len(node_desc) > 250 else node_desc
                 st.markdown(f"- **{node_id}**: {short_desc}")
             
