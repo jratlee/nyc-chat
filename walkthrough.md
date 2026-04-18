@@ -153,19 +153,20 @@ I have implemented a set of critical safety and portability fixes to ensure the 
 
 ---
 
-### Phase 11: Streamlit Deployment Readiness
+### Phase 12: UI & Search Refinement
 
-To provide a simplified, one-click deployment path, I have implemented a native Streamlit interface that runs alongside the primary React/FastAPI stack.
+To enhance transparency and reliability, I implemented several final refinements to the Streamlit interface and the hybrid search logic.
 
-#### Streamlit Features:
-- **`streamlit_app.py`**: A standalone entry point that encapsulates the Hybrid GraphRAG logic and Web Grounding into a single Python script.
-- **`requirements.txt`**: Fully configured for [Streamlit Cloud](https://streamlit.io/cloud) deployment.
-- **Native Chat**: Uses Streamlit's built-in chat components for a responsive mobile/web experience.
+#### Key Improvements:
+- **Safer Citations**: Fixed a potential `TypeError` in the references expander by implementing safe dictionary lookups and fallback strings for missing data.
+- **Dynamic Keyword Search**: Replaced the hardcoded '28-' building code filter with a smarter fuzzy keyword matcher. The system now identifies the most significant keyword from the user's prompt to perform a wide-net graph search when vector results are sparse.
+- **Data Consolidation**: Successfully migrated the core XML source datasets (NYC1, NYC2, NYC3) into the project's own directory structure (`data/xml/`). This ensures that the repository is completely self-contained and allows new developers to populate their own databases immediately after cloning.
 
-#### To deploy on Streamlit Cloud:
-1. Connect your GitHub repository `jratlee/nyc-chat`.
-2. Point the "Main file path" to **`streamlit_app.py`**.
-3. Add your secrets (`OPENAI_API_KEY`, `NEO4J_URI`, `NEO4J_USER`, `NEO4J_PASSWORD`) to the Streamlit Cloud dashboard.
+#### Repository Architecture:
+The final repository structure is now optimized for scale:
+- `data/xml/`: Contains the source legal data.
+- `database/`: Contains the Neo4j orchestration logic and plugins.
+- `streamlit_app.py`: The security-hardened, hybrid-capable front-door to the platform.
 
 ---
 *Created by Antigravity for False Dawn Industries*
