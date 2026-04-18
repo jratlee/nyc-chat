@@ -38,8 +38,15 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5")
 
 # --- UI SETUP ---
 st.set_page_config(page_title="Talk to NYC", page_icon="🏙️", layout="wide")
-st.title("🏙️ Talk to NYC")
-st.markdown("*NYC Regulatory Intelligence Platform — Powered by Hybrid GraphRAG*")
+
+with st.sidebar:
+    st.title("🏙️ Talk to NYC")
+    st.markdown("*NYC Regulatory Intelligence Platform — Powered by Hybrid GraphRAG*")
+    st.divider()
+    use_web_search = st.toggle("🌐 Enable Live Web Search", value=False, help="Use for extremely recent news, updates, or specific non-legal entities.")
+    st.info("System Status: Operational\n\nDatabase: Local Docker / Remote AuraDB\n\nIntelligence: Hybrid Graph + OpenAI 4o / Ollama")
+
+st.title("🏙️ NYC Regulatory Assistant")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -126,6 +133,10 @@ def perform_web_search(query):
 for msg in st.session_state.messages:
     with st.chat_message(msg["role"]):
         st.markdown(msg["content"])
+        if "citations" in msg:
+            with st.expander("📚 View References & Citations"):
+                for cite in msg["citations"]:
+                    st.markdown(cite)
 
 # Graceful input handling
 if db.driver is None:
@@ -142,9 +153,13 @@ if prompt:
     with st.chat_message("assistant"):
         response_placeholder = st.empty()
         full_response = ""
+        context_nodes = []
+        web_context = ""
         
-        with st.status("🔍 Searching Legal Graph & Web...") as status:
-            # 1. Embed & Hybrid Search
+        # 1. Context Retrieval (Status Block)
+        status_label = "🔍 Searching Legal Graph & Web..." if use_web_search else "🔍 Searching NYC Legal Graph..."
+        with st.status(status_label) as status:
+            # A. Embed & Hybrid Search
             emb = generate_embedding(prompt)
             vector_res = []
             if emb:
@@ -153,7 +168,7 @@ if prompt:
                     {"emb": emb}
                 )
             
-            # 2. Cypher Fallback/Search (FIXED CYPHER INJECTION)
+            # B. Cypher Fallback/Search (FIXED CYPHER INJECTION)
             search_term = prompt[-5:] if len(prompt) >= 5 else prompt
             cypher = """
             MATCH (n) 
@@ -164,23 +179,30 @@ if prompt:
             graph_res = db.query(cypher, {"search_term": search_term})
             context_nodes = vector_res + graph_res
             
-            # 3. Web search if enabled
-            web_context = perform_web_search(prompt)
-            status.update(label="✅ Context Found. Synthesizing Answer...", state="complete")
+            # C. Web search if toggled
+            if use_web_search:
+                web_context = perform_web_search(prompt)
+            
+            status.update(label="✅ Context Retrieved", state="complete")
 
-        # 4. Stream Synthesis
+        # 2. Stream Synthesis (Outside status block)
         history = "\n".join([f"{m['role']}: {m['content']}" for m in st.session_state.messages[-5:]])
         system_prompt = f"""
         You are a helpful NYC legal assistant. 
+        
+        STRICT RULES:
+        1. Explicitly distinguish between information from the NYC Legal Graph and Web Search.
+        2. If Web context is used, prefix those statements with: "According to recent web search outcomes..."
+        3. Always cite node IDs (e.g., 28-320) directly for graph-sourced data.
+        4. Be precise and avoid legal advice.
+        
         HISTORY: {history}
         CONTEXT (Graph): {json.dumps(context_nodes[:5])}
         CONTEXT (Web): {web_context}
-        
-        Answer the question accurately. Cite citation IDs (e.g., 28-320) where available.
         """
         
-        if OPENAI_API_KEY:
-            try:
+        try:
+            if OPENAI_API_KEY:
                 client = OpenAI(api_key=OPENAI_API_KEY)
                 stream = client.chat.completions.create(
                     model="gpt-4o",
@@ -191,19 +213,29 @@ if prompt:
                     if chunk.choices[0].delta.content:
                         full_response += chunk.choices[0].delta.content
                         response_placeholder.markdown(full_response + "▌")
-            except Exception as e:
-                st.error(f"OpenAI Synthesis Error: {e}")
-        elif OLLAMA_AVAILABLE:
-            try:
+            elif OLLAMA_AVAILABLE:
                 stream = ollama.chat(model=OLLAMA_MODEL, messages=[{'role': 'user', 'content': system_prompt + "\n\nUser: " + prompt}], stream=True)
                 for chunk in stream:
                     full_response += chunk['message']['content']
                     response_placeholder.markdown(full_response + "▌")
-            except Exception as e:
-                st.error(f"Ollama Synthesis Error: {e}")
-        else:
-            st.error("No LLM Provider Available. Please configure an OpenAI API Key in Streamlit Secrets for cloud deployment, or install and run Ollama for local execution.")
-            full_response = "Platform Error: No LLM configuration found."
+            else:
+                st.error("No LLM Provider Available. Please configure an OpenAI API Key in Streamlit Secrets for cloud deployment, or install and run Ollama for local execution.")
+                full_response = "Platform Error: No LLM configuration found."
+        except Exception as e:
+            full_response = f"Error: {e}"
             
         response_placeholder.markdown(full_response)
-        st.session_state.messages.append({"role": "assistant", "content": full_response})
+        
+        # 3. Citation Expander
+        citations = []
+        for n in context_nodes:
+            citations.append(f"**{n['id']}**: {n['desc'][:200]}...")
+        if web_context:
+            citations.append(f"**Live Web Findings**:\n{web_context}")
+            
+        if citations:
+            with st.expander("📚 View References & Citations"):
+                for cite in citations:
+                    st.markdown(cite)
+        
+        st.session_state.messages.append({"role": "assistant", "content": full_response, "citations": citations})
