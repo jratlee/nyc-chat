@@ -52,9 +52,26 @@ class LegalGraphClient:
             self.driver.verify_connectivity()
         except Exception as e:
             if "localhost" in NEO4J_URI or "127.0.0.1" in NEO4J_URI:
-                st.error("### ❌ Local Database Not Found\nPlease ensure Docker is running and execute `docker-compose up -d` inside the `database/` directory to start your local Neo4j instance.")
+                st.error("""
+                ### 🛑 Database Connection Failed (Localhost Default)
+                The application is trying to connect to a local database (`localhost:7687`), but it cannot be found.
+                
+                **👉 If you are running this LOCALLY:**
+                Please ensure Docker is running and execute `docker-compose up -d` inside the `database/` directory.
+
+                **👉 If you are running this in the CLOUD (Streamlit Community Cloud):**
+                Streamlit Cloud cannot access your local computer's Docker. You must configure your cloud database credentials:
+                1. Go to your Streamlit App Dashboard -> Settings -> Secrets
+                2. Add your Neo4j AuraDB credentials:
+                ```toml
+                NEO4J_URI = "neo4j+s://<YOUR_AURA_DB_HASH>.databases.neo4j.io"
+                NEO4J_USER = "neo4j"
+                NEO4J_PASSWORD = "<YOUR_SECURE_PASSWORD>"
+                OPENAI_API_KEY = "sk-..."
+                ```
+                """)
             else:
-                st.error("### ❌ Remote Database Connection Failed\nIf deployed on Streamlit Cloud, verify that your Neo4j AuraDB credentials are properly configured in Streamlit Secrets (Advanced Settings).")
+                st.error("### ❌ Remote Database Connection Failed\nVerify your Neo4j AuraDB credentials are correct in Streamlit Secrets, and ensure your AuraDB instance is not paused.")
             st.warning(f"Error Details: {e}")
             self.driver = None
 
@@ -137,7 +154,6 @@ if prompt:
                 )
             
             # 2. Cypher Fallback/Search (FIXED CYPHER INJECTION)
-            # Use query parameters ($search_term) instead of f-strings to protect against injection
             search_term = prompt[-5:] if len(prompt) >= 5 else prompt
             cypher = """
             MATCH (n) 
