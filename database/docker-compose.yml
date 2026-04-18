@@ -1,1 +1,16 @@
-version: '3.8'\nservices:\n  neo4j:\n    image: neo4j:latest\n    container_name: nyc_legal_graph\n    ports:\n      - "7474:7474"\n      - "7687:7687"\n    environment:\n      - NEO4J_AUTH=neo4j/password123\n      - NEO4J_PLUGINS=["apoc"]\n    volumes:\n      - ./data:/data\n      - ./logs:/logs\n      - ./import:/import\n      - ./plugins:/plugins
+version: '3.8'
+services:
+  neo4j:
+    image: neo4j:latest
+    container_name: nyc_legal_graph
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      - NEO4J_AUTH=neo4j/password123
+      - NEO4J_PLUGINS=["apoc"]
+    volumes:
+      - ./data:/data
+      - ./logs:/logs
+      - ./import:/import
+      - ./plugins:/plugins
