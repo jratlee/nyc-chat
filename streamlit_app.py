@@ -39,10 +39,14 @@ OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5")
 # --- UI SETUP ---
 st.set_page_config(page_title="Talk to NYC", page_icon="🏙️", layout="wide")
 
+db = get_db()
+stats_count = db.get_db_stats()
+
 with st.sidebar:
     st.title("🏙️ Talk to NYC")
     st.markdown("*NYC Regulatory Intelligence Platform — Powered by Hybrid GraphRAG*")
     st.divider()
+    st.metric(label="Nodes in Legal Graph", value=f"{stats_count:,}")
     use_web_search = st.toggle("🌐 Enable Live Web Search", value=False, help="Use for extremely recent news, updates, or specific non-legal entities.")
     st.info("System Status: Operational\n\nDatabase: Local Docker / Remote AuraDB\n\nIntelligence: Hybrid Graph + OpenAI 4o / Ollama")
 
@@ -93,6 +97,11 @@ class LegalGraphClient:
                 return [record.data() for record in result]
             except Exception as e:
                 return []
+
+    def get_db_stats(self):
+        """Returns the total number of nodes in the graph."""
+        res = self.query("MATCH (n) RETURN count(n) AS total")
+        return res[0]['total'] if res else 0
 
 @st.cache_resource
 def get_db():
@@ -163,12 +172,14 @@ if prompt:
             emb = generate_embedding(prompt)
             vector_res = []
             if emb:
-                vector_res = db.query(
-                    "CALL db.index.vector.queryNodes('legal_vector_index', 3, $emb) YIELD node, score RETURN node.id as id, node.description as desc, score",
+                raw_vector_res = db.query(
+                    "CALL db.index.vector.queryNodes('legal_vector_index', 5, $emb) YIELD node, score RETURN node.id as id, node.description as desc, node.text as text, score",
                     {"emb": emb}
                 )
+                # Filter for relevance
+                vector_res = [n for n in raw_vector_res if n.get('score', 0) > 0.5][:3]
             
-            # 2. Cypher Fallback/Search (Refined Keyword Matching)
+            # B. Cypher Fallback/Search (Refined Keyword Matching)
             # Strip punctuation and find the longest word for a fuzzy keyword fallback
             clean_prompt = re.sub(r'[^\w\s]', '', prompt)
             words = sorted(clean_prompt.split(), key=len, reverse=True)
@@ -178,7 +189,8 @@ if prompt:
             MATCH (n) 
             WHERE toLower(n.id) CONTAINS toLower($search_term) 
                OR toLower(n.description) CONTAINS toLower($search_term)
-            RETURN n.id as id, n.description as desc 
+               OR toLower(n.text) CONTAINS toLower($search_term)
+            RETURN n.id as id, n.description as desc, n.text as text 
             LIMIT 3
             """
             graph_res = db.query(cypher, {"search_term": search_term})
@@ -247,7 +259,8 @@ if prompt:
                     
                 # Safely grab and strictly cast to string
                 node_id = str(n.get('id') or "Unknown Citation")
-                node_desc = str(n.get('desc') or "No summary available in the legal graph.")
+                # Check desc, then text, then fallback
+                node_desc = str(n.get('desc') or n.get('text') or "No summary available in the legal graph.")
                 
                 # Safely slice string
                 short_desc = node_desc[:250] + "..." if len(node_desc) > 250 else node_desc
