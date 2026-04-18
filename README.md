@@ -2,6 +2,11 @@
 
 A Hybrid GraphRAG platform for navigating the complex web of New York City's Charter, Administrative Code, and Rules.
 
+### Step 1: Create a Neo4j AuraDB Account
+Before deploying, you must have a functional Neo4j database. 
+1. Go to [Neo4j AuraDB](https://neo4j.com/cloud/aura-free/) and create a **Free Tier** instance.
+2. Download the generated credentials `.txt` file. This contains your `NEO4J_URI`, `NEO4J_USER`, and `NEO4J_PASSWORD`.
+
 ## 🚀 Running the App
 
 ### Path A: Local Execution (Development)
@@ -9,7 +14,7 @@ To run the platform locally with full features (including Ollama local fallback)
 
 1. **Start Neo4j**: Ensure Docker is running and launch the database:
    ```bash
-   docker start nyc_legal_graph
+   docker-compose up -d
    ```
 2. **Environment**: Create a `.env` file in the root with your credentials:
    ```text
@@ -18,10 +23,17 @@ To run the platform locally with full features (including Ollama local fallback)
    NEO4J_USER=neo4j
    NEO4J_PASSWORD=your_password
    ```
+   > [!IMPORTANT]
+   > Never commit your `.env` file. It is already included in the `.gitignore`.
+
 3. **Launch Streamlit**:
    ```bash
    streamlit run streamlit_app.py
    ```
+
+### 🔐 Secrets Management
+- **Local Development**: Use a `.env` file. This allows the app to load credentials using `python-dotenv`.
+- **Cloud Deployment**: For platforms like **Streamlit Community Cloud**, go to your app settings -> **Secrets** and paste your credentials in TOML format. **Never** hardcode secrets in your repository.
 
 ### Path B: Streamlit Cloud Deployment
 To host this platform on the web using Streamlit Cloud:

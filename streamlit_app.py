@@ -136,9 +136,16 @@ if prompt:
                     {"emb": emb}
                 )
             
-            # 2. Cypher Fallback/Search
-            cypher = f"MATCH (n) WHERE n.id CONTAINS '{prompt[-5:]}' OR n.id CONTAINS '28-' RETURN n.id as id, n.description as desc LIMIT 3"
-            graph_res = db.query(cypher)
+            # 2. Cypher Fallback/Search (FIXED CYPHER INJECTION)
+            # Use query parameters ($search_term) instead of f-strings to protect against injection
+            search_term = prompt[-5:] if len(prompt) >= 5 else prompt
+            cypher = """
+            MATCH (n) 
+            WHERE n.id CONTAINS $search_term OR n.id CONTAINS '28-' 
+            RETURN n.id as id, n.description as desc 
+            LIMIT 3
+            """
+            graph_res = db.query(cypher, {"search_term": search_term})
             context_nodes = vector_res + graph_res
             
             # 3. Web search if enabled
