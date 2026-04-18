@@ -1,0 +1,6 @@
+streamlit
+neo4j
+openai
+ollama
+duckduckgo-search
+python-dotenv
