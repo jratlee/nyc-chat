@@ -1,0 +1,5 @@
+[tool.pytest.ini_options]
+# Add the repository root to sys.path so tests can import top-level modules
+# (e.g. legal_utils) regardless of how pytest is invoked.
+pythonpath = ["."]
+testpaths = ["tests"]
