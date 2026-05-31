@@ -6,3 +6,17 @@ database/plugins/*.jar
 **/__pycache__/
 .DS_Store
 *:Zone.Identifier
+
+# Python
+.venv/
+venv/
+*.pyc
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+talk-to-nyc/dist/
+dist/
+
+# Runtime cache
+database/query_cache.json

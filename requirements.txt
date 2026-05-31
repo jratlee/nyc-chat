@@ -4,3 +4,7 @@ openai
 ollama
 duckduckgo-search
 python-dotenv
+fastapi
+uvicorn
+pydantic
+mcp

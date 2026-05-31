@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import { API_BASE_URL } from '../config'
 
 const ASSETS = ["Elevator", "Low-Pressure Boiler", "Facade (Pre-War)", "Commercial Kitchen", "Street Tree"]
 
@@ -20,7 +21,7 @@ function Poker() {
         setSelectedAssets(prev => [...prev, asset])
 
         try {
-            const response = await fetch('http://localhost:8005/api/random_penalty')
+            const response = await fetch(`${API_BASE_URL}/api/random_penalty`)
             const penalty = await response.json()
 
             setDealtCards(prev => [...prev, { ...penalty, id: Date.now() }])

@@ -2,6 +2,7 @@ import os
 import re
 import json
 import logging
+from collections import OrderedDict
 from fastapi import FastAPI, HTTPException, BackgroundTasks
 from fastapi.responses import StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -13,6 +14,8 @@ import ollama
 import asyncio
 import time
 from duckduckgo_search import DDGS  # pip install duckduckgo-search
+
+from legal_utils import is_cypher_safe, embedding_matches_index
 
 # Load environment variables
 load_dotenv()
@@ -31,6 +34,11 @@ SYNTHESIS_MODEL = os.getenv("SYNTHESIS_MODEL", "gpt-4o")
 NEO4J_URI = os.getenv("NEO4J_URI", "bolt://localhost:7687")
 NEO4J_USER = os.getenv("NEO4J_USER", "neo4j")
 NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "password123")
+
+# Vector index dimension. Must match the dimension used to build the index in
+# embed_graph.py. OpenAI text-embedding-3-small = 1536. If you build the index
+# with a local Ollama model of a different size, set EMBEDDING_DIM accordingly.
+EMBEDDING_DIM = int(os.getenv("EMBEDDING_DIM", "1536"))
 
 FEW_SHOT_CYPHER_PROMPT = """
 You are a Neo4j Cypher Expert for New York City legal data.
@@ -70,11 +78,20 @@ User Question: {question}
 
 app = FastAPI()
 
-# Enable CORS for the Vite frontend
+# Enable CORS for the Vite frontend.
+# Configurable via CORS_ORIGINS (comma-separated). Useful when the frontend is
+# served from a Codespaces/forwarded URL rather than localhost. Set to "*" to
+# allow any origin (note: incompatible with allow_credentials=True per the spec).
+_raw_origins = os.getenv("CORS_ORIGINS", "http://localhost:3005,http://127.0.0.1:3005")
+ALLOWED_ORIGINS = [o.strip() for o in _raw_origins.split(",") if o.strip()]
+_allow_all = ALLOWED_ORIGINS == ["*"]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3005"],
-    allow_credentials=True,
+    allow_origins=ALLOWED_ORIGINS,
+    allow_origin_regex=os.getenv("CORS_ORIGIN_REGEX") or None,
+    # Credentials cannot be combined with a wildcard origin.
+    allow_credentials=not _allow_all,
     allow_methods=["*"],
     allow_headers=["*"],
 )
@@ -194,7 +211,17 @@ def generate_question_embedding(text: str) -> list[float]:
     # Ollama Embedding Fallback
     try:
         response = ollama.embeddings(model=OLLAMA_MODEL, prompt=text)
-        return response['embedding']
+        embedding = response['embedding']
+        # Guard: the vector index has a fixed dimension. Querying it with a
+        # differently-sized vector (e.g. an Ollama model that does not match
+        # EMBEDDING_DIM) raises a Neo4j error, so skip vector search instead.
+        if not embedding_matches_index(embedding, EMBEDDING_DIM):
+            logger.warning(
+                f"Ollama embedding dim {len(embedding)} != index dim {EMBEDDING_DIM}. "
+                "Skipping vector search; relying on graph/keyword search."
+            )
+            return []
+        return embedding
     except Exception as e:
         logger.error(f"Ollama Embedding Error: {str(e)}")
         return []
@@ -207,9 +234,9 @@ class LegalGraphClient:
         self.driver.close()
 
     def query(self, cypher: str, params: dict = None):
-        # Security Guard: Block destructive commands
-        forbidden = ["DELETE", "DETACH", "REMOVE", "DROP", "CREATE", "MERGE", "SET"]
-        if any(word in cypher.upper() for word in forbidden):
+        # Security Guard: Block destructive commands (whole-word match to avoid
+        # false positives like "asset"/"preset" containing SET).
+        if not is_cypher_safe(cypher):
             logger.warning(f"BLOCKED destructive/writing Cypher query: {cypher}")
             return []
 
@@ -224,17 +251,27 @@ class LegalGraphClient:
 
 db = LegalGraphClient()
 
-import time
-
 # Cache Configuration
+# query_cache is a bounded LRU: oldest entries are evicted once the cap is hit,
+# so the on-disk JSON cannot grow without bound.
 CACHE_FILE = "./database/query_cache.json"
+CACHE_MAX_ENTRIES = int(os.getenv("CACHE_MAX_ENTRIES", "500"))
+
 if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r") as f:
-        query_cache = json.load(f)
+    try:
+        with open(CACHE_FILE, "r") as f:
+            query_cache = OrderedDict(json.load(f))
+    except (json.JSONDecodeError, ValueError):
+        logger.warning("Corrupt query cache; starting fresh.")
+        query_cache = OrderedDict()
 else:
     # Ensure database dir exists
     os.makedirs("./database", exist_ok=True)
-    query_cache = {}
+    query_cache = OrderedDict()
+
+# Trim down to the cap if a previously-unbounded cache was loaded.
+while len(query_cache) > CACHE_MAX_ENTRIES:
+    query_cache.popitem(last=False)
 
 def update_chat_history(session_id: str, user_q: str, bot_a: str):
     if not session_id: return
@@ -248,10 +285,16 @@ def update_chat_history(session_id: str, user_q: str, bot_a: str):
     logger.info(f"Chat history updated for session: {session_id}")
 
 def update_cache_and_history(question: str, data: dict, session_id: str):
-    # Update Cache
+    # Update Cache (LRU): move/insert to most-recent and evict oldest over cap.
     query_cache[question] = data
-    with open(CACHE_FILE, "w") as f:
-        json.dump(query_cache, f)
+    query_cache.move_to_end(question)
+    while len(query_cache) > CACHE_MAX_ENTRIES:
+        query_cache.popitem(last=False)
+    try:
+        with open(CACHE_FILE, "w") as f:
+            json.dump(query_cache, f)
+    except OSError as e:
+        logger.error(f"Failed to persist query cache: {e}")
     # Update History
     update_chat_history(session_id, question, data["response"])
 
@@ -291,6 +334,8 @@ async def handle_query(request: QueryRequest, background_tasks: BackgroundTasks)
     if not session_id:
         cached_response = query_cache.get(question)
         if cached_response:
+            # Mark as most-recently-used so it survives LRU eviction.
+            query_cache.move_to_end(question)
             logger.info(f"Cache hit (SSE) for: {question}")
             async def cached_stream():
                 yield f"data: {cached_response['response']}\n\n"
@@ -324,8 +369,8 @@ async def handle_query(request: QueryRequest, background_tasks: BackgroundTasks)
             
             graph_results = db.query(cypher)
             if not graph_results:
-                 fallback_cypher = f"MATCH (n) WHERE n.id CONTAINS '{question[-5:]}' OR n.id CONTAINS '28-' RETURN n LIMIT 5"
-                 graph_results = db.query(fallback_cypher)
+                 fallback_cypher = "MATCH (n) WHERE n.id CONTAINS $term OR n.id CONTAINS '28-' RETURN n LIMIT 5"
+                 graph_results = db.query(fallback_cypher, params={"term": question[-5:]})
             logger.info(f"Graph search found {len(graph_results)} nodes.")
         except Exception as e:
             logger.error(f"Cypher generation failed: {str(e)}")

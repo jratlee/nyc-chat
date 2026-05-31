@@ -1,5 +1,6 @@
 import os
 import re
+import json
 import xml.etree.ElementTree as ET
 from neo4j import GraphDatabase
 import ollama
@@ -15,6 +16,11 @@ NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "password123")
 
 # Model Configuration
 OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "llama3")
+
+# Ingestion Configuration
+# Max XML files to process per source (NYC1/NYC2/NYC3). Set to 0 (or negative)
+# to process ALL files. Defaults to 20 for a fast demo run.
+MAX_FILES_PER_SOURCE = int(os.getenv("MAX_FILES_PER_SOURCE", "20"))
 
 class LegalGraphExtractor:
     def __init__(self):
@@ -91,9 +97,17 @@ class LegalGraphExtractor:
             # Basic JSON extraction (Llama 3 is usually good at this)
             found = re.search(r'\[.*\]', response['message']['content'], re.DOTALL)
             if found:
-                exceptions = eval(found.group(0)) # Use json.loads in production
+                try:
+                    exceptions = json.loads(found.group(0))
+                except json.JSONDecodeError:
+                    print(f"Could not parse LLM JSON for {section_id}")
+                    return
+                if not isinstance(exceptions, list):
+                    return
                 for ex in exceptions:
-                   self.run_cypher(f"""
+                    if not isinstance(ex, dict):
+                        continue
+                    self.run_cypher(f"""
                         MATCH (s:{section_label} {{ id: $id }})
                         MERGE (e:EXCEPTION {{ description: $desc }})
                         MERGE (s)-[:EXCEPTS]->(e)
@@ -105,31 +119,31 @@ class LegalGraphExtractor:
         except Exception as e:
              print(f"LLM Error for {section_id}: {e}")
 
+    def process_source(self, dir_path, source_type):
+        """Process XML files in a source directory, honoring MAX_FILES_PER_SOURCE."""
+        if not os.path.isdir(dir_path):
+            print(f"Source directory not found, skipping: {dir_path}")
+            return
+        xml_files = sorted(f for f in os.listdir(dir_path) if f.endswith('.xml'))
+        if MAX_FILES_PER_SOURCE > 0:
+            xml_files = xml_files[:MAX_FILES_PER_SOURCE]
+        for f in xml_files:
+            self.extract_hierarchy(os.path.join(dir_path, f), source_type)
+
     def process_all(self):
         # Enforce Hierarchy Setup
         self.run_cypher("CREATE CONSTRAINT IF NOT EXISTS FOR (c:CHARTER_SECTION) REQUIRE c.id IS UNIQUE")
         self.run_cypher("CREATE CONSTRAINT IF NOT EXISTS FOR (a:ADMIN_CODE_SECTION) REQUIRE a.id IS UNIQUE")
         
-        # Process NYC1 (Charter)
-        print("Processing Charter...")
-        charter_path = os.path.join(os.path.dirname(__file__), "data/xml/NYC1/XML")
-        for f in os.listdir(charter_path)[:20]: # Sample 20 for speed in demo
-            if f.endswith('.xml'):
-                self.extract_hierarchy(os.path.join(charter_path, f), "CHARTER")
-        
-        # Process NYC2 (Admin Code)
-        print("Processing Admin Code...")
-        admin_code_path = os.path.join(os.path.dirname(__file__), "data/xml/NYC2/XML")
-        for f in os.listdir(admin_code_path)[:20]:
-            if f.endswith('.xml'):
-                self.extract_hierarchy(os.path.join(admin_code_path, f), "ADMIN_CODE")
-                
-        # Process NYC3 (Rules)
-        print("Processing Rules...")
-        rules_path = os.path.join(os.path.dirname(__file__), "data/xml/NYC3/XML")
-        for f in os.listdir(rules_path)[:20]:
-            if f.endswith('.xml'):
-               self.extract_hierarchy(os.path.join(rules_path, f), "RULES")
+        base = os.path.dirname(__file__)
+        sources = [
+            ("Charter", "data/xml/NYC1/XML", "CHARTER"),
+            ("Admin Code", "data/xml/NYC2/XML", "ADMIN_CODE"),
+            ("Rules", "data/xml/NYC3/XML", "RULES"),
+        ]
+        for label, rel_path, source_type in sources:
+            print(f"Processing {label}...")
+            self.process_source(os.path.join(base, rel_path), source_type)
 
         # Explicitly link Hierarchy: Charter -> Admin Code -> Rules
         # (This usually requires domain knowledge or explicit mapping, but for now we tag them)

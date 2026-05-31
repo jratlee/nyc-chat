@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react'
+import { API_BASE_URL } from '../config'
 
 const MOCK_BOT_RESPONSES = [
     {
@@ -64,7 +65,7 @@ function Chat({ sources, search }) {
         const timeoutId = setTimeout(() => controller.abort(), 180000)
 
         try {
-            const response = await fetch('http://localhost:8005/query', {
+            const response = await fetch(`${API_BASE_URL}/query`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
@@ -102,7 +103,13 @@ function Chat({ sources, search }) {
                             try {
                                 const metadata = JSON.parse(data)
                                 if (metadata.citations) {
-                                    let citationText = `\n\nVerified Citations: ${metadata.citations.map(c => c.n?.id || c.m?.id).filter(id => id).slice(0, 3).join(', ')}`
+                                    // Citations may be flat ({id, desc}) or wrapped ({n: {id}}).
+                                    const getId = c => c?.id || c?.n?.id || c?.m?.id
+                                    const ids = metadata.citations.map(getId).filter(Boolean)
+                                    const uniqueIds = [...new Set(ids)].slice(0, 3)
+                                    let citationText = uniqueIds.length
+                                        ? `\n\nVerified Citations: ${uniqueIds.join(', ')}`
+                                        : ''
                                     setMessages(prev => {
                                         const last = prev[prev.length - 1]
                                         if (last && last.type === 'bot') {

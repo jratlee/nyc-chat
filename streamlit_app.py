@@ -1,38 +1,49 @@
-import streamlit as st
 import os
-import re
 import json
-import time
+from typing import Dict, List, Optional
+
+import streamlit as st
 from neo4j import GraphDatabase
 from openai import OpenAI
 from duckduckgo_search import DDGS
 from dotenv import load_dotenv
+
+from legal_utils import (
+    dedupe_nodes,
+    embedding_matches_index,
+    extract_search_term,
+    is_cypher_safe,
+)
 
 # Safe Ollama Import
 try:
     import ollama
     OLLAMA_AVAILABLE = True
 except ImportError:
+    ollama = None
     OLLAMA_AVAILABLE = False
 
 # Load local .env if it exists
 load_dotenv()
 
 # --- ROBUST CONFIGURATION ---
-def get_secret_or_env(key, default=None):
+def get_secret_or_env(key: str, default: Optional[str] = None) -> Optional[str]:
     """Safely check Streamlit secrets, then environment variables, then default."""
     try:
         val = st.secrets.get(key)
-        if val: return val
+        if val:
+            return val
     except Exception:
         pass
     return os.getenv(key) or default
 
-# THESE MUST BE DEFINED GLOBALLY
-NEO4J_URI = get_secret_or_env("NEO4J_URI", "bolt://localhost:7687")
-NEO4J_USER = get_secret_or_env("NEO4J_USER", "neo4j")
-NEO4J_PASSWORD = get_secret_or_env("NEO4J_PASSWORD", "password123")
-OLLAMA_MODEL = os.getenv("OLLAMA_MODEL", "qwen2.5")
+# THESE MUST BE DEFINED GLOBALLY (always strings thanks to non-None defaults)
+NEO4J_URI: str = get_secret_or_env("NEO4J_URI", "bolt://localhost:7687") or "bolt://localhost:7687"
+NEO4J_USER: str = get_secret_or_env("NEO4J_USER", "neo4j") or "neo4j"
+NEO4J_PASSWORD: str = get_secret_or_env("NEO4J_PASSWORD", "password123") or "password123"
+OLLAMA_MODEL: str = os.getenv("OLLAMA_MODEL", "qwen2.5")
+# Must match the dimension of the Neo4j vector index (built by embed_graph.py).
+EMBEDDING_DIM: int = int(get_secret_or_env("EMBEDDING_DIM", "1536") or "1536")
 
 # --- UI SETUP ---
 # Must be the first Streamlit command
@@ -86,16 +97,17 @@ class LegalGraphClient:
             st.warning(f"Error Details: {e}")
             self.driver = None
 
-    def query(self, cypher: str, params: dict = None):
-        if not self.driver: return []
-        forbidden = ["DELETE", "DETACH", "REMOVE", "DROP", "CREATE", "MERGE", "SET"]
-        if any(word in cypher.upper() for word in forbidden):
+    def query(self, cypher: str, params: Optional[Dict[str, object]] = None) -> List[Dict[str, object]]:
+        if not self.driver:
+            return []
+        # Block writes; allow read-only vector index procedure calls.
+        if not is_cypher_safe(cypher):
             return []
         with self.driver.session() as session:
             try:
                 result = session.run(cypher, params or {})
                 return [record.data() for record in result]
-            except Exception as e:
+            except Exception:
                 return []
 
 @st.cache_resource
@@ -120,12 +132,10 @@ with st.sidebar:
     
     st.info("System Status: Operational\n\nDatabase: Local Docker / Remote AuraDB\n\nIntelligence: Hybrid Graph + OpenAI 4o / Ollama")
 
-st.title("🏙️ NYC Regulatory Assistant")
-
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-def generate_embedding(text):
+def generate_embedding(text: str) -> Optional[List[float]]:
     """
     Prioritize OpenAI embedding, fallback to local Ollama if available.
     """
@@ -136,22 +146,30 @@ def generate_embedding(text):
             return res.data[0].embedding
         except Exception as e:
             st.warning(f"OpenAI Embedding failed: {e}. Checking for Ollama fallback...")
-    
-    if OLLAMA_AVAILABLE:
+
+    if OLLAMA_AVAILABLE and ollama is not None:
         try:
             res = ollama.embeddings(model=OLLAMA_MODEL, prompt=text)
-            return res['embedding']
+            embedding = res['embedding']
+            # Skip vector search if the local model dimension doesn't match the index.
+            if not embedding_matches_index(embedding, EMBEDDING_DIM):
+                st.warning(
+                    f"Ollama embedding dim {len(embedding)} != index dim {EMBEDDING_DIM}. "
+                    "Falling back to keyword/graph search."
+                )
+                return None
+            return embedding
         except Exception as e:
             st.error(f"Ollama Embedding failed: {e}")
-    
+
     return None
 
-def perform_web_search(query):
+def perform_web_search(query: str) -> str:
     try:
         with DDGS() as ddgs:
             results = list(ddgs.text(query, max_results=3))
             return "\n".join([f"- {r['title']} ({r['href']}): {r['body']}" for r in results])
-    except:
+    except Exception:
         return ""
 
 # --- CHAT INTERFACE ---
@@ -193,14 +211,12 @@ if prompt:
                     {"emb": emb}
                 )
                 # Filter for relevance
-                vector_res = [n for n in raw_vector_res if n.get('score', 0) > 0.5][:3]
+                vector_res = [n for n in raw_vector_res if float(n.get('score', 0) or 0) > 0.5][:3]
             
             # B. Cypher Fallback/Search (Refined Keyword Matching)
             # Strip punctuation and find the longest word for a fuzzy keyword fallback
-            clean_prompt = re.sub(r'[^\w\s]', '', prompt)
-            words = sorted(clean_prompt.split(), key=len, reverse=True)
-            search_term = words[0] if words else clean_prompt
-            
+            search_term = extract_search_term(prompt)
+
             cypher = """
             MATCH (n) 
             WHERE toLower(n.id) CONTAINS toLower($search_term) 
@@ -210,14 +226,9 @@ if prompt:
             LIMIT 3
             """
             graph_res = db.query(cypher, {"search_term": search_term})
-            
+
             # Combine and deduplicate context nodes
-            seen_ids = set()
-            context_nodes = []
-            for node in (vector_res + graph_res):
-                if node.get('id') not in seen_ids:
-                    seen_ids.add(node.get('id'))
-                    context_nodes.append(node)
+            context_nodes = dedupe_nodes(vector_res + graph_res)
             
             # C. Web search if toggled
             if use_web_search:
@@ -253,7 +264,7 @@ if prompt:
                     if chunk.choices[0].delta.content:
                         full_response += chunk.choices[0].delta.content
                         response_placeholder.markdown(full_response + "▌")
-            elif OLLAMA_AVAILABLE:
+            elif OLLAMA_AVAILABLE and ollama is not None:
                 stream = ollama.chat(model=OLLAMA_MODEL, messages=[{'role': 'user', 'content': system_prompt + "\n\nUser: " + prompt}], stream=True)
                 for chunk in stream:
                     full_response += chunk['message']['content']
@@ -269,10 +280,8 @@ if prompt:
         # 3. Citation Expander
         with st.expander("📚 View References & Citations"):
             for n in context_nodes:
-                # Ensure n is a dictionary
                 if not isinstance(n, dict):
-                    n = {}
-                    
+                    continue
                 # Safely grab and strictly cast to string
                 node_id = str(n.get('id') or "Unknown Citation")
                 # Check desc, then text, then fallback
