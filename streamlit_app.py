@@ -298,3 +298,15 @@ if prompt:
         
         # We store citations as context_nodes for session history consistency
         st.session_state.messages.append({"role": "assistant", "content": full_response, "citations": context_nodes})
+
+# --- Footer / Attribution ---
+st.markdown("---")
+st.caption(
+    "© 2026 False Dawn Industries · "
+    "[MIT License](https://github.com/jratlee/nyc-chat/blob/main/LICENSE) · "
+    "[README](https://github.com/jratlee/nyc-chat/blob/main/README.md) · "
+    "[Source](https://github.com/jratlee/nyc-chat)\n\n"
+    "NYC legislative XML is public city data provided by the City of New York. "
+    "This tool is for research and exploration only — it is not legal advice "
+    "and is not affiliated with or endorsed by the City of New York."
+)

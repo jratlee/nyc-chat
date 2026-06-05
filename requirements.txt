@@ -1,10 +1,10 @@
-streamlit
-neo4j
-openai
-ollama
-duckduckgo-search
-python-dotenv
-fastapi
-uvicorn
-pydantic
-mcp
+# Pinned for reproducible deploys. Bump versions deliberately.
+streamlit==1.58.0
+neo4j==6.1.0
+openai==2.31.0
+ollama==0.6.1
+duckduckgo-search==8.1.1
+python-dotenv==1.2.2
+fastapi==0.135.3
+uvicorn==0.44.0
+mcp==1.27.0

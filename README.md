@@ -1,5 +1,9 @@
 # Talk to NYC
 
+**In plain English:** Type a question about New York City law — like "Can I keep bees in Queens?" — and get an answer pulled straight from the City Charter, Administrative Code, and Rules, with the exact section numbers so you can check for yourself. No legal jargon required.
+
+---
+
 Talk to NYC is a question-answering system for New York City's legal corpus: the City Charter, the Administrative Code, and the Rules of the City of New York. It reads the official XML versions of those documents, turns them into a searchable knowledge graph, and lets you ask plain-English questions like "Can I keep bees in Queens?" or "What's the fine for not curbing my dog?"
 
 It is built as a Hybrid GraphRAG system, which means it combines two kinds of retrieval before it answers:
@@ -63,8 +67,7 @@ Before deploying you need a working Neo4j database.
 1. Go to [Neo4j AuraDB](https://neo4j.com/cloud/aura-free/) and create a Free Tier instance.
 2. Download the generated credentials `.txt` file. It contains your `NEO4J_URI`, `NEO4J_USER`, and `NEO4J_PASSWORD`.
 
-> [!IMPORTANT]
-> Logging into the Aura console (for example, via Google) is separate from your database connection credentials. The app authenticates with the database password from the downloaded `.txt` file, not your console login. That password is shown only once at creation time. If you lost it, open the instance in the console and use **Reset password**.
+**Important:** Logging into the Aura console (for example, via Google) is separate from your database connection credentials. The app authenticates with the database password from the downloaded `.txt` file, not your console login. That password is shown only once at creation time. If you lost it, open the instance in the console and use **Reset password**.
 
 ## Running the app
 
@@ -87,8 +90,7 @@ To run the platform locally with full features (including the Ollama local fallb
    NEO4J_USER=neo4j
    NEO4J_PASSWORD=your_password
    ```
-   > [!IMPORTANT]
-   > Never commit your `.env` file. It is already listed in `.gitignore`.
+   **Important:** Never commit your `.env` file. It is already listed in `.gitignore`.
 3. Start Neo4j. Make sure Docker is running and launch the database from the `database/` directory:
    ```bash
    docker compose -f database/docker-compose.yml up -d
@@ -98,8 +100,7 @@ To run the platform locally with full features (including the Ollama local fallb
    python3 extract_legal_graph.py
    python3 embed_graph.py
    ```
-   > [!TIP]
-   > By default only the first 20 XML files per source are ingested for a fast demo. Set `MAX_FILES_PER_SOURCE=0` in your `.env` to ingest everything.
+   **Tip:** By default only the first 20 XML files per source are ingested for a fast demo. Set `MAX_FILES_PER_SOURCE=0` in your `.env` to ingest everything.
 5. Launch Streamlit:
    ```bash
    streamlit run streamlit_app.py
@@ -120,8 +121,7 @@ The repo also ships a Vite/React frontend backed by the FastAPI server.
    npm install
    npm run dev
    ```
-   > [!NOTE]
-   > If the frontend is served from a non-localhost origin (for example, Codespaces), set `CORS_ORIGINS` for the API and `VITE_API_BASE_URL` for the frontend so the two can talk.
+   **Note:** If the frontend is served from a non-localhost origin (for example, Codespaces), set `CORS_ORIGINS` for the API and `VITE_API_BASE_URL` for the frontend so the two can talk.
 
 ### Secrets management
 
@@ -188,3 +188,9 @@ pytest -q
 - `tests/`: Pytest unit tests for the pure-logic helpers.
 - `talk-to-nyc/`: Vite/React frontend source.
 - `database/`: Docker Compose for local Neo4j plus the runtime cache.
+
+## License & attribution
+
+© 2026 False Dawn Industries. This project is provided under the [MIT License](LICENSE).
+
+NYC legislative XML is public data published by the City of New York. This project is not affiliated with or endorsed by the City of New York. It is a research and exploration tool — nothing here constitutes legal advice.
