@@ -1,6 +1,6 @@
 # Talk to NYC
 
-**In plain English:** Type a question about New York City law — like "Can I keep bees in Queens?" — and get an answer pulled straight from the City Charter, Administrative Code, and Rules, with the exact section numbers so you can check for yourself. No legal jargon required.
+Type a question about New York City law like "Can I keep bees in Queens?" and get an answer pulled straight from the City Charter, Administrative Code, and Rules, with the exact section numbers so you can check for yourself. No legal jargon required.
 
 ---
 
