@@ -1,9 +1,5 @@
 # Talk to NYC
 
-Type a question about New York City law like "Can I keep bees in Queens?" and get an answer pulled straight from the City Charter, Administrative Code, and Rules, with the exact section numbers so you can check for yourself. No legal jargon required.
-
----
-
 Talk to NYC is a question-answering system for New York City's legal corpus: the City Charter, the Administrative Code, and the Rules of the City of New York. It reads the official XML versions of those documents, turns them into a searchable knowledge graph, and lets you ask plain-English questions like "Can I keep bees in Queens?" or "What's the fine for not curbing my dog?"
 
 It is built as a Hybrid GraphRAG system, which means it combines two kinds of retrieval before it answers:
