@@ -189,4 +189,4 @@ pytest -q
 
 © 2026 False Dawn Industries. This project is provided under the [MIT License](LICENSE).
 
-NYC legislative XML is public data published by the City of New York. This project is not affiliated with or endorsed by the City of New York. It is a research and exploration tool — nothing here constitutes legal advice.
+NYC legislative XML is public data published by the City of New York. This project is not affiliated with or endorsed by the City of New York. It is a research and exploration tool. Nothing here constitutes legal advice.
